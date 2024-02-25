@@ -1,0 +1,14 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 出韻
+
+---
+name: shichiuk.supp
+version: "20240225"
+sort: by_weight
+...
+
+不	peh
+不	puk
+行	yin1

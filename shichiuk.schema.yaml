@@ -1,0 +1,154 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: shichiuk
+  name: 越白
+  version: "20240224"
+  author:
+    - 山前 <i@estela.moe>
+  description: |
+    * 越劇唸白 混蘇州評彈 混紹興音
+    * R/X/Q 代表平上去
+  dependencies:
+    - luna_pinyin #反查
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [漢字, 洋文]
+  - name: full_shape
+    states: [半角, 全角]
+  - name: ascii_punct
+    states: [句讀, 符號]
+  - name: simplification
+    states: [正體, 简体]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: "zyxwvutsrqponmlkjihgfedcba"
+  delimiter: " ';"
+  algebra:
+    # xform/  - 改寫（替換，弗共存）
+    # derive  - 衍生（共存，單向模糊音）
+    # abbrev  - 簡拼（出字優先級傍前兩組低）
+    # fuzz    - 略拼（衹用在組詞，弗出單字）
+    # xlit    - 變換（適合大量个一對一變換）
+    # erase   - 刪除
+    - erase/^xx$/
+    - erase/^0$/
+    - "xform/'//"
+    - xlit|123|rxq|
+    # 平翹不分
+    - xform/(ch?|j|sh|zh)u([rxq])/$1U$2/
+    - derive/c([^i])/tz$1/
+    - derive/ch([^i])/ts$1/
+    - derive/j([^i])/dz$1/
+    - derive/sh([^i])/s$1/
+    - derive/zh([^i])/z$1/
+    - xform/(tz|ts|dz|s|z)U/$1yu/
+    - xform/U/u/
+    - derive/(ch?|j|sh|zh)u([rxq])/$1yu/
+
+    - derive/ah/ak/ # 襪麥不分
+    - derive/iah/ih/ # 屑息不分
+    - derive/oh/eh/ # 說式不分
+    - derive/uoh/ueh/
+    - derive/ioh/iuh/
+    - derive/iuk/iuh/
+
+    - derive/yah/yih/
+    - derive/woh/weh/
+    - derive/yoh/yuh/
+    - derive/yuk/yuh/
+
+    - derive/ung/ong/ #拼法兼容
+    - derive/uk/ok/
+    - derive/ian/ien/
+    - derive/iah/ieh/
+    - derive/nyi/ni/
+
+    # 弗打聲調
+    - derive/([rxq])$//
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([ptkgszc]h).+$/$1/
+    - abbrev/^(ts|tz|dz|ng).+$/$1/
+
+translator:
+  dictionary: shichiuk
+  spelling_hints: 5
+  preedit_format: &tone
+    - xlit|rxq|123|
+    - xform/([aeiou])(ng|n|l)([123])/$1$3$2/
+    - xform/([aeo])([eiu])([123])/$1$3$2/
+    - xform/a1/ǎ/
+    - xform/a2/à/
+    - xform/a3/á/
+    - xform/e1/ě/
+    - xform/e2/è/
+    - xform/e3/é/
+    - xform/o1/ǒ/
+    - xform/o2/ò/
+    - xform/o3/ó/
+    - xform/i1/ǐ/
+    - xform/i2/ì/
+    - xform/i3/í/
+    - xform/u1/ǔ/
+    - xform/u2/ù/
+    - xform/u3/ú/
+    - xform/y1/y̌/
+    - xform/y2/ỳ/
+    - xform/y3/ý/
+    - xform/ng1/ňg/
+    - xform/ng2/ǹg/
+    - xform/ng3/ńg/
+    - xform/m1/m̌/
+    - xform/m2/m̀/
+    - xform/m3/ḿ/
+    - "xform/;/'/"
+  comment_format: *tone
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: "'"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([0-9]0?|[A-Za-z]+)$"
+    reverse_lookup: "`[a-z]*'?$"
