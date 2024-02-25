@@ -110,7 +110,7 @@ import_tables:
 㔏	lih
 㔒	yi1
 㔓	cian2
-㔗	ve3
+㔗	vi3
 㔙	pen1
 㔝	liang2
 㔞	khua1
@@ -203,7 +203,7 @@ import_tables:
 㗻	gho1
 㗻	ko1
 㗼	yah
-㗾	shia1
+㗾	shio1
 㗿	ho2
 㗿	shia2
 㗿	shia3
@@ -285,7 +285,7 @@ import_tables:
 㛂	gho2
 㛂	no2
 㛄	i1
-㛅	ghel3
+㛅	el3
 㛆	to3
 㛍	chiah
 㛍	shiah
@@ -331,7 +331,7 @@ import_tables:
 㜲	yin1
 㜳	wa1
 㜵	nyiau2
-㜷	me1
+㜷	mi1
 㜸	yah
 㜺	dzan3
 㜺	tzan3
@@ -516,7 +516,7 @@ import_tables:
 㣁	be3
 㣂	gheh
 㣅	dzon3
-㣆	me1
+㣆	mi1
 㣇	di3
 㣇	yi3
 㣈	sy3
@@ -564,7 +564,7 @@ import_tables:
 㤩	khuk
 㤮	kuang3
 㤮	wang3
-㤱	feu2
+㤱	fu2
 㤱	fu3
 㤲	chiah
 㤴	choh
@@ -591,7 +591,7 @@ import_tables:
 㥚	yu2
 㥛	cih
 㥜	we3
-㥝	me2
+㥝	mi2
 㥟	ya1
 㥠	siu1
 㥠	siu2
@@ -635,7 +635,7 @@ import_tables:
 㦴	keh
 㦵	cu1
 㦺	zhuk
-㦼	sang3
+㦼	suang3
 㦿	chian2
 㧀	jih
 㧁	chiu3
@@ -731,7 +731,7 @@ import_tables:
 㩵	ngoh
 㩹	diah
 㩺	be3
-㩺	phe1
+㩺	phi1
 㩻	chi1
 㩻	kue3
 㩼	cu1
@@ -863,7 +863,7 @@ import_tables:
 㮭	yan1
 㮯	wen1
 㮯	wen3
-㮰	be1
+㮰	bi1
 㮰	biah
 㮲	tseu1
 㮴	sau1
@@ -875,6 +875,7 @@ import_tables:
 㯃	tsih
 㯄	cu1
 㯅	be1
+㯅	bi1
 㯅	pi1
 㯉	chu1
 㯊	ghen1
@@ -1066,15 +1067,15 @@ import_tables:
 㵎	cian3
 㵐	chioh
 㵑	gho3
-㵒	ve3
+㵒	vi3
 㵗	bin1
 㵝	yi3
 㵞	dzeu1
 㵟	me1
-㵟	ve1
+㵟	vi1
 㵣	khoh
 㵧	koh
-㵨	phe3
+㵨	phi3
 㵩	yi3
 㵫	nyih
 㵺	pha3
@@ -1114,7 +1115,7 @@ import_tables:
 㷄	hue2
 㷄	kuon3
 㷅	tsah
-㷆	veu3
+㷆	vu3
 㷇	khue1
 㷉	ue3
 㷒	yu1
@@ -1164,7 +1165,7 @@ import_tables:
 㹂	chian2
 㹂	yah
 㹂	yan3
-㹃	fe3
+㹃	fi3
 㹄	tzih
 㹉	yon1
 㹊	yuk
@@ -1285,10 +1286,10 @@ import_tables:
 㼹	chiang1
 㼹	khang1
 㼺	dang1
-㼻	dzang1
+㼻	dzuang1
 㼻	dzung1
-㼽	sang2
-㼽	tsang2
+㼽	suang2
+㼽	tsuang2
 㼾	luk
 㼿	cung3
 㼿	dung1
@@ -1321,7 +1322,7 @@ import_tables:
 㽲	shieu2
 㽳	shiu1
 㽴	jang3
-㽵	tzang1
+㽵	tzuang1
 㽷	shue3
 㽸	zhen1
 㽹	fan3
@@ -1447,7 +1448,7 @@ import_tables:
 䀙	tsi3
 䀛	ma3
 䀛	moh
-䀟	ve3
+䀟	vi3
 䀠	ciu1
 䀠	ciu3
 䀡	chon3
@@ -1526,7 +1527,7 @@ import_tables:
 䁵	pian2
 䁷	ciuk
 䁷	uk
-䁸	nang1
+䁸	nuang1
 䁺	sheh
 䁻	shak
 䁽	liah
@@ -1590,9 +1591,9 @@ import_tables:
 䃸	sian3
 䃺	mo3
 䃽	kue2
-䃾	be3
-䃾	pe2
-䃾	pe3
+䃾	bi3
+䃾	pi2
+䃾	pi3
 䃿	fu1
 䄃	iang1
 䄆	kuah
@@ -1604,7 +1605,7 @@ import_tables:
 䄓	wang1
 䄘	ben1
 䄚	dzau1
-䄝	tsang1
+䄝	tsuang1
 䄠	zhon3
 䄤	la3
 䄩	yih
@@ -1629,7 +1630,7 @@ import_tables:
 䅊	dza3
 䅊	tza1
 䅌	cion1
-䅏	ve2
+䅏	vi2
 䅑	sue1
 䅑	zhue1
 䅓	ciu2
@@ -1669,7 +1670,7 @@ import_tables:
 䆊	dzue3
 䆍	lung1
 䆎	sian3
-䆏	ve3
+䆏	vi3
 䆑	dzen1
 䆕	ioh
 䆘	iah
@@ -1680,7 +1681,7 @@ import_tables:
 䆟	khoh
 䆢	ioh
 䆨	nyin1
-䆫	tsang1
+䆫	tsuang1
 䆱	than1
 䆱	than3
 䆵	dzen1
@@ -1723,7 +1724,7 @@ import_tables:
 䈃	cau2
 䈄	ghon1
 䈇	tzau3
-䈈	ve1
+䈈	vi1
 䈉	sah
 䈉	tziah
 䈋	thoh
@@ -1779,7 +1780,7 @@ import_tables:
 䉛	iuk
 䉞	ton2
 䉠	me1
-䉠	ve1
+䉠	vi1
 䉢	seh
 䉣	sia3
 䉥	sung2
@@ -1797,7 +1798,7 @@ import_tables:
 䉳	sian2
 䉴	zhang1
 䉵	dzuon3
-䉶	sang1
+䉶	suang1
 䉷	yan1
 䉹	lin1
 䉺	ghung1
@@ -1808,9 +1809,9 @@ import_tables:
 䊆	jieu3
 䊈	me1
 䊉	son2
-䊊	ve3
-䊋	tzang1
-䊋	tzang3
+䊊	vi3
+䊋	tzuang1
+䊋	tzuang3
 䊎	chion2
 䊓	ju3
 䊓	zhu3
@@ -1823,8 +1824,8 @@ import_tables:
 䊤	don1
 䊤	don3
 䊦	iah
-䊧	fe3
-䊧	phe3
+䊧	fi3
+䊧	phi3
 䊫	tsue2
 䊬	tsa2
 䊭	dau3
@@ -1840,7 +1841,7 @@ import_tables:
 䋎	dzan3
 䋐	yoh
 䋖	yuh
-䋙	ghel2
+䋙	el2
 䋛	mi2
 䋟	ji3
 䋢	phiah
@@ -1854,8 +1855,8 @@ import_tables:
 䋱	le1
 䋵	i3
 䋵	lah
-䋷	meu1
 䋷	mieu1
+䋷	mu1
 䋸	zin1
 䋻	nyin1
 䋼	thin1
@@ -1895,8 +1896,8 @@ import_tables:
 䍊	ciau1
 䍌	beu1
 䍌	beu3
-䍌	veu1
-䍍	feu1
+䍌	vu1
+䍍	fu1
 䍍	kheu3
 䍍	khuk
 䍎	tsen3
@@ -1905,8 +1906,8 @@ import_tables:
 䍐	hon3
 䍔	kuang1
 䍖	phau1
-䍖	veu1
-䍘	me1
+䍖	vu1
+䍘	mi1
 䍙	me1
 䍙	me3
 䍙	vu2
@@ -1957,7 +1958,7 @@ import_tables:
 䎗	jiau1
 䎘	suk
 䎙	phin1
-䎠	ghel1
+䎠	el1
 䎠	no1
 䎠	won1
 䎤	jiuk
@@ -1966,13 +1967,13 @@ import_tables:
 䎨	iah
 䎩	tzu1
 䎪	neh
-䎫	tsang1
-䎫	tsang3
+䎫	tsuang1
+䎫	tsuang3
 䎮	thi3
 䎯	hon3
 䎰	dzuk
 䎳	wah
-䎶	ghel3
+䎶	el3
 䎷	cu3
 䎷	fu3
 䎸	wu3
@@ -2003,7 +2004,7 @@ import_tables:
 䏣	tsiu3
 䏧	na3
 䏨	hue2
-䏪	ghel3
+䏪	el3
 䏰	zhen3
 䏳	coh
 䏵	mung2
@@ -2072,6 +2073,7 @@ import_tables:
 䑂	ghe2
 䑃	mung1
 䑄	be3
+䑄	bi3
 䑄	phe3
 䑇	ceh
 䑈	puk
@@ -2105,7 +2107,7 @@ import_tables:
 䒀	fu1
 䒁	zih
 䒆	choh
-䒈	ve3
+䒈	vi3
 䒉	vu2
 䒊	shi1
 䒌	min3
@@ -2208,7 +2210,7 @@ import_tables:
 䔾	chi3
 䔾	ghoh
 䔿	tzen2
-䕁	fe2
+䕁	fi2
 䕃	in3
 䕄	cen1
 䕅	sau2
@@ -2266,7 +2268,7 @@ import_tables:
 䖳	dza3
 䖵	kuen1
 䖶	hue1
-䖹	me2
+䖹	mi2
 䖻	lieu1
 䗁	chi1
 䗁	ji3
@@ -2304,7 +2306,7 @@ import_tables:
 䗷	ih
 䗽	vi3
 䗿	nyin2
-䘀	veu3
+䘀	vu3
 䘃	meh
 䘄	cu3
 䘅	neh
@@ -2371,8 +2373,8 @@ import_tables:
 䚈	cion3
 䚋	yun3
 䚌	kau1
-䚎	tsang1
-䚎	tsang3
+䚎	tsuang1
+䚎	tsuang3
 䚐	dzih
 䚐	thih
 䚔	phin3
@@ -2404,7 +2406,7 @@ import_tables:
 䚴	wah
 䚷	i1
 䚷	i2
-䚹	phe2
+䚹	phi2
 䚻	yeu1
 䛄	ion2
 䛄	ion3
@@ -2414,7 +2416,7 @@ import_tables:
 䛋	ji3
 䛋	tsy3
 䛌	dau1
-䛍	fe3
+䛍	fi3
 䛎	shioh
 䛕	yu1
 䛗	cu2
@@ -2476,7 +2478,7 @@ import_tables:
 䜽	yu1
 䜾	in1
 䝁	lau1
-䝄	sang1
+䝄	suang1
 䝋	tzung3
 䝍	ciun3
 䝏	leu1
@@ -2514,7 +2516,7 @@ import_tables:
 䞈	kue3
 䞋	tsin3
 䞓	chen1
-䞔	ve2
+䞔	vi2
 䞕	zhu1
 䞗	tsa1
 䞗	tse1
@@ -2579,7 +2581,7 @@ import_tables:
 䟘	kang2
 䟙	tsiah
 䟛	boh
-䟛	fe3
+䟛	fi3
 䟝	theu3
 䟠	shioh
 䟡	ti3
@@ -2606,7 +2608,7 @@ import_tables:
 䠇	ciuh
 䠇	jiuh
 䠈	theh
-䠊	ve3
+䠊	vi3
 䠍	ya1
 䠐	chiuk
 䠑	khue2
@@ -2669,7 +2671,7 @@ import_tables:
 䡲	dzan1
 䡲	dzon1
 䡴	chung1
-䡴	dzang3
+䡴	dzuang3
 䡵	zue3
 䡼	lin1
 䡽	tzuon1
@@ -2745,7 +2747,7 @@ import_tables:
 䣩	zhen1
 䣪	phoh
 䣮	boh
-䣵	ghel3
+䣵	el3
 䣵	nyi3
 䣸	zhon2
 䣹	vah
@@ -2803,13 +2805,13 @@ import_tables:
 䥝	au1
 䥡	diah
 䥢	lung1
-䥩	ve1
+䥩	vi1
 䥯	ba3
 䥰	men1
 䥵	ciau2
 䥵	shiau2
 䥶	lih
-䥸	me1
+䥸	mi1
 䦈	tzia1
 䦋	ngau1
 䦌	chu3
@@ -2830,7 +2832,7 @@ import_tables:
 䦲	chon3
 䦲	yan1
 䦳	shiang3
-䦵	me2
+䦵	mi2
 䦵	nyi2
 䦺	tin1
 䦼	phih
@@ -2846,7 +2848,7 @@ import_tables:
 䧘	juon3
 䧜	dang1
 䧞	ma3
-䧞	veu3
+䧞	vu3
 䧢	chiu1
 䧤	puk
 䧦	hue1
@@ -2865,7 +2867,7 @@ import_tables:
 䨑	di1
 䨒	yu3
 䨕	iu1
-䨗	veu1
+䨗	vu1
 䨘	sian3
 䨛	seh
 䨞	yu2
@@ -2885,9 +2887,9 @@ import_tables:
 䨻	ben3
 䨼	wu3
 䨽	be3
-䨽	fe2
-䨾	ve3
-䩁	fe1
+䨽	fi2
+䨾	vi3
+䩁	fi1
 䩂	shian1
 䩃	zhu3
 䩆	tzan2
@@ -2978,7 +2980,7 @@ import_tables:
 䪼	cuoh
 䪾	cen2
 䫀	ken2
-䫁	be3
+䫁	bi3
 䫂	to2
 䫄	tsuoh
 䫅	son3
@@ -3018,8 +3020,8 @@ import_tables:
 䫨	ngau3
 䫩	son2
 䫩	tson2
-䫪	sang2
-䫪	tsang2
+䫪	suang2
+䫪	tsuang2
 䫬	cen2
 䫲	hon2
 䫲	hon3
@@ -3044,7 +3046,7 @@ import_tables:
 䬇	yon3
 䬉	huk
 䬊	sah
-䬌	feu1
+䬌	fu1
 䬍	hueh
 䬍	shiuh
 䬎	kuk
@@ -3057,7 +3059,7 @@ import_tables:
 䬞	dau1
 䬞	jeu1
 䬟	lieu1
-䬠	fe1
+䬠	fi1
 䬡	cu3
 䬦	teu3
 䬧	yon1
@@ -3077,7 +3079,7 @@ import_tables:
 䬽	lue3
 䬽	shue3
 䬾	di1
-䬿	ve2
+䬿	vi2
 䭁	cu3
 䭂	ih
 䭃	zhen2
@@ -3149,7 +3151,7 @@ import_tables:
 䮻	tau2
 䮽	luk
 䮾	bung1
-䮾	lang1
+䮾	luang1
 䯂	dzeh
 䯂	sin1
 䯇	khuah
@@ -3245,10 +3247,10 @@ import_tables:
 䱎	ken3
 䱏	theu2
 䱐	fu1
-䱐	veu1
+䱐	vu1
 䱒	iah
 䱔	yeu1
-䱕	meu1
+䱕	mu1
 䱖	lieu1
 䱗	tsan1
 䱚	luk
@@ -3318,7 +3320,7 @@ import_tables:
 䳐	tsy3
 䳑	yeu2
 䳔	ciuk
-䳕	veu1
+䳕	vu1
 䳖	nyiah
 䳚	khe3
 䳚	khoh
@@ -3374,7 +3376,7 @@ import_tables:
 䴺	beu3
 䴻	li1
 䴼	tsan3
-䴽	be1
+䴽	bi1
 䴽	pe1
 䴾	dzo1
 䴿	mung1
@@ -3483,8 +3485,8 @@ import_tables:
 下	ya3	3%
 丌	ci1
 不	feh
-不	feu1	2%
-不	feu2	2%
+不	fu1	2%
+不	fu2	2%
 与	yu2
 丏	mian2
 丐	ke3
@@ -3567,7 +3569,7 @@ import_tables:
 予	yu2
 事	dzu3
 事	tzu3	2%
-二	ghel3
+二	el3
 亍	chuk
 亍	cu3
 于	shiu1	1%
@@ -3604,7 +3606,7 @@ import_tables:
 亳	buk
 亶	tan2
 亹	men1
-亹	ve2
+亹	vi2
 人	zhen1
 亻	zhen1
 亼	dzih
@@ -3655,9 +3657,9 @@ import_tables:
 仰	yang2
 仰	yang3
 仲	jung3
-仳	be1
 仳	be3
-仳	phe2
+仳	bi1
+仳	phi2
 仵	wu2
 件	jian3
 价	cia3
@@ -3773,7 +3775,7 @@ import_tables:
 佰	meh
 佰	peh
 佳	cia1
-佴	ghel3
+佴	el3
 佴	ne3
 併	ben3
 併	bin3
@@ -3811,13 +3813,13 @@ import_tables:
 侊	kuang1
 例	li3
 侍	zhu3
-侎	me2
+侎	mi2
 侏	cu1
 侐	hue3
 侐	shiuk
 侑	yeu3
 侒	on1
-侔	meu1
+侔	mu1
 侖	len1
 侗	dung1
 侗	dung3
@@ -3906,7 +3908,7 @@ import_tables:
 俺	ian3	2%
 俺	ngon2
 俻	be3
-俾	pe2
+俾	pi2
 倀	chang1
 倀	tzen3
 倂	pin3
@@ -4014,7 +4016,7 @@ import_tables:
 偡	dzan3
 偤	yeu1
 健	jian3
-偩	veu3
+偩	vu3
 偪	fuk
 偪	pih
 偬	tzung2
@@ -4094,7 +4096,7 @@ import_tables:
 傶	tzuk
 傷	shang1
 傷	shang3
-傸	tsang2
+傸	tsuang2
 傺	chu3
 傻	sa2
 傻	sa3
@@ -4156,7 +4158,7 @@ import_tables:
 僬	tziau3
 僭	tzian3
 僮	dung1
-僮	dzang3	2%
+僮	dzuang3	2%
 僯	lin2
 僰	buk
 僱	ku3
@@ -4260,7 +4262,7 @@ import_tables:
 克	kheh
 兌	due3
 免	mian2
-兒	ghel1
+兒	el1
 兒	yi1	2%
 兓	tzin1
 兔	thu3
@@ -4319,7 +4321,7 @@ import_tables:
 冗	zhung2
 冘	yeu1
 冘	yin1
-冞	me1
+冞	mi1
 冟	sheh
 冠	kuon1
 冠	kuon3	50%
@@ -4425,11 +4427,11 @@ import_tables:
 别	piah
 刮	kuah
 到	tau3
-刱	tsang3
+刱	tsuang3
 刲	chi1
 刳	khu1
 刴	to3
-刵	ghel3
+刵	el3
 制	cu3
 刷	suoh
 券	chion3
@@ -4453,7 +4455,7 @@ import_tables:
 剌	lah
 前	dzian1
 剎	tsah
-剏	tsang3
+剏	tsuang3
 剒	tsuk
 剔	thih
 剖	fu2
@@ -4486,8 +4488,8 @@ import_tables:
 割	koh
 剴	ke1
 剴	nge1
-創	tsang1
-創	tsang3
+創	tsuang1
+創	tsuang3
 剶	chuon1
 剶	tzian1
 剷	tsan2
@@ -4547,7 +4549,7 @@ import_tables:
 劮	yih
 劵	chion3
 効	yau3
-劺	meu1
+劺	mu1
 劻	khuang1
 劼	chiah
 劾	chia3	20%
@@ -4628,7 +4630,7 @@ import_tables:
 匐	vuk
 匑	khung1
 匑	kung1
-匕	pe2
+匕	pi2
 化	hua3
 北	puk
 匘	nau2
@@ -4644,7 +4646,7 @@ import_tables:
 匥	bian3
 匧	chiah
 匨	tzang1
-匪	fe2
+匪	fi2
 匫	hueh
 匭	kue2
 匯	khua1	2%
@@ -4679,7 +4681,7 @@ import_tables:
 半	pon3
 卌	sih
 卍	van3
-卑	pe1
+卑	pi1
 卒	tseh	20%
 卒	tzeh
 卒	tzih	20%
@@ -4859,11 +4861,11 @@ import_tables:
 吟	yin3
 吠	vi3
 吡	bih
-吡	phe2
+吡	phi2
 吢	tsin3
 吣	tsin3
 否	be3	30%
-否	feu2
+否	fu2
 吧	pa1
 吧	pha1	2%
 吨	then2
@@ -4929,7 +4931,7 @@ import_tables:
 呱	ku1
 呲	dzy1
 呲	tzy1
-味	ve3
+味	vi3
 呴	heu2
 呴	shiu3
 呵	ho1
@@ -4980,8 +4982,8 @@ import_tables:
 咟	ghuk
 咠	tsih
 咠	tzih
-咡	ghel1
-咡	ghel3
+咡	el1
+咡	el3
 咢	nguk
 咣	kuang1
 咤	tza1
@@ -4992,10 +4994,9 @@ import_tables:
 咦	shi1
 咧	liah
 咨	tzy1
-咩	me2
 咩	mi2
-咪	me2
 咪	mi1
+咪	mi2
 咫	cu2
 咬	ciau1
 咬	iau1
@@ -5049,7 +5050,7 @@ import_tables:
 哏	ghen1
 哐	khuang1
 哚	to2
-哞	meu1
+哞	mu1
 員	yon1
 員	yun1	10%
 員	yun3	10%
@@ -5077,8 +5078,8 @@ import_tables:
 哵	pah
 哶	mi2
 哷	liah
-哹	feu1
-哹	veu1
+哹	fu1
+哹	vu1
 哺	bu3
 哼	hen1
 哽	ken2
@@ -5117,7 +5118,7 @@ import_tables:
 唯	vi2
 唰	suoh
 唱	chang3
-唲	ghel1
+唲	el1
 唳	li3
 唳	liah
 唴	chiang3
@@ -5175,7 +5176,7 @@ import_tables:
 啟	chi2
 啡	phe2
 啣	yan1
-啤	be1
+啤	bi1
 啥	zhe3
 啦	lah
 啪	pheh
@@ -5386,7 +5387,7 @@ import_tables:
 噅	hue1
 噆	tson2
 噆	tzoh
-噇	dzang1
+噇	dzuang1
 噈	tzuk
 噉	dan3
 噊	yuh
@@ -5419,7 +5420,7 @@ import_tables:
 噣	teu3
 噣	tzuk
 噤	jin3
-噥	nang1
+噥	nuang1
 噥	nung1
 噦	hue3
 噦	ioh
@@ -5524,14 +5525,14 @@ import_tables:
 囦	ion1
 囧	ciung2
 囩	yun1
-囪	tsang1
+囪	tsuang1
 囪	tsung1
 囫	hueh
 园	won1
 囮	gho1
 囮	yeu1
 困	khuen3
-囱	tsang1
+囱	tsuang1
 囱	tsung1
 囷	chiun1
 囹	lin1
@@ -5613,7 +5614,7 @@ import_tables:
 坐	dzo3
 坐	dzo3	10%
 坑	khen1
-坒	be3
+坒	bi3
 坒	bih
 坡	pho1
 坢	phon2
@@ -5716,7 +5717,7 @@ import_tables:
 埡	u2
 埡	u3
 埢	cion2
-埤	be1
+埤	bi1
 埧	jiu3
 埩	dzen1
 埩	tzen1
@@ -5785,14 +5786,14 @@ import_tables:
 堤	ti2
 堤	zhu1
 堥	mau1
-堥	meu1
+堥	mu1
 堦	cia1
 堧	no3
 堧	zhuon1
 堨	oh
 堩	ken3
 堪	khon1
-堫	tsang1
+堫	tsuang1
 堫	tzung1
 堬	yu1
 堭	wang1
@@ -5859,7 +5860,7 @@ import_tables:
 塺	me1
 塺	mo3
 塻	muk
-塽	sang2
+塽	suang2
 塾	zhuk
 塿	leu2
 墀	ju1
@@ -5952,7 +5953,7 @@ import_tables:
 壩	pa3
 士	dzu3
 壬	zhen1
-壯	tzang3
+壯	tzuang3
 壴	cu3
 壷	wu1
 壹	ih
@@ -6046,7 +6047,7 @@ import_tables:
 套	thau3
 奘	dzang3
 奚	yi1
-奜	fe2
+奜	fi2
 奝	tiau1
 奞	siau1
 奞	sin3
@@ -6091,7 +6092,7 @@ import_tables:
 妁	zhak
 如	zhu1
 如	zhu3
-妃	fe1
+妃	fi1
 妃	phe3	5%
 妄	vang3
 妉	ton1
@@ -6115,13 +6116,13 @@ import_tables:
 妙	miau3
 妛	chu1
 妜	ioh
-妝	tzang1
+妝	tzuang1
 妞	nyieu2
 妠	noh
 妠	non3
 妠	nuoh
 妢	ven1
-妣	pe2
+妣	pi2
 妤	yu1
 妥	tho2
 妦	fung1
@@ -6231,7 +6232,7 @@ import_tables:
 娑	so1
 娑	so2
 娓	me3
-娓	ve2
+娓	vi2
 娔	kheh
 娕	tsuk
 娖	tsuk
@@ -6290,7 +6291,7 @@ import_tables:
 婏	fu3
 婐	kua1
 婐	o2
-婓	fe1
+婓	fi1
 婔	we1
 婕	tziah
 婗	yi1
@@ -6301,12 +6302,12 @@ import_tables:
 婠	kuon3
 婠	uah
 婠	uon1
-婢	be3
+婢	bi3
 婣	in1
 婤	ceu1
 婤	cheu1
 婥	chak
-婦	veu3
+婦	vu3
 婧	dzin3
 婧	tzin1
 婪	lan1
@@ -6319,7 +6320,7 @@ import_tables:
 婹	iau2
 婺	vu3
 婼	chak
-婼	ghel1
+婼	el1
 婼	zhe1
 婽	cia2
 婿	si3
@@ -6353,7 +6354,7 @@ import_tables:
 媠	tho2
 媢	mau2
 媢	mau3
-媢	me3
+媢	mi3
 媢	muk
 媣	kon1
 媥	phian1
@@ -6504,7 +6505,7 @@ import_tables:
 嬾	lan2
 嬿	ian2
 嬿	ian3
-孀	sang1
+孀	suang1
 孁	lin1
 孂	cian2
 孂	ciau2
@@ -6639,7 +6640,7 @@ import_tables:
 寍	nyin1
 寎	pin3
 寏	won1
-寐	me3
+寐	mi3
 寑	tsin2
 寒	ghon1
 寓	yu3
@@ -6697,8 +6698,8 @@ import_tables:
 尐	tziah
 少	shau2
 少	shau3	70%
-尒	ghel2
-尔	ghel2
+尒	el2
+尔	el2
 尕	cia2
 尖	tzian1
 尗	shuk
@@ -6732,11 +6733,11 @@ import_tables:
 尺	cheh
 尻	khau1
 尼	nyi1
-尾	ve2
+尾	vi2
 尿	nyiau3
 局	jiuk
-屁	phe3
-屄	pe1
+屁	phi3
+屄	pi1
 居	ci1	1%
 居	ciu1	99%
 屆	cia3
@@ -6763,7 +6764,7 @@ import_tables:
 屙	o1
 屚	leu3
 屜	thi3
-屝	ve3
+屝	vi3
 属	cuk
 属	zhuk
 屟	siah
@@ -6833,7 +6834,7 @@ import_tables:
 峇	khoh
 峉	gheh
 峋	sin1
-峏	ghel1
+峏	el1
 峐	ke1
 峑	tsian1
 峒	dung1
@@ -6896,7 +6897,7 @@ import_tables:
 崤	ghau1
 崤	yau1
 崥	bi1
-崥	pe2
+崥	pi2
 崦	ian1
 崧	sung1
 崨	dziah
@@ -7158,8 +7159,8 @@ import_tables:
 幟	shu3
 幠	hu1
 幡	fan1
-幢	dzang1
-幢	dzang3
+幢	dzuang1
+幢	dzuang3
 幣	bi3
 幦	mih
 幧	tsau1
@@ -7194,14 +7195,14 @@ import_tables:
 幾	ji1	5%
 幾	ji3	5%
 广	yan2
-庀	phe2
+庀	phi2
 庁	thin1
 庄	ben1
-庇	pe3
+庇	pi3
 庈	jin1
 庉	den1
 庉	den3
-床	dzang1
+床	dzuang1
 庋	ci2
 庋	kue2
 庌	ya1
@@ -7237,7 +7238,7 @@ import_tables:
 庱	chen1
 庱	chen2
 庲	le1
-庳	be3
+庳	bi3
 庴	dzih
 庴	tzih
 庵	oh	0%
@@ -7324,7 +7325,7 @@ import_tables:
 弊	bi3
 弋	yih
 弌	ih
-弍	ghel3
+弍	el3
 弎	san1
 式	sheh
 弑	shu3
@@ -7347,14 +7348,14 @@ import_tables:
 弢	thau1
 弣	fu2
 弤	ti2
-弥	me1
+弥	mi1
 弦	yan1
 弧	wu1
 弨	chau1
 弨	chau2
 弩	nu2
 弬	yi1
-弭	me2
+弭	mi2
 弮	chion1
 弮	cion3
 弰	sau1
@@ -7387,7 +7388,7 @@ import_tables:
 彊	jiang3
 彋	ghung1
 彋	wang1
-彌	me1
+彌	mi1
 彍	huk
 彍	kuk
 彎	uan1
@@ -7476,7 +7477,7 @@ import_tables:
 循	zin1
 徬	bang3
 徭	yau1
-微	ve1
+微	vi1
 徯	yi1
 徯	yi3
 徵	cen1
@@ -7584,8 +7585,8 @@ import_tables:
 怨	ion3
 怩	nyi1
 怪	kua3
-怫	ve3
 怫	veh
+怫	vi3
 怭	bih
 怮	iau1
 怮	ieu1
@@ -7608,7 +7609,7 @@ import_tables:
 恅	lau2
 恆	ghen1
 恇	khuang1
-恈	meu1
+恈	mu1
 恉	cu2
 恌	thiau1
 恌	yau1
@@ -7654,7 +7655,7 @@ import_tables:
 恿	yung2
 悀	yung2
 悁	ion1
-悂	phe1
+悂	phi1
 悂	pi1
 悃	khuen2
 悄	tsiau2
@@ -7694,7 +7695,7 @@ import_tables:
 您	nyin2
 悮	wu3
 悰	dzung1
-悱	fe2
+悱	fi2
 悲	pe1
 悴	dzue3
 悵	chang3
@@ -7819,8 +7820,8 @@ import_tables:
 愯	sung2
 愱	dzih
 愲	kueh
-愴	tsang2
-愴	tsang3
+愴	tsuang2
+愴	tsuang3
 愵	nyih
 愶	shiah
 愷	khe2
@@ -7909,7 +7910,7 @@ import_tables:
 憂	ieu1
 憃	chung3
 憃	shung1
-憃	tsang1
+憃	tsuang1
 憉	ben1
 憊	ba3
 憋	phiah
@@ -7941,7 +7942,7 @@ import_tables:
 憤	ven3
 憥	lau1
 憧	chung1
-憧	dzang3
+憧	dzuang3
 憨	ghon3
 憨	hon1
 憩	chi3
@@ -8048,7 +8049,7 @@ import_tables:
 戄	jiuk
 戄	shiuk
 戇	hung3
-戇	tzang3
+戇	tzuang3
 戈	ko1
 戉	yoh
 戊	meu3
@@ -8075,8 +8076,8 @@ import_tables:
 戣	gue1
 戤	ghe3
 戥	ten2
-戧	tsang1
 戧	tsiang3
+戧	tsuang1
 戩	tzian2
 截	dziah
 戫	iuk
@@ -8114,7 +8115,7 @@ import_tables:
 扇	shon1
 扇	shon3
 扈	wu3
-扉	fe1
+扉	fi1
 扊	yan2
 手	sheu2
 扌	sheu2
@@ -8420,7 +8421,7 @@ import_tables:
 掊	bau1
 掊	beu1
 掊	peu2
-掊	veu1
+掊	vu1
 掌	cang2
 掍	wen3
 掎	chi3
@@ -8604,9 +8605,9 @@ import_tables:
 搰	weh
 搴	cian2
 搵	uen3
-搶	tsang2
 搶	tsiang1
 搶	tsiang2
+搶	tsuang2
 搷	dian1
 搸	tzin1
 搹	keh
@@ -8624,7 +8625,7 @@ import_tables:
 摎	ciau1
 摎	lieu1
 摏	shung1
-摐	tsang1
+摐	tsuang1
 摐	tsung1
 摑	kuk
 摒	pin3
@@ -8718,8 +8719,8 @@ import_tables:
 撛	lin3
 撜	cen2
 撝	hue1
-撞	dzang1
-撞	dzang3
+撞	dzuang1
+撞	dzuang3
 撟	ciau1
 撟	ciau2
 撟	khau2
@@ -8758,7 +8759,7 @@ import_tables:
 擁	iung2
 擂	lue1
 擂	lue3
-擃	nang2
+擃	nuang2
 擄	lu2
 擅	zhon3
 擆	cak
@@ -8783,7 +8784,7 @@ import_tables:
 擗	bih
 擘	peh
 據	ciu3
-擟	me1
+擟	mi1
 擠	tzi1
 擠	tzi3
 擡	de1
@@ -8870,7 +8871,7 @@ import_tables:
 攪	ciau2
 攫	ciuk
 攬	lan2
-攮	nang2
+攮	nuang2
 支	cu1
 攱	kue2
 攱	kue3
@@ -8900,7 +8901,7 @@ import_tables:
 敄	vu3
 故	ku3
 效	yau3
-敉	me2
+敉	mi2
 敊	chuk
 敌	wah
 敏	min2
@@ -8967,12 +8968,12 @@ import_tables:
 斆	yau3
 文	ven1
 斌	pin1
-斐	fe2
+斐	fi2
 斑	pan1
 斒	pan1
 斓	lan1
 斕	lan1
-斖	ve2
+斖	vi2
 斗	teu2
 料	liau1	10%
 料	liau3
@@ -9108,7 +9109,7 @@ import_tables:
 昭	cau1
 是	zhu3
 昱	yuk
-昲	fe3
+昲	fi3
 昳	diah
 昴	mau2
 昵	neh
@@ -9284,7 +9285,7 @@ import_tables:
 朌	pan1
 朌	ven1
 服	vuk
-朏	fe2
+朏	fi2
 朏	phe2
 朏	phe3
 朐	jiu1
@@ -9314,7 +9315,7 @@ import_tables:
 朦	mung2
 朧	lung1
 木	muk
-未	ve3
+未	vi3
 末	moh
 本	pen2
 札	tzah
@@ -9338,7 +9339,7 @@ import_tables:
 机	ci2
 朻	cieu1
 朻	cieu2
-朼	pe2
+朼	pi2
 朽	shieu2
 朾	dzen1
 朾	tzen1
@@ -9405,9 +9406,9 @@ import_tables:
 枃	tzin3
 枅	ci1
 枆	mau1
-枇	be1
-枇	be3
-枇	pe2
+枇	bi1
+枇	bi3
+枇	pi2
 枉	uang2
 枊	ngang1
 枊	ngang3
@@ -9448,7 +9449,6 @@ import_tables:
 枸	keu1
 枸	keu2
 枹	pau1
-枹	veu1
 枹	vu1
 枺	me3
 枻	yi3
@@ -9555,7 +9555,7 @@ import_tables:
 株	cu1
 栫	dzen3
 栫	dzian3
-栭	ghel1
+栭	el1
 栯	iuk
 栯	yeu2
 栰	vah
@@ -9614,7 +9614,7 @@ import_tables:
 桱	cin3
 桲	beh
 桴	fu1
-桴	veu1
+桴	vu1
 桵	zhue1
 桶	dung3
 桶	thung2
@@ -9700,13 +9700,13 @@ import_tables:
 棎	zhon1
 棏	deh
 棏	tzeh
-棐	fe2
+棐	fi2
 棑	ba1
 棑	ba3
 棒	bang3
 棓	bang3
 棓	be1
-棓	veu1
+棓	vu1
 棔	huen1
 棕	tzung1
 棖	dzen1
@@ -9779,7 +9779,7 @@ import_tables:
 椐	ciu3
 椑	bi1
 椑	bih
-椑	pe1
+椑	pi1
 椒	tziau1
 椓	tzuk
 椔	tzu1
@@ -9898,7 +9898,7 @@ import_tables:
 榤	jiah
 榥	wang3
 榦	kon3
-榧	fe2
+榧	fi2
 榨	tza3
 榩	jian1
 榪	ma3
@@ -9982,7 +9982,7 @@ import_tables:
 槿	cin2
 樀	dih
 樀	tih
-樁	tzang1
+樁	tzuang1
 樂	luk
 樂	yau3
 樂	yuk
@@ -9991,7 +9991,7 @@ import_tables:
 樆	li1
 樇	sieu1
 樈	jin1
-樉	sang2
+樉	suang2
 樊	van1
 樌	kuon3
 樍	tzih
@@ -10023,7 +10023,7 @@ import_tables:
 樤	diau1
 樨	si1
 樬	tsung1
-樲	ghel3
+樲	el3
 樳	zin1
 樴	ceh
 樴	deh
@@ -10081,11 +10081,11 @@ import_tables:
 橢	tho2
 橦	cung1
 橦	dung1
-橦	dzang1
+橦	dzuang1
 橧	dzen1
 橧	tzen1
-橨	ve3
 橨	ven1
+橨	vi3
 橪	ian1
 橪	zhon2
 橫	kuang1
@@ -10351,7 +10351,6 @@ import_tables:
 殑	jin3
 殔	yi3
 殕	eh
-殕	feu2
 殕	fu2
 殖	zheh
 殗	iah
@@ -10418,23 +10417,23 @@ import_tables:
 毐	e2
 毒	duk
 毓	yuk
-比	be1	5%
-比	be3	5%
+比	bi1	5%
+比	bi3	5%
 比	bih	5%
-比	pe2
-比	pe3	5%
+比	pi2
+比	pi3	5%
 毖	pe3
-毗	be1
-毘	be1
+毗	bi1
+毘	bi1
 毚	dzan1
 毛	mau1	99%
 毛	mau3	1%
 毢	se1
 毣	muk
 毤	tho3
-毦	ghel3
+毦	el3
 毨	sian2
-毪	meu1
+毪	mu1
 毫	ghau1
 毬	jieu1
 毭	deu3
@@ -10600,8 +10599,8 @@ import_tables:
 沕	mih
 沕	veh
 沖	jung1
-沘	be1
-沘	pe2
+沘	bi1
+沘	pi2
 沙	sa1
 沙	sa3
 沚	cu2
@@ -10613,7 +10612,7 @@ import_tables:
 没	meh
 沫	moh
 沬	me3
-沬	ve3
+沬	vi3
 沭	zheh
 沮	dziu3
 沮	tsiu1
@@ -10628,7 +10627,7 @@ import_tables:
 河	gho1
 沴	li3
 沶	yi1
-沸	fe3
+沸	fi3
 油	yeu1
 油	yeu3
 沺	dian1
@@ -10719,7 +10718,7 @@ import_tables:
 洍	zy3
 洎	ci3
 洎	ji3
-洏	ghel1
+洏	el1
 洐	ghen1
 洑	vuk
 洒	sa3
@@ -10754,8 +10753,8 @@ import_tables:
 洭	khuang1
 洮	thau1
 洮	yau1
-洱	ghel2
-洱	ghel3
+洱	el2
+洱	el3
 洲	ceu1
 洳	zhu1
 洳	zhu3
@@ -10780,7 +10779,7 @@ import_tables:
 洿	wu3
 流	lieu1
 浖	liah
-浘	ve2
+浘	vi2
 浙	coh
 浚	sin3
 浛	ghon3
@@ -10805,7 +10804,7 @@ import_tables:
 浪	lang3
 浬	li2
 浭	ken1
-浮	veu1
+浮	vu1
 浯	wu1
 浰	lian3
 浴	yuk
@@ -10854,7 +10853,7 @@ import_tables:
 涖	li3
 涗	shue3
 涘	zu3
-涪	veu1
+涪	vu1
 涫	kuon1
 涫	kuon3
 涬	yin3
@@ -10864,7 +10863,7 @@ import_tables:
 液	yih
 涳	chiang1
 涳	khung1
-涳	nang1
+涳	nuang1
 涴	o3
 涵	ghon1	20%
 涵	ghon3
@@ -10903,13 +10902,13 @@ import_tables:
 淕	luk
 淖	nau3
 淘	dau1
-淙	dzang1	5%
+淙	dzuang1	5%
 淙	dzung1
-淙	sang3	5%
+淙	suang3	5%
 淚	lue3
 淛	cu3
 淜	bin1
-淝	ve1
+淝	vi1
 淞	sung1
 淞	zung1
 淟	thian2
@@ -10955,8 +10954,8 @@ import_tables:
 渃	zhe3
 清	tsin1
 渌	luk
-渒	pe1
 渒	phi3
+渒	pi1
 渙	hue3
 渙	huon3
 渚	cu2
@@ -10987,7 +10986,7 @@ import_tables:
 渰	ian2
 渱	ghung1
 渲	sian3
-渳	me2
+渳	mi2
 渴	jiah
 渴	khoh
 渶	in1
@@ -11130,7 +11129,7 @@ import_tables:
 滂	phang1
 滃	ung2
 滄	tsang1
-滄	tsang3	2%
+滄	tsuang3	2%
 滅	miah
 滆	gheh
 滇	dian1	20%
@@ -11221,7 +11220,7 @@ import_tables:
 漲	cang1
 漲	cang3
 漳	cang1
-漴	dzang3
+漴	dzuang3
 漵	ziu3
 漶	won3
 漷	huk
@@ -11230,8 +11229,8 @@ import_tables:
 漸	tzian1
 漹	ian3
 漹	yan1
-漺	sang2
-漺	tsang2
+漺	suang2
+漺	tsuang2
 漻	liau1
 漼	tsue2
 漾	yang3
@@ -11377,7 +11376,7 @@ import_tables:
 濌	thoh
 濎	tin2
 濓	lian1
-濔	me2
+濔	mi2
 濕	sheh
 濕	thoh
 濗	mih
@@ -11468,12 +11467,12 @@ import_tables:
 瀤	wa1
 瀥	shiuk
 瀦	cu1
-瀧	lang1
+瀧	luang1
 瀧	lung1
-瀧	sang1
+瀧	suang1
 瀨	la3
-瀰	me1
-瀰	me2
+瀰	mi1
+瀰	mi2
 瀰	nyi2
 瀱	ci3
 瀲	lian2
@@ -11622,7 +11621,7 @@ import_tables:
 烠	we1
 烤	khau2
 烯	shi1
-烰	veu1
+烰	vu1
 烳	phu2
 烴	cin2
 烴	thin1
@@ -11672,7 +11671,7 @@ import_tables:
 焲	yih
 焴	yuk
 然	zhon1
-焷	be1
+焷	bi1
 焷	pe1
 焸	ku2
 煁	zhen1
@@ -11886,11 +11885,11 @@ import_tables:
 爹	do3	50%
 爺	ya1
 爻	yau1
-爽	sang2
-爾	ghel2
+爽	suang2
+爾	el2
 爿	ban1
 爿	dziang1
-牀	dzang1
+牀	dzuang1
 牁	ko1
 牃	diah
 牄	tsiang1
@@ -11900,7 +11899,7 @@ import_tables:
 牉	phon3
 牋	tzian1
 牌	ba1
-牎	tsang1
+牎	tsuang1
 牏	deu1
 牏	ju3
 牏	yu1
@@ -11913,9 +11912,9 @@ import_tables:
 牙	ya1
 牚	tsen3
 牛	yeu1
-牝	be3
+牝	bi3
 牝	bin3
-牟	meu1
+牟	mu1
 牠	tho1
 牡	meu2
 牢	lau1
@@ -12003,7 +12002,7 @@ import_tables:
 犺	khang3
 犽	ya3
 犿	huon1
-狀	dzang3
+狀	dzuang3
 狁	yun2
 狂	guang1
 狂	guang3
@@ -12019,7 +12018,7 @@ import_tables:
 狎	yah
 狐	wu1
 狑	lin1
-狒	ve3
+狒	vi3
 狓	phe1
 狔	nyi2
 狕	iau2
@@ -12058,7 +12057,7 @@ import_tables:
 狿	yan1
 狿	yan3
 猁	li3
-猆	fe1
+猆	fi1
 猇	shiau1
 猇	yau1
 猈	ba1
@@ -12184,7 +12183,7 @@ import_tables:
 獺	tsah
 獻	shian3	99%
 獻	so1	1%
-獼	me1
+獼	mi1
 獽	zhang1
 獾	huon1
 獿	nau1
@@ -12272,7 +12271,7 @@ import_tables:
 珢	yin1
 珣	sin1
 珤	pau2
-珥	ghel3
+珥	el3
 珦	shang3
 珦	shiang3
 珧	yau1
@@ -12300,7 +12299,7 @@ import_tables:
 理	li2
 琇	sieu3
 琇	yeu2
-琈	veu1
+琈	vu1
 琉	lieu1
 琊	ya1
 琍	li3
@@ -12333,7 +12332,7 @@ import_tables:
 琲	be3
 琳	lin1
 琴	jin1
-琵	be1
+琵	bi1
 琶	ba1
 琺	fah
 琽	tu2
@@ -12570,7 +12569,7 @@ import_tables:
 町	thin2
 甾	tzu1
 甿	men1
-畀	pe3
+畀	pi3
 畁	ji1
 畁	ji3
 畂	lieu3
@@ -12655,12 +12654,13 @@ import_tables:
 疐	cu3
 疐	ti3
 疑	yi1
-疒	dzang1
+疒	dzuang1
 疒	neh
 疓	ne2
 疔	tin1
-疕	pe2
 疕	phe2
+疕	phi2
+疕	pi2
 疘	kung1
 疙	yih
 疚	cieu3
@@ -12694,7 +12694,7 @@ import_tables:
 疼	dung1
 疽	tsiu1
 疾	dzih
-疿	fe3
+疿	fi3
 痀	ciu1
 痁	shon1
 痁	tian3
@@ -12727,7 +12727,7 @@ import_tables:
 痛	thung3
 痝	mang1
 痞	be3
-痞	feu2
+痞	fu2
 痞	pe2
 痟	siau1
 痠	suon1
@@ -12745,17 +12745,17 @@ import_tables:
 痯	kuon3
 痰	dan1
 痱	be3	10%
-痱	ve1	10%
-痱	ve3
+痱	vi1	10%
+痱	vi3
 痲	ma1
 痳	lin1
 痴	chu1
 痵	gue3
 痶	thian2
 痸	chu3
-痹	pe3
-痺	pe1
-痺	pe3
+痹	pi3
+痺	pi1
+痺	pi3
 痼	ku3
 痾	o1
 痿	ue1
@@ -12792,7 +12792,7 @@ import_tables:
 瘞	i3
 瘟	uen1
 瘠	dzih
-瘡	tsang1
+瘡	tsuang1
 瘢	bon1
 瘣	we3
 瘤	lieu1
@@ -12813,7 +12813,7 @@ import_tables:
 瘴	cang3
 瘵	tza3
 瘶	seu3
-瘸	jia1
+瘸	jio1
 瘹	tiau3
 瘺	leu3
 瘻	leu3
@@ -12839,7 +12839,7 @@ import_tables:
 癏	kuan1
 癑	nung3
 癒	yu2
-癓	ve1
+癓	vi1
 癔	ih
 癖	phih
 癗	lue2
@@ -13048,7 +13048,7 @@ import_tables:
 眮	dung3
 眯	mi2
 眱	yi1
-眲	ghel3
+眲	el3
 眲	neh
 眳	min2
 眴	shen3
@@ -13060,7 +13060,7 @@ import_tables:
 眵	cu1	2%
 眶	khuang1
 眷	cion3
-眸	meu1
+眸	mu1
 眹	jen3
 眺	thiau3
 眻	yang1
@@ -13137,7 +13137,7 @@ import_tables:
 瞂	vah
 瞄	miau1
 瞅	tseu2
-瞇	me2
+瞇	mi2
 瞉	kheu3
 瞋	chen1
 瞌	khoh
@@ -13195,7 +13195,7 @@ import_tables:
 瞿	ciu3
 瞿	jiu1
 矀	me1
-矀	ve1
+矀	vi1
 矅	yau3
 矆	shiuk
 矇	mung1
@@ -13218,7 +13218,7 @@ import_tables:
 矗	tsuk
 矘	thang2
 矚	cuk
-矛	meu1
+矛	mu1
 矜	cin1
 矞	yuh
 矟	suk
@@ -13428,7 +13428,7 @@ import_tables:
 磝	yau1
 磟	luk
 磡	khon3
-磢	tsang2
+磢	tsuang2
 磣	tsen2
 磤	in2
 磥	lue2
@@ -13637,7 +13637,7 @@ import_tables:
 科	kho3	5%
 秒	miau2
 秔	ken1
-秕	pe2
+秕	pi2
 秘	pe3
 秛	phe1
 秛	phe3
@@ -13645,8 +13645,8 @@ import_tables:
 秝	lih
 秞	yeu1
 租	tzu1
-秠	feu1
-秠	feu2
+秠	fu1
+秠	fu2
 秠	phe1
 秠	phe2
 秢	lin1
@@ -13812,11 +13812,11 @@ import_tables:
 窐	yi1
 窒	ceh
 窒	tiah
-窓	tsang1
+窓	tsuang1
 窔	iau3
 窕	diau3
 窖	ciau3
-窗	tsang1
+窗	tsuang1
 窘	jiun3
 窙	shiau1
 窞	don3
@@ -14015,9 +14015,8 @@ import_tables:
 筻	ken3
 箁	beu1
 箃	tzeu1
-箄	pe1
-箄	pe2
 箄	pi1
+箄	pi2
 箅	pi3
 箇	ko3
 箉	dza3
@@ -14090,7 +14089,7 @@ import_tables:
 篖	dang1
 篘	tseu1
 篙	kau1
-篚	fe2
+篚	fi2
 篜	cen1
 篝	keu1
 篞	nyiah
@@ -14256,10 +14255,10 @@ import_tables:
 粥	yuk	3%
 粦	lin1
 粦	lin3
-粧	tzang1
+粧	tzuang1
 粮	liang1
 粯	yan3
-粰	veu1
+粰	vu1
 粱	liang1
 粲	tsan3
 粳	ken1
@@ -14335,16 +14334,16 @@ import_tables:
 紋	ven1
 納	noh
 紐	nyieu2
-紑	feu1
-紑	feu2
+紑	fu1
+紑	fu2
 紓	shu1
 紓	zhu3
 純	cen2	1%
 純	den1	0%
 純	zhen1	99%
-紕	be1
+紕	bi1
 紕	chu2
-紕	phe1
+紕	phi1
 紖	jen3
 紗	sa1
 紘	ghung1
@@ -14526,7 +14525,7 @@ import_tables:
 緉	liang2
 緉	liang3
 緊	cin2
-緋	fe1
+緋	fi1
 緌	zhue1
 緎	shiuk
 緎	yuk
@@ -14661,9 +14660,9 @@ import_tables:
 繄	i3
 繅	sau1
 繅	tzau2
-繆	meu1
 繆	mieu1
 繆	mieu3
+繆	mu1
 繆	muk
 繇	jeu3
 繇	yau1
@@ -14764,10 +14763,10 @@ import_tables:
 纜	lan3
 纝	lue1
 缫	sau1
-缶	feu2
+缶	fu2
 缸	kang1
 缸	yang1
-缹	feu2
+缹	fu2
 缺	chioh
 缻	yang1
 缽	poh
@@ -14790,7 +14789,7 @@ import_tables:
 罔	vang2
 罕	hon2
 罕	hon3
-罘	veu1
+罘	vu1
 罛	ku1
 罜	cu3
 罜	duk
@@ -14807,7 +14806,7 @@ import_tables:
 罥	cion2
 罥	cion3
 罦	fu1
-罦	veu1
+罦	vu1
 罧	sen3
 罧	sin2
 罨	iah
@@ -14848,7 +14847,7 @@ import_tables:
 羈	ci1
 羉	luon1
 羊	yang1
-羋	me2
+羋	mi2
 羌	chiang1
 羍	thah
 美	me2
@@ -14931,7 +14930,7 @@ import_tables:
 翟	dih
 翟	dzeh
 翠	tsue3
-翡	ve3
+翡	vi3
 翢	dau1
 翢	thau1
 翣	sah
@@ -14979,10 +14978,10 @@ import_tables:
 耆	ji1
 耇	keu2
 耋	diah
-而	ghel1
+而	el1
 耍	sa2
 耎	zhuon2
-耏	ghel1
+耏	el1
 耏	ne3
 耐	ne3
 耑	tuon1
@@ -15014,7 +15013,7 @@ import_tables:
 耮	lau3
 耰	ieu1
 耱	mo3
-耳	ghel2
+耳	el2
 耴	coh
 耴	yih
 耵	tin2
@@ -15108,10 +15107,10 @@ import_tables:
 肣	ghon1
 肣	ghon3
 肤	fu1
-肥	ve1
+肥	vi1
 肦	pan1
 肦	ven1
-肧	feu1
+肧	fu1
 肧	phe1
 肨	phang3
 肩	cian1
@@ -15128,7 +15127,7 @@ import_tables:
 肱	kung1
 育	yuk
 肴	yau1
-肶	be1
+肶	bi1
 肸	shih
 肺	fi3
 肼	tzin2
@@ -15195,7 +15194,7 @@ import_tables:
 胶	yau1
 胷	shiung1
 胸	shiung1
-胹	ghel1
+胹	el1
 胺	oh	0%
 胺	on3
 胻	ghang1
@@ -15264,7 +15263,7 @@ import_tables:
 脹	cang3
 脼	liang2
 脽	zhue1
-脾	be1
+脾	bi1
 腃	khue3
 腄	cue1
 腄	jue3
@@ -15285,8 +15284,8 @@ import_tables:
 腑	fu2
 腒	ciu1
 腒	jiu1
-腓	ve1
-腓	ve3
+腓	vi1
+腓	vi3
 腔	chiang1
 腕	uon3
 腖	tung3
@@ -15339,7 +15338,6 @@ import_tables:
 膊	phuk
 膋	liau1
 膌	dzih
-膍	be1
 膍	bi1
 膎	ya1
 膏	kau1
@@ -15389,8 +15387,8 @@ import_tables:
 膴	vu1
 膴	vu2
 膷	shiang1
-膹	ve3
 膹	ven3
+膹	vi3
 膺	in1
 膻	dan3
 膼	tza1
@@ -15399,7 +15397,7 @@ import_tables:
 膿	nung1
 臀	den1
 臁	lian1
-臂	pe3
+臂	pi3
 臃	iung1
 臃	iung2
 臄	jiak
@@ -15524,7 +15522,7 @@ import_tables:
 般	bon1	5%
 般	pan1
 般	pon1
-舭	pe2
+舭	pi2
 舯	cung1
 舲	lin1
 舳	juk
@@ -15538,7 +15536,7 @@ import_tables:
 舼	gung1
 舽	bang1
 舾	si1
-艀	veu1
+艀	vu1
 艁	dzau3
 艁	tsau3
 艃	li1
@@ -15546,7 +15544,7 @@ import_tables:
 艅	yu1
 艆	lang1
 艇	din3
-艉	ve2
+艉	vi2
 艋	men2
 艎	wang1
 艏	sheu2
@@ -15568,7 +15566,7 @@ import_tables:
 艜	ta3
 艞	yau3
 艟	chung1
-艟	dzang3
+艟	dzuang3
 艣	lu2
 艤	yi2
 艦	yan3
@@ -15577,7 +15575,7 @@ import_tables:
 艫	lu1
 艬	dzan1
 艬	dzan3
-艭	sang1
+艭	suang1
 艮	ken3
 良	liang1
 艱	cian1
@@ -15608,7 +15606,7 @@ import_tables:
 芇	mian1
 芇	mian2
 芇	mon1
-芈	me2
+芈	mi2
 芊	tsian1
 芊	tsian3
 芋	yu1
@@ -15627,8 +15625,8 @@ import_tables:
 芒	vang1	2%
 芓	dzy3
 芔	hue3
-芘	be1
-芘	be3
+芘	bi1
+芘	bi3
 芙	vu1
 芚	den1
 芛	we2
@@ -15636,7 +15634,7 @@ import_tables:
 芝	cu1
 芟	san1
 芡	jian3
-芣	veu1
+芣	vu1
 芤	kheu1
 芥	cia3
 芧	ju3
@@ -15662,8 +15660,8 @@ import_tables:
 芼	mau1
 芼	mau3
 芽	ya1
-芾	fe3
 芾	feh
+芾	fi3
 芾	pe3
 芿	zhen3
 苀	ghang1
@@ -15724,8 +15722,8 @@ import_tables:
 苽	ku1
 苾	biah
 苾	bih
-茀	fe3
 茀	feh
+茀	fi3
 茁	ceh
 茁	tzuoh
 茂	meu3
@@ -15842,7 +15840,7 @@ import_tables:
 莈	meh
 莉	ju1
 莉	li1
-莊	tzang1
+莊	tzuang1
 莋	dzuk
 莌	duoh
 莌	thuoh
@@ -15906,7 +15904,7 @@ import_tables:
 菈	lah
 菉	luk
 菊	ciuk
-菋	ve3
+菋	vi3
 菌	jion3
 菌	jiun3
 菍	nyiah
@@ -15943,7 +15941,7 @@ import_tables:
 菩	be3
 菩	bu1
 菩	buk
-菩	veu3
+菩	vu3
 菪	dang3
 菬	cau2
 菬	dziau1
@@ -15954,9 +15952,9 @@ import_tables:
 華	wa3	5%
 菰	ku1
 菱	lin1
-菲	fe1
-菲	fe2	5%
-菲	ve3
+菲	fi1
+菲	fi2	5%
+菲	vi3
 菳	chin1
 菴	ian1
 菴	on1
@@ -15982,7 +15980,7 @@ import_tables:
 萆	sy2
 萇	jang1
 萈	won1
-萉	ve3
+萉	vi3
 萊	le1
 萊	le3
 萋	tsi1
@@ -16007,7 +16005,7 @@ import_tables:
 萭	ciu2
 萭	yu2
 萮	yu1
-萯	veu3
+萯	vu3
 萰	lian3
 萱	shion1
 萳	non2
@@ -16055,7 +16053,7 @@ import_tables:
 葛	koh
 葜	chiah
 葝	jin1
-葞	me2
+葞	mi2
 葟	wang1
 葡	bu1
 董	tung2
@@ -16333,7 +16331,7 @@ import_tables:
 薅	hau1
 薆	e3
 薇	me1
-薇	ve1
+薇	vi1
 薈	ue3
 薉	ue3
 薊	ci3
@@ -16595,7 +16593,7 @@ import_tables:
 蚋	zhue3
 蚋	zhuoh
 蚌	bang3
-蚍	be1
+蚍	bi1
 蚏	yoh
 蚑	chi3
 蚑	ji1
@@ -16657,7 +16655,7 @@ import_tables:
 蛉	lin1
 蛋	dan3
 蛐	chiuk
-蛑	meu1
+蛑	mu1
 蛒	keh
 蛓	tsy3
 蛔	we1
@@ -16715,7 +16713,7 @@ import_tables:
 蜇	coh
 蜈	ciah
 蜈	wu1
-蜉	veu1
+蜉	vu1
 蜊	li1
 蜋	lang1
 蜋	liang1
@@ -16735,8 +16733,8 @@ import_tables:
 蜓	din3
 蜘	cu1
 蜙	sung1
-蜚	fe2
-蜚	ve3
+蜚	fi2
+蜚	vi3
 蜛	ciu1
 蜜	mih
 蜝	ji1
@@ -16764,9 +16762,9 @@ import_tables:
 蜮	ghuk
 蜮	yuk
 蜯	bang3
-蜰	fe2
-蜰	ve1
-蜱	be1
+蜰	fi2
+蜰	vi1
+蜱	bi1
 蜱	miau1
 蜲	ue1
 蜲	ue2
@@ -16794,7 +16792,7 @@ import_tables:
 蝂	pan2
 蝃	cuoh
 蝃	ti3
-蝆	me2
+蝆	mi2
 蝆	yang2
 蝌	kho1
 蝍	tziah
@@ -16814,7 +16812,7 @@ import_tables:
 蝙	pian1
 蝚	zheu1
 蝛	ue1
-蝜	veu3
+蝜	vu3
 蝝	yon1
 蝞	me3
 蝟	we3
@@ -16824,7 +16822,7 @@ import_tables:
 蝤	dzieu1
 蝤	tzieu1
 蝥	mau1
-蝥	meu1
+蝥	mu1
 蝥	vu1
 蝥	vu3
 蝦	ya1
@@ -16901,8 +16899,8 @@ import_tables:
 螵	biau1
 螵	phiau1
 螶	jiu1
-螷	be1
 螷	ben3
+螷	bi1
 螸	yu1
 螹	dzian1
 螹	dzian3
@@ -16925,7 +16923,7 @@ import_tables:
 蟉	jieu1
 蟉	jieu3
 蟉	lieu1
-蟊	meu1
+蟊	mu1
 蟋	sih
 蟌	tsung1
 蟍	li1
@@ -16951,8 +16949,8 @@ import_tables:
 蟣	ji1
 蟤	tzuon1
 蟥	wang1
-蟦	ve1
-蟦	ve3
+蟦	vi1
+蟦	vi3
 蟧	lau1
 蟧	liau1
 蟨	cioh
@@ -17029,11 +17027,11 @@ import_tables:
 蠭	fung1
 蠮	iah
 蠯	ba1
-蠯	be1
 蠯	ben3
+蠯	bi1
 蠰	nang1
-蠰	sang1
 蠰	shang3
+蠰	suang1
 蠰	zhang2
 蠱	ku2
 蠲	cion1
@@ -17052,7 +17050,7 @@ import_tables:
 蠾	zhuk
 血	shioh
 衁	huang1
-衃	feu1
+衃	fu1
 衃	phe1
 衄	nyiuk
 衄	zhuk
@@ -17060,7 +17058,7 @@ import_tables:
 衆	cung1	1%
 衆	cung3	99%
 衇	meh
-衈	ghel3
+衈	el3
 衊	miah
 衋	shih
 行	ghang1
@@ -17201,8 +17199,8 @@ import_tables:
 裛	iah
 裛	ih
 補	pu2
-裝	tzang1
-裝	tzang3
+裝	tzuang1
+裝	tzuang3
 裞	shue3
 裞	thue3
 裟	sa1
@@ -17211,8 +17209,8 @@ import_tables:
 裧	chon1
 裧	chon3
 裧	than2
-裨	be1
-裨	pe1
+裨	bi1
+裨	pi1
 裪	dau1
 裫	ion3
 裮	chang1
@@ -17225,8 +17223,8 @@ import_tables:
 裲	liang2
 裳	zhang1
 裴	be1
-裴	ve1
-裶	fe1
+裴	vi1
+裶	fi1
 裷	chion2
 裷	ion1
 裸	lo2
@@ -17349,7 +17347,7 @@ import_tables:
 襢	con2
 襢	con3
 襢	dan3
-襣	be3
+襣	bi3
 襤	lan1
 襦	zhu1
 襩	zhuk
@@ -17648,8 +17646,8 @@ import_tables:
 詾	shiung2
 詿	kua3
 詿	wa3
-誀	ghel1
-誀	ghel3
+誀	el1
+誀	el3
 誂	diau3
 誃	chu2
 誃	ju1
@@ -17703,8 +17701,8 @@ import_tables:
 誶	dzih
 誶	sue3
 誷	vang2
-誹	fe1
-誹	fe3
+誹	fi1
+誹	fi3
 誺	chu1
 誺	chu3
 誺	le3
@@ -17715,7 +17713,7 @@ import_tables:
 調	ceu1	2%
 調	diau1
 調	diau3
-諀	phe2
+諀	phi2
 諂	chon2
 諄	cen1
 諄	cen3
@@ -17785,7 +17783,7 @@ import_tables:
 諽	kheh
 諾	nuk
 諿	tsih
-謀	meu1
+謀	mu1
 謁	iah
 謂	we3
 謄	den1
@@ -17906,12 +17904,12 @@ import_tables:
 譥	ciau3
 警	cin2
 譧	dzan3
-譨	nang1
+譨	nuang1
 譩	i1
 譩	i2
 譫	coh
 譫	dah
-譬	phe3
+譬	phi3
 譭	hue2
 譮	shia3
 譯	yih
@@ -18042,7 +18040,7 @@ import_tables:
 豻	ghon3
 豻	ngon1
 豻	ngon3
-豼	be1
+豼	bi1
 豽	nuoh
 豾	phe1
 豿	keu2
@@ -18067,7 +18065,7 @@ import_tables:
 貒	thuon3
 貓	mau1
 貓	miau1
-貔	be1
+貔	bi1
 貕	yi1
 貖	eh
 貗	jiu3
@@ -18083,7 +18081,7 @@ import_tables:
 貟	yon1
 貟	yun1
 貟	yun3
-負	veu3
+負	vu3
 財	dze1
 貢	kung3
 貣	deh
@@ -18103,16 +18101,16 @@ import_tables:
 貰	zhe3
 貱	pe3
 貲	tzy1
-貳	ghel3
+貳	el3
 貴	kue3
 貶	pian2
 買	ma2
 貸	the3
 貹	sen3
 貺	huang3
-費	fe3
+費	fi3
 費	pe3	10%
-費	ve3	50%
+費	vi3	50%
 貼	thiah
 貽	yi1
 貾	ju1
@@ -18120,8 +18118,8 @@ import_tables:
 賀	gho3
 賁	pe3
 賁	pen1
-賁	ve1
 賁	ven1
+賁	vi1
 賂	lu3
 賃	nyin3
 賄	hue2
@@ -18611,7 +18609,7 @@ import_tables:
 軾	sheh
 軿	bian1
 軿	bin1
-輀	ghel1
+輀	el1
 輁	gung1
 輁	kung2
 輂	ciuk
@@ -18801,7 +18799,7 @@ import_tables:
 迥	yung3
 迦	cia1
 迨	de3
-迩	ghel2
+迩	el2
 迪	dih
 迫	peh
 迭	diah
@@ -18946,7 +18944,7 @@ import_tables:
 遼	liau1
 遽	jiu3
 遾	zhu3
-避	be3
+避	bi3
 邀	ciau1
 邀	iau1
 邁	ma3
@@ -18956,7 +18954,7 @@ import_tables:
 還	zian1	1%
 邅	con1
 邅	jon3
-邇	ghel2
+邇	el2
 邈	muk
 邊	pian1
 邋	lah
@@ -19059,6 +19057,7 @@ import_tables:
 郪	tsy1
 郫	ba1
 郫	be1
+郫	bi1
 郭	kuk
 郮	ceu1
 郯	dan1
@@ -19215,7 +19214,7 @@ import_tables:
 醁	luk
 醂	lan2
 醃	ian1
-醅	feu1
+醅	fu1
 醅	phe1
 醆	con2
 醆	tzan2
@@ -19371,7 +19370,7 @@ import_tables:
 鈔	tsau3
 鈕	nyieu2
 鈙	jin3
-鈚	be1
+鈚	bi1
 鈚	phi1
 鈜	ghung1
 鈞	ciun1
@@ -19425,7 +19424,7 @@ import_tables:
 鉗	jian1
 鉚	mau2
 鉛	yon1
-鉜	veu1
+鉜	vu1
 鉞	yoh
 鉟	be1
 鉟	phe1
@@ -19446,7 +19445,7 @@ import_tables:
 鉸	ciau3
 鉹	chu2
 鉹	yi1
-鉺	ghel2
+鉺	el2
 鉻	keh
 鉻	luk
 鉼	pin2
@@ -19568,6 +19567,7 @@ import_tables:
 錊	tzuk
 錍	pe1
 錍	phi1
+錍	pi1
 錎	khon2
 錎	yan3
 錏	ia1
@@ -19655,7 +19655,7 @@ import_tables:
 鍧	hung1
 鍨	gue1
 鍩	nuk
-鍪	meu1
+鍪	mu1
 鍫	tsiau1
 鍬	tsiau1
 鍭	gheu1
@@ -19752,7 +19752,7 @@ import_tables:
 鏢	phiau1
 鏤	leu3
 鏤	liu1
-鏦	tsang1
+鏦	tsuang1
 鏦	tsung1
 鏨	dzan1
 鏨	dzan3
@@ -19798,7 +19798,7 @@ import_tables:
 鐙	ten3
 鐠	phu2
 鐧	cian3
-鐨	fe3
+鐨	fi3
 鐩	zue3
 鐪	lu2
 鐫	tzian1
@@ -19824,7 +19824,6 @@ import_tables:
 鐼	shiun3
 鐼	ven1
 鐽	dah
-鐾	be3
 鐾	bi3
 鐿	i3
 鑄	cu3
@@ -19892,7 +19891,7 @@ import_tables:
 镺	au3
 镻	diah
 镽	liau2
-镾	me1
+镾	mi1
 門	men1
 閂	suon1
 閃	shon2
@@ -19977,7 +19976,7 @@ import_tables:
 闔	ghoh
 闕	chioh
 闖	chen3
-闖	tsang2
+闖	tsuang2
 闘	teu3
 闙	chi2
 闚	khue1
@@ -19994,8 +19993,8 @@ import_tables:
 闣	tang3
 闤	wan1
 闥	thah
-阜	veu3
-阝	veu3
+阜	vu3
+阝	vu3
 阞	leh
 阠	shen3
 阠	sin1
@@ -20014,7 +20013,7 @@ import_tables:
 阮	yon1
 阮	yon2
 阯	cu2
-阰	be1
+阰	bi1
 阱	dzin3
 防	vang1
 防	vang3	5%
@@ -20041,7 +20040,7 @@ import_tables:
 降	yang1	50%
 陎	zhu1
 限	yan3
-陑	ghel1
+陑	el1
 陒	kue2
 陓	iu1
 陔	ke1
@@ -20064,7 +20063,7 @@ import_tables:
 除	ju1
 除	ju3
 陪	be1
-陫	ve3
+陫	vi3
 陬	tzeu1
 陬	tziu1
 陭	i1
@@ -20075,7 +20074,7 @@ import_tables:
 陲	zhue1
 陳	jen1
 陳	jen3
-陴	be1
+陴	bi1
 陵	lin1
 陶	dau1
 陶	yau1	1%
@@ -20084,7 +20083,7 @@ import_tables:
 陻	in1
 陼	cu2
 陽	yang1
-陾	ghel1
+陾	el1
 陾	neu2
 陿	yah
 隂	in1
@@ -20172,7 +20171,7 @@ import_tables:
 雖	sue1
 雗	ghon3
 雘	uk
-雙	sang1
+雙	suang1
 雚	kuon3
 雚	won1
 雛	dzu1
@@ -20201,8 +20200,8 @@ import_tables:
 零	lin3
 雷	lue1
 雹	buk
-雺	meu1
 雺	meu3
+雺	mu1
 雺	mung1
 雺	mung3
 電	dian3
@@ -20223,7 +20222,7 @@ import_tables:
 霍	huk
 霎	sah
 霎	soh
-霏	fe1
+霏	fi1
 霑	con1
 霓	yah
 霓	yi1
@@ -20235,7 +20234,7 @@ import_tables:
 霚	mung1
 霚	vu3
 霛	lin1
-霜	sang1
+霜	suang1
 霝	lin1
 霞	ya1
 霠	in1
@@ -20271,7 +20270,7 @@ import_tables:
 靃	sue2
 靄	e3
 靄	oh	0%
-靅	fe3
+靅	fi3
 靆	de3
 靈	lin1
 靉	e3
@@ -20286,7 +20285,7 @@ import_tables:
 靚	dzin3
 靛	dian3
 靜	dzin3
-非	fe1
+非	fi1
 靠	khau3
 靡	me2
 面	mian3
@@ -20305,7 +20304,7 @@ import_tables:
 靯	du3
 靲	jin1
 靳	cin3
-靴	shia1
+靴	shio1
 靶	pa3
 靷	yin2
 靷	yin3
@@ -20345,8 +20344,8 @@ import_tables:
 鞚	khung3
 鞜	thoh
 鞞	bi1
-鞞	pe1
-鞞	pe2
+鞞	pi1
+鞞	pi2
 鞞	pin2
 鞟	khuk
 鞠	chiuk
@@ -20362,7 +20361,7 @@ import_tables:
 鞧	tsieu1
 鞨	ghoh
 鞨	zhoh
-鞪	meu1
+鞪	mu1
 鞪	muk
 鞫	ciuk
 鞬	cian1
@@ -20380,7 +20379,7 @@ import_tables:
 鞼	gue3
 鞼	kue1
 鞽	chiau1
-鞾	shia1
+鞾	shio1
 鞿	ci1
 韁	ciang1
 韂	chon3
@@ -20624,7 +20623,7 @@ import_tables:
 飋	sih
 飌	fung1
 飍	shieu1
-飛	fe1
+飛	fi1
 飜	fan1
 食	yi3	2%
 食	zheh
@@ -20668,7 +20667,7 @@ import_tables:
 餉	shang3
 養	yang2	97%
 養	yang3	3%
-餌	ghel3
+餌	el3
 餎	luk
 餐	tsan1
 餑	beh
@@ -20689,8 +20688,8 @@ import_tables:
 餡	yan3
 餣	iah
 餤	dan1
-餥	fe1
-餥	fe2
+餥	fi1
+餥	fi2
 餦	cang1
 餧	nue2
 餧	ue3
@@ -20769,7 +20768,7 @@ import_tables:
 馞	beh
 馞	pheh
 馠	hon1
-馡	fe1
+馡	fi1
 馣	on1
 馤	e3
 馥	bih
@@ -20847,7 +20846,7 @@ import_tables:
 駩	tsian1
 駪	sin1
 駫	ciung1
-駬	ghel2
+駬	el2
 駭	ya3
 駮	puk
 駰	in1
@@ -20884,14 +20883,14 @@ import_tables:
 騎	ji1
 騎	ji3
 騏	ji1
-騑	fe1
+騑	fi1
 騕	iau2
 騖	vu3
 騗	phian3
 騘	tsung1
 騙	phian3
 騚	dzian1
-騛	fe1
+騛	fi1
 騜	wang1
 騝	cian1
 騝	jian1
@@ -20922,7 +20921,7 @@ import_tables:
 騷	sau1
 騸	shon3
 騺	cu3
-騻	sang1
+騻	suang1
 騼	luk
 騽	yih
 騽	zih
@@ -20968,7 +20967,7 @@ import_tables:
 驢	liu1
 驤	siang1
 驥	ci3
-驦	sang1
+驦	suang1
 驧	jiuk
 驨	yi1
 驩	huon1
@@ -21002,7 +21001,7 @@ import_tables:
 骾	ken2
 骿	bian1
 髀	bi3
-髀	pe2
+髀	pi2
 髁	kho1
 髁	kho3
 髁	khua2
@@ -21046,10 +21045,10 @@ import_tables:
 髯	zhon3
 髲	be3
 髳	mung1
-髴	fe3
 髴	feh
-髵	ghel1
-髶	ghel3
+髴	fi3
+髵	el1
+髶	el3
 髶	zhung1
 髷	chiuk
 髸	kung1
@@ -21065,7 +21064,7 @@ import_tables:
 鬀	di3
 鬀	thi3
 鬁	li3
-鬃	dzang1
+鬃	dzuang1
 鬃	dzung1
 鬃	tzung1
 鬄	sih
@@ -21102,7 +21101,7 @@ import_tables:
 鬜	chian1
 鬝	chiah
 鬝	chian1
-鬞	nang1
+鬞	nuang1
 鬟	wan1
 鬠	kue3
 鬠	woh
@@ -21176,7 +21175,7 @@ import_tables:
 魪	cia3
 魫	shen2
 魬	ban3
-魮	be1
+魮	bi1
 魯	lu2
 魱	wu1
 魳	tzoh
@@ -21204,7 +21203,7 @@ import_tables:
 鮅	bih
 鮅	pih
 鮆	tzy1
-鮇	ve3
+鮇	vi3
 鮈	ciu1
 鮊	beh
 鮋	jeu1
@@ -21220,7 +21219,7 @@ import_tables:
 鮚	jih
 鮛	shuk
 鮜	gheu3
-鮞	ghel1
+鮞	el1
 鮞	zhuk
 鮟	on1
 鮠	we1
@@ -21284,7 +21283,7 @@ import_tables:
 鯞	ceu2
 鯟	tung1
 鯠	le1
-鯡	fe3
+鯡	fi3
 鯢	yi1
 鯤	kuen1
 鯥	luk
@@ -21450,8 +21449,8 @@ import_tables:
 鳽	gheh
 鳽	yan1
 鳿	yuk
-鴀	feu1
-鴀	feu2
+鴀	fu1
+鴀	fu2
 鴂	cioh
 鴃	cioh
 鴅	huon1
@@ -21490,7 +21489,7 @@ import_tables:
 鴪	yuh
 鴭	tue1
 鴮	u1
-鴯	ghel1
+鴯	el1
 鴰	kuah
 鴰	kuoh
 鴱	nge3
@@ -21506,7 +21505,7 @@ import_tables:
 鴻	ghung1
 鴻	ghung3
 鴽	zhu1
-鴾	meu1
+鴾	mu1
 鴿	koh
 鵀	nyin1
 鵀	zhen1
@@ -21544,7 +21543,7 @@ import_tables:
 鵡	meu2
 鵡	vu2
 鵣	la3
-鵧	be1
+鵧	bi1
 鵨	shu1
 鵩	vuk
 鵪	on1
@@ -21554,8 +21553,8 @@ import_tables:
 鵭	jin1
 鵮	chian1
 鵮	tzan1
-鵯	pe1
 鵯	phih
+鵯	pi1
 鵰	tiau1
 鵱	luk
 鵲	tsiak
@@ -21656,14 +21655,14 @@ import_tables:
 鷙	cu3
 鷚	jieu1
 鷚	lieu3
-鷚	meu1
 鷚	mieu1
+鷚	mu1
 鷜	leu1
 鷜	liu1
 鷝	phih
 鷝	pih
-鷞	sang1
-鷞	sang2
+鷞	suang1
+鷞	suang2
 鷟	dzuk
 鷡	vu1
 鷢	jioh
@@ -21718,7 +21717,7 @@ import_tables:
 鸋	nyin1
 鸋	nyin3
 鸌	uk
-鸍	me1
+鸍	mi1
 鸍	shu1
 鸎	in1
 鸏	mung1
@@ -21731,7 +21730,7 @@ import_tables:
 鸓	lue2
 鸕	lu1
 鸗	lung1
-鸘	sang1
+鸘	suang1
 鸙	yak
 鸚	in1
 鸛	kuon3
@@ -21758,7 +21757,7 @@ import_tables:
 麇	ciun1
 麈	cu2
 麉	cian1
-麊	me1
+麊	mi1
 麋	me1
 麌	wu1
 麌	yu2
@@ -21798,7 +21797,7 @@ import_tables:
 麮	chiu2
 麮	chiu3
 麯	chiuk
-麰	meu1
+麰	mu1
 麱	fu1
 麳	le1
 麴	chiuk
@@ -21812,7 +21811,7 @@ import_tables:
 麾	hue1
 黀	tzeu1
 黁	nen1
-黂	ve3
+黂	vi3
 黃	wang1
 黅	cin1
 黇	thian1
@@ -21941,7 +21940,7 @@ import_tables:
 鼶	sy1
 鼷	yi1
 鼸	yan3
-鼻	be3
+鼻	bi3
 鼽	hue1
 鼽	jieu1
 鼾	ghon3
@@ -22132,7 +22131,7 @@ import_tables:
 𠎝	chian1
 𠎷	sah
 𠏀	kho1
-𠏃	ia1
+𠏃	io1
 𠏢	lo3
 𠏤	kuang2
 𠏭	dzung3
@@ -22158,7 +22157,7 @@ import_tables:
 𠒂	ku2
 𠒃	zy3
 𠒅	zy3
-𠒆	ghel1
+𠒆	el1
 𠒜	yon2
 𠒢	won1
 𠓋	yih
@@ -22195,7 +22194,7 @@ import_tables:
 𠚜	thau1
 𠚡	thau1
 𠚥	tiau1
-𠛂	tsang1
+𠛂	tsuang1
 𠛉	chiah
 𠛎	keu1
 𠛐	cu3
@@ -22228,7 +22227,7 @@ import_tables:
 𠞩	tsih
 𠞭	leu1
 𠞭	leu3
-𠞮	tsang2
+𠞮	tsuang2
 𠞰	tziau2
 𠞱	jin3
 𠟂	tsen3
@@ -22339,7 +22338,7 @@ import_tables:
 𠪮	ceh
 𠪻	vu3
 𠫓	theh
-𠬈	pe2
+𠬈	pi2
 𠬛	meh
 𠬝	non2
 𠬝	tziah
@@ -22479,8 +22478,8 @@ import_tables:
 𡋡	yon1
 𡋯	beh
 𡋲	dzo3
-𡌦	ve3
-𡌨	be1
+𡌦	vi3
+𡌨	bi1
 𡌪	kua3
 𡌲	ci1
 𡍖	de3
@@ -22551,7 +22550,7 @@ import_tables:
 𡘷	thau2
 𡘷	thau3
 𡘸	cian2
-𡙁	sang2
+𡙁	suang2
 𡙜	duoh
 𡙮	jeh
 𡙳	ciuk
@@ -22571,7 +22570,7 @@ import_tables:
 𡛷	tzy2
 𡜂	wu3
 𡜉	zhon2
-𡜊	feu2
+𡜊	fu2
 𡜊	phe1
 𡜜	san1
 𡝐	dza1
@@ -22624,7 +22623,7 @@ import_tables:
 𡥀	pau2
 𡥆	hau3
 𡥈	ciau3
-𡦄	veu1
+𡦄	vu1
 𡦗	zhu3
 𡦳	shiau3
 𡦼	zhung2
@@ -22656,7 +22655,7 @@ import_tables:
 𡫀	cih
 𡫏	tzin3
 𡫬	ciuk
-𡫺	feu1
+𡫺	fu1
 𡫼	seh
 𡫽	iu3
 𡫽	zhu1
@@ -22728,7 +22727,7 @@ import_tables:
 𡵙	ngang3
 𡶅	pho1
 𡶇	mih
-𡶎	ve3
+𡶎	vi3
 𡶒	veh
 𡶫	yah
 𡷘	biah
@@ -22784,7 +22783,7 @@ import_tables:
 𡿮	theh
 𡿯	yuh
 𡿿	ghuk
-𢀼	veu1
+𢀼	vu1
 𢁁	tzuk
 𢁕	tiau2
 𢁗	kon3
@@ -22813,7 +22812,7 @@ import_tables:
 𢂼	yi3
 𢂿	chiah
 𢃀	vu1
-𢃍	pe1
+𢃍	pi1
 𢃏	dzung1
 𢃐	khung1
 𢃒	tzue3
@@ -22900,7 +22899,7 @@ import_tables:
 𢌱	yu2
 𢌳	gue1
 𢌻	yuk
-𢌿	pe3
+𢌿	pi3
 𢍁	ji1
 𢍁	ji3
 𢍏	cion3
@@ -22914,7 +22913,7 @@ import_tables:
 𢎦	zhu1
 𢎰	khu1
 𢎰	u1
-𢏏	me1
+𢏏	mi1
 𢏕	dung1
 𢏗	yi3
 𢏤	sin3
@@ -22945,7 +22944,7 @@ import_tables:
 𢔀	tsin1
 𢔅	tung1
 𢔋	sung1
-𢔌	pe2
+𢔌	pi2
 𢔟	nyieu2
 𢔠	shiuk
 𢔡	chia1
@@ -23025,7 +23024,7 @@ import_tables:
 𢞐	ghe3
 𢞒	chih
 𢞒	thih
-𢞗	phe1
+𢞗	phi1
 𢞝	se3
 𢞡	shiang2
 𢞣	shuk
@@ -23066,7 +23065,7 @@ import_tables:
 𢤇	nyi3
 𢤉	jeu1
 𢤋	shih
-𢤤	dzang3
+𢤤	dzuang3
 𢤦	tung2
 𢤬	ven3
 𢤱	lung2
@@ -23075,7 +23074,7 @@ import_tables:
 𢥘	yi1
 𢥛	seh
 𢥞	dung1
-𢥠	sang1
+𢥠	suang1
 𢦅	hung2
 𢦏	tze1
 𢦒	tze1
@@ -23085,7 +23084,7 @@ import_tables:
 𢦦	zhung1
 𢦩	zhen1
 𢦭	yih
-𢦵	meu1
+𢦵	mu1
 𢧀	kon1
 𢧖	tzah
 𢧤	jeh
@@ -23105,7 +23104,7 @@ import_tables:
 𢪇	tziang1
 𢪍	tziah
 𢪍	tzih
-𢪎	shia1
+𢪎	shio1
 𢪏	weh
 𢪒	kung2
 𢫦	meh
@@ -23150,7 +23149,7 @@ import_tables:
 𢲼	diah
 𢳁	be3
 𢳄	zian3
-𢳋	pe2
+𢳋	pi2
 𢳚	cian1
 𢴄	tah
 𢴧	ju3
@@ -23215,7 +23214,7 @@ import_tables:
 𢼛	kuk
 𢼟	uang2
 𢼣	chiah
-𢼸	ve1
+𢼸	vi1
 𢼹	phu1
 𢽃	uang2
 𢽚	tzuk
@@ -23281,7 +23280,7 @@ import_tables:
 𣃍	tsue3
 𣃘	cen1
 𣃘	chon2
-𣃘	dzang1
+𣃘	dzuang1
 𣃦	veh
 𣃧	ian2
 𣃰	ian2
@@ -23392,9 +23391,9 @@ import_tables:
 𣘯	kuang1
 𣘻	du1
 𣘻	dza1
-𣙿	fe3
+𣙿	fi3
 𣚃	ciah
-𣚊	ghel1
+𣚊	el1
 𣚍	ih
 𣚏	shiu1
 𣚓	cion3
@@ -23544,7 +23543,7 @@ import_tables:
 𣫞	dzuk
 𣫣	lung1
 𣫴	yi1
-𣬈	be1
+𣬈	bi1
 𣬎	cioh
 𣬕	sia2
 𣬜	thuk
@@ -23571,7 +23570,7 @@ import_tables:
 𣯩	men1
 𣯻	fen1
 𣯼	suk
-𣰊	nang1
+𣰊	nuang1
 𣱐	cu3
 𣱐	in3
 𣱓	yau3
@@ -23587,8 +23586,8 @@ import_tables:
 𣳩	tzy1
 𣳪	su3
 𣴞	ben3
-𣴣	tzang3
-𣴪	pe1
+𣴣	tzuang3
+𣴪	pi1
 𣴵	hue3
 𣵹	jen3
 𣵻	do3
@@ -23616,7 +23615,7 @@ import_tables:
 𣻐	tsiu1
 𣻑	sah
 𣻒	tzin1
-𣻛	tzang1
+𣻛	tzuang1
 𣻜	vu1
 𣻣	zhoh
 𣻥	vu1
@@ -23728,7 +23727,7 @@ import_tables:
 𤔣	bau3
 𤕟	su1
 𤕣	kue1
-𤕤	sang2
+𤕤	suang2
 𤕦	nen1
 𤕷	diau3
 𤕺	dzih
@@ -23918,7 +23917,7 @@ import_tables:
 𤰇	be3
 𤰈	be3
 𤰝	cion2
-𤰞	pe1
+𤰞	pi1
 𤰟	hang2
 𤰩	yu1
 𤰫	pang1
@@ -23941,7 +23940,7 @@ import_tables:
 𤲬	zhuon2
 𤲬	zhuon3
 𤲰	meh
-𤲳	ve3
+𤲳	vi3
 𤲸	shiuk
 𤳈	shang1
 𤳉	hon3
@@ -23968,7 +23967,7 @@ import_tables:
 𤶠	dza1
 𤶠	tza1
 𤶡	ceu2
-𤷂	ve1
+𤷂	vi1
 𤷃	dzian3
 𤷄	jion1
 𤷇	huk
@@ -23998,7 +23997,7 @@ import_tables:
 𤸶	ba3
 𤸷	jiun1
 𤸷	wan1
-𤹝	be3
+𤹝	bi3
 𤹡	tza1
 𤹨	lian3
 𤺄	zhung3
@@ -24033,6 +24032,7 @@ import_tables:
 𤾸	we2
 𤿊	kon2
 𤿎	phe1
+𤿎	phi1
 𤿕	min2
 𤿙	be3
 𤿙	tzu3
@@ -24089,7 +24089,7 @@ import_tables:
 𥄔	phe3
 𥄗	uoh
 𥄱	phoh
-𥄱	ve3
+𥄱	vi3
 𥄳	doh
 𥄵	shiuh
 𥄶	sy1
@@ -24106,14 +24106,14 @@ import_tables:
 𥇅	man2
 𥇉	chiang3
 𥇔	chang3
-𥇖	fe1
+𥇖	fi1
 𥇖	pin1
 𥇙	huk
 𥇛	ciu1
 𥇜	cen1
 𥇜	cen3
 𥈃	seu2
-𥈄	tsang3
+𥈄	tsuang3
 𥈆	mau3
 𥈆	shiuk
 𥈈	shiu1
@@ -24136,7 +24136,7 @@ import_tables:
 𥉐	yi3
 𥉑	ghuk
 𥉑	yuk
-𥉓	me1
+𥉓	mi1
 𥉓	miah
 𥉔	cin2
 𥉘	di1
@@ -24190,7 +24190,7 @@ import_tables:
 𥍯	tsin1
 𥍯	tzin1
 𥍰	chih
-𥍷	tsang1
+𥍷	tsuang1
 𥍸	zhe1
 𥍹	cian2
 𥎂	zhung1
@@ -24198,7 +24198,7 @@ import_tables:
 𥎊	jin1
 𥎌	vung1
 𥎐	yuh
-𥎖	me1
+𥎖	mi1
 𥎗	ziu3
 𥎞	tsuon3
 𥎞	tzuon2
@@ -24278,7 +24278,7 @@ import_tables:
 𥜃	yih
 𥜒	ian2
 𥝁	siah
-𥝋	ve3
+𥝋	vi3
 𥝌	ci1
 𥝌	nge3
 𥝖	yih
@@ -24305,7 +24305,7 @@ import_tables:
 𥠺	iun1
 𥡃	huang1
 𥡜	lo1
-𥡟	tsang1
+𥡟	tsuang1
 𥡤	tziau3
 𥡧	tza1
 𥡪	yih
@@ -24406,7 +24406,7 @@ import_tables:
 𥯩	cak
 𥯮	yu1
 𥯶	khu2
-𥰛	veu1
+𥰛	vu1
 𥰝	sih
 𥰠	liu2
 𥰢	shon3
@@ -24484,7 +24484,7 @@ import_tables:
 𥷕	diah
 𥷛	tzuk
 𥷤	ciuk
-𥸀	me1
+𥸀	mi1
 𥸘	yuk
 𥸡	kon2
 𥸢	tzon1
@@ -24492,7 +24492,7 @@ import_tables:
 𥸴	miah
 𥸸	liah
 𥹃	fu1
-𥹄	me1
+𥹄	mi1
 𥹆	min1
 𥹇	van3
 𥹜	ciau1
@@ -24547,7 +24547,7 @@ import_tables:
 𦀒	shiu2
 𦀖	ciah
 𦀖	iah
-𦀘	phe1
+𦀘	phi1
 𦀘	pi1
 𦀚	thin1
 𦁆	juon3
@@ -24577,7 +24577,7 @@ import_tables:
 𦃘	ju3
 𦃟	yi3
 𦃢	chiun2
-𦄍	sang2
+𦄍	suang2
 𦄐	chiun2
 𦄑	sue3
 𦄒	pian2
@@ -24609,7 +24609,7 @@ import_tables:
 𦉬	thin1
 𦉬	thin2
 𦉹	tih
-𦊁	be1
+𦊁	bi1
 𦊂	wu3
 𦊐	jiu3
 𦊑	lieu2
@@ -24693,7 +24693,7 @@ import_tables:
 𦒻	tian2
 𦒻	tian3
 𦓀	ji1
-𦓒	ghel1
+𦓒	el1
 𦓝	cue2
 𦓝	cuon2
 𦓤	liah
@@ -24723,7 +24723,7 @@ import_tables:
 𦖉	vang2
 𦖊	chi1
 𦖍	wa3
-𦖢	ghel3
+𦖢	el3
 𦖥	we3
 𦖩	liah
 𦖪	seu2
@@ -24738,7 +24738,7 @@ import_tables:
 𦗡	don1
 𦗢	con2
 𦗣	weh
-𦗳	nang1
+𦗳	nuang1
 𦗾	kuoh
 𦘅	kuk
 𦘍	wah
@@ -24757,7 +24757,7 @@ import_tables:
 𦙽	san1
 𦚈	thuk
 𦚟	yi1
-𦚢	ia1
+𦚢	io1
 𦚤	yu1
 𦚦	cen1
 𦚧	chen2
@@ -24769,7 +24769,7 @@ import_tables:
 𦛖	choh
 𦛝	dza1
 𦛠	nyiah
-𦜉	be1
+𦜉	bi1
 𦜌	cin2
 𦜒	fan2
 𦜓	shin3
@@ -24805,7 +24805,7 @@ import_tables:
 𦠅	zin1
 𦠆	dzuon3
 𦠆	sen2
-𦠌	ghel1
+𦠌	el1
 𦠎	phiau1
 𦠎	piau1
 𦠓	lih
@@ -24823,7 +24823,7 @@ import_tables:
 𦣀	zhiah
 𦣆	mo1
 𦣍	ghen1
-𦣛	lia1
+𦣛	lio1
 𦣝	yi1
 𦣴	wan1
 𦣻	sheu2
@@ -24849,7 +24849,7 @@ import_tables:
 𦥭	phuk
 𦥻	cue3
 𦦇	cue3
-𦦔	ve3
+𦦔	vi3
 𦦖	tzeh
 𦦣	tsue3
 𦧇	zhu3
@@ -24919,7 +24919,7 @@ import_tables:
 𦭲	ji1
 𦭵	yang1
 𦭶	sian2
-𦭷	meu1
+𦭷	mu1
 𦭺	cieu1
 𦭼	biau3
 𦭿	ya1
@@ -24927,7 +24927,7 @@ import_tables:
 𦮌	cion1
 𦮶	ven2
 𦮸	yi2
-𦮹	veu1
+𦮹	vu1
 𦮺	sy1
 𦮻	cion1
 𦮾	nyih
@@ -24944,7 +24944,7 @@ import_tables:
 𦰫	nyi2
 𦰬	beh
 𦰳	ya1
-𦰺	veu3
+𦰺	vu3
 𦰾	shiuk
 𦰿	to1
 𦱀	yuk
@@ -24963,7 +24963,7 @@ import_tables:
 𦲯	van3
 𦳅	yu2
 𦳇	dian1
-𦳈	be1
+𦳈	bi1
 𦳊	shu2
 𦳋	kua3
 𦳌	cih
@@ -25022,8 +25022,8 @@ import_tables:
 𦸝	sih
 𦸢	leu3
 𦸣	bi3
-𦸣	pe2
-𦸣	pe3
+𦸣	pi2
+𦸣	pi3
 𦸦	beh
 𦸺	tzue1
 𦹬	khua1
@@ -25195,14 +25195,14 @@ import_tables:
 𧋘	di1
 𧌁	diau1
 𧌆	khung1
-𧌈	veu3
+𧌈	vu3
 𧌉	luk
 𧌍	luk
 𧌏	doh
 𧌑	chiuh
 𧌔	cu1
 𧌗	tzeu2
-𧌘	ve3
+𧌘	vi3
 𧍓	seh
 𧍔	iau1
 𧍕	jiak
@@ -25248,7 +25248,7 @@ import_tables:
 𧑒	then1
 𧑓	shu2
 𧑙	tzuk
-𧑜	be1
+𧑜	bi1
 𧒒	fung1
 𧒔	jieu1
 𧒕	tsih
@@ -25256,7 +25256,7 @@ import_tables:
 𧒖	ko3
 𧒗	seh
 𧓉	dzy1
-𧓎	be1
+𧓎	bi1
 𧓕	tung1
 𧓲	yang2
 𧓴	din1
@@ -25283,10 +25283,10 @@ import_tables:
 𧕯	li1
 𧕯	su1
 𧕱	yah
-𧕿	ve3
+𧕿	vi3
 𧖀	cuoh
 𧖅	mih
-𧖈	be1
+𧖈	bi1
 𧖔	lin3
 𧖛	chu2
 𧖜	lin1
@@ -25313,7 +25313,7 @@ import_tables:
 𧘽	na1
 𧘿	cen1
 𧙁	tzu3
-𧙂	fe3
+𧙂	fi3
 𧙃	o2
 𧙆	shiu1
 𧙉	lih
@@ -25340,7 +25340,7 @@ import_tables:
 𧜠	seh
 𧜣	tiau1
 𧜣	tiau2
-𧜧	tsang1
+𧜧	tsuang1
 𧝂	gho3
 𧝃	cioh
 𧝋	due1
@@ -25445,7 +25445,7 @@ import_tables:
 𧧮	huang2
 𧧷	cieu3
 𧧸	piah
-𧧺	phe1
+𧧺	phi1
 𧨀	so1
 𧨁	tzia1
 𧨃	shih
@@ -25728,13 +25728,13 @@ import_tables:
 𨇧	chon2
 𨇨	siah
 𨇮	cioh
-𨇯	sang1
+𨇯	suang1
 𨇱	pian1
 𨇻	me2
 𨈈	diah
 𨈋	yak
 𨈘	sau2
-𨈚	be1
+𨈚	bi1
 𨈛	cu1
 𨈭	than1
 𨉢	jung3
@@ -25779,7 +25779,7 @@ import_tables:
 𨎌	cu3
 𨎥	zue3
 𨎩	kuang1
-𨎪	ghel1
+𨎪	el1
 𨎬	ciau3
 𨎴	tang1
 𨎶	jiu1
@@ -25801,7 +25801,7 @@ import_tables:
 𨐖	sah
 𨐨	pih
 𨐶	huk
-𨑊	nang2
+𨑊	nuang2
 𨑊	nung2
 𨑊	nyiung1
 𨑋	nung1
@@ -25815,7 +25815,7 @@ import_tables:
 𨒇	ciah
 𨒋	yoh
 𨒌	cen1
-𨒛	ghel2
+𨒛	el2
 𨒥	gheu3
 𨒪	tzih
 𨒬	chu1
@@ -25942,7 +25942,6 @@ import_tables:
 𨡌	nue1
 𨡩	phoh
 𨡫	wen3
-𨡭	meu1
 𨡭	mu1
 𨡰	tziang3
 𨢊	mung1
@@ -25964,7 +25963,7 @@ import_tables:
 𨣱	moh
 𨣻	ian1
 𨣼	tsung1
-𨤐	me1
+𨤐	mi1
 𨤩	chung1
 𨥂	ciah
 𨥥	kuang2
@@ -26044,7 +26043,7 @@ import_tables:
 𨷺	cieu1
 𨷺	cieu2
 𨷻	lan1
-𨸏	veu3
+𨸏	vu3
 𨸜	he1
 𨸭	pho1
 𨸰	ciuk
@@ -26059,7 +26058,7 @@ import_tables:
 𨹆	yon3
 𨹵	cion2
 𨹸	cau3
-𨹺	veu3
+𨹺	vu3
 𨺅	vu3
 𨺟	cen1
 𨺫	chian2
@@ -26073,7 +26072,7 @@ import_tables:
 𨼊	vu1
 𨼍	ghau1
 𨼎	tziah
-𨼏	ghel1
+𨼏	el1
 𨼑	dza1
 𨼒	chon2
 𨼔	zin1
@@ -26112,7 +26111,7 @@ import_tables:
 𩁣	nan1
 𩁧	won3
 𩁺	san1
-𩂆	feu2
+𩂆	fu2
 𩂓	tung1
 𩂢	ya1
 𩂢	yin1
@@ -26161,9 +26160,9 @@ import_tables:
 𩆸	dzuk
 𩇕	dzin3
 𩇠	oh
-𩇪	ve3
+𩇪	vi3
 𩇯	be3
-𩇯	ve1
+𩇯	vi1
 𩈉	ton3
 𩈎	tsau2
 𩈜	tue1
@@ -26289,7 +26288,7 @@ import_tables:
 𩑦	meh
 𩑦	ueh
 𩑳	chian2
-𩑵	ve3
+𩑵	vi3
 𩑶	wu1
 𩑷	moh
 𩑸	ho1
@@ -26331,7 +26330,7 @@ import_tables:
 𩔳	tzeh
 𩔴	shiuk
 𩔶	ma1
-𩔹	pe1
+𩔹	pi1
 𩕊	con2
 𩕍	ghau1
 𩕏	bo1
@@ -26375,7 +26374,7 @@ import_tables:
 𩙒	phiau1
 𩙚	siau1
 𩙛	hung1
-𩙲	fe1
+𩙲	fi1
 𩙺	yih
 𩙽	wan1
 𩚖	nyieu3
@@ -26421,15 +26420,15 @@ import_tables:
 𩞁	mo1
 𩞃	shang2
 𩞉	dzung1
-𩞐	dzang1
+𩞐	dzuang1
 𩞧	shang2
 𩞬	ten3
 𩞿	hon3
 𩟂	ko3
 𩟃	lin1
 𩟇	au3
-𩟊	nang1
-𩟊	nang2
+𩟊	nuang1
+𩟊	nuang2
 𩟊	nung1
 𩟓	uk
 𩟗	tzian2
@@ -26488,7 +26487,7 @@ import_tables:
 𩥮	san2
 𩦂	yan1
 𩦌	sang1
-𩦎	fe2
+𩦎	fi2
 𩦠	vang3
 𩦡	yu1
 𩦡	yu3
@@ -26500,10 +26499,10 @@ import_tables:
 𩧋	li1
 𩧐	luk
 𩧐	thuk
-𩨭	chia1
+𩨭	chio1
 𩨳	teh
 𩨴	yau2
-𩨷	chia1
+𩨷	chio1
 𩨾	wa1
 𩩌	kuen2
 𩩘	iu2
@@ -26517,7 +26516,7 @@ import_tables:
 𩪍	chu1
 𩪐	kuk
 𩪕	ngau1
-𩪘	dzang1
+𩪘	dzuang1
 𩪜	jioh
 𩪡	den1
 𩪧	bih
@@ -26526,7 +26525,7 @@ import_tables:
 𩫏	kuk
 𩫥	dzau1
 𩫧	yon1
-𩫫	be1
+𩫫	bi1
 𩫿	dzen1
 𩬑	tian1
 𩬙	fu1
@@ -26540,7 +26539,7 @@ import_tables:
 𩭇	li1
 𩭓	tzieu1
 𩭩	tung3
-𩭾	meu1
+𩭾	mu1
 𩭿	nah
 𩮀	tzung1
 𩮀	tzung2
@@ -26576,11 +26575,11 @@ import_tables:
 𩰫	ko1
 𩰬	ko1
 𩰳	yi1
-𩰴	ghel1
+𩰴	el1
 𩰹	cin3
-𩰾	fe3
+𩰾	fi3
 𩱈	tsau2
-𩱓	ghel3
+𩱓	el3
 𩱖	suk
 𩱚	beh
 𩱛	tzung2
@@ -26632,7 +26631,7 @@ import_tables:
 𩹄	he3
 𩹇	din1
 𩹈	ju3
-𩹉	fe1
+𩹉	fi1
 𩹍	gue1
 𩹏	ba3
 𩹟	na3
@@ -26723,7 +26722,7 @@ import_tables:
 𪃄	se1
 𪃈	ciah
 𪃍	yu1
-𪃓	veu3
+𪃓	vu3
 𪃦	miau1
 𪃯	min1
 𪃹	tzih
@@ -26757,7 +26756,7 @@ import_tables:
 𪆃	duon1
 𪆇	jeu1
 𪆫	jiu1
-𪆯	nang1
+𪆯	nuang1
 𪆰	iah
 𪆱	lieu1
 𪆶	tsan3
@@ -26815,7 +26814,7 @@ import_tables:
 𪋮	yu3
 𪋯	siu1
 𪋯	zhu1
-𪌈	be1
+𪌈	bi1
 𪌘	theu2
 𪌜	theu2
 𪌣	keh
@@ -26855,7 +26854,7 @@ import_tables:
 𪏿	cu1
 𪐂	chion2
 𪐄	ba3
-𪐄	pe2
+𪐄	pi2
 𪐏	ceh
 𪐏	tzeh
 𪐙	phuk
@@ -26920,7 +26919,7 @@ import_tables:
 𪕍	ciung1
 𪕎	zhung2
 𪕏	yeu3
-𪕔	ghel2
+𪕔	el2
 𪕚	lieu1
 𪕞	tzin3
 𪕭	e3
@@ -27028,7 +27027,7 @@ import_tables:
 主要	cu2 iau3
 乾了	kon1 liau2
 乾元	jian1 yon1
-乾兒	kon1 ghel1
+乾兒	kon1 el1
 乾冰	kon1 pin1
 乾咳	kon1 kheh
 乾唱	kon1 chang3
@@ -27053,7 +27052,7 @@ import_tables:
 乾燥	kon1 sau2
 乾爸	kon1 bo3
 乾爹	kon1 cia1
-乾爽	kon1 sang2
+乾爽	kon1 suang2
 乾癟	kon1 phiah
 乾白	kon1 beh
 乾硬	kon1 yin3
@@ -27133,9 +27132,9 @@ import_tables:
 傳說	juon1 shuoh
 傳開	juon1 khe1
 僕射	buk ya3
-僮侗	dzang3 dung3
-僮族	dzang3 dzuk
-僮泰	dzang3 tha3
+僮侗	dzuang3 dung3
+僮族	dzuang3 dzuk
+僮泰	dzuang3 tha3
 儲藏	ju1 dzang1
 元朝	yon1 jau1
 充值	chung1 jeh
@@ -27289,7 +27288,7 @@ import_tables:
 將領	tziang3 lin2
 尊重	tzen1 jung3
 對應	tue3 in3
-少兒	shau3 ghel1
+少兒	shau3 el1
 少商	shau3 shang1
 少年	shau3 nyian1
 少數	shau2 su3
@@ -27541,7 +27540,7 @@ import_tables:
 殿後	tian3 gheu3
 殿軍	tian3 ciun1
 母校	meu2 yau3
-比鄰	be3 lin1
+比鄰	bi3 lin1
 氣相	chi3 siang3
 汶川	min1 chuon1
 決斷	cioh tuon3
@@ -27613,7 +27612,7 @@ import_tables:
 相撲	siang1 phuk
 相框	siang3 khuang1
 相機	siang3 ci1
-相比	siang1 pe2
+相比	siang1 pi2
 相父	siang3 vu3
 相爺	siang3 ya1
 相片	siang3 phian3
@@ -27635,7 +27634,7 @@ import_tables:
 看守	khon1 sheu2
 看家	khon1 cia1
 眞相	cen1 siang3
-着裝	cak tzang1
+着裝	cak tzuang1
 睡覺	zhue3 ciau3
 祁山	ji1 san1
 票價	phiau3 cia3
@@ -27684,12 +27683,12 @@ import_tables:
 般師	pan1 su1
 般運	pon1 yun3
 芍藥	zhak yak
-花費	hua1 fe3
-芳菲	fang1 fe1
+花費	hua1 fi3
+芳菲	fang1 fi1
 茶几	dza1 ci2
 荷花	gho1 hua1
 荸薺	beh dzy1
-莞爾	wan3 ghel2
+莞爾	wan3 el2
 莽蒼	mang2 tsang2
 菏澤	ko1 dzeh
 菝葜	bah chiah
@@ -27697,7 +27696,7 @@ import_tables:
 華僑	wa1 jiau1
 華夏	wa1 ya3
 華山	wa3 san1
-菲薄	fe2 buk
+菲薄	fi2 buk
 落魄	luk thuk
 著名	cu3 min1
 蒸乾	cen1 kon1
@@ -27763,7 +27762,7 @@ import_tables:
 行署	ghen1 zhu3
 行者	ghen1 ce2
 行草	ghen1 tsau2
-行裝	ghen1 tzang1
+行裝	ghen1 tzuang1
 行話	ghang1 wa3
 行貨	ghang1 ho3
 行賄	ghen1 hue2
@@ -27830,10 +27829,10 @@ import_tables:
 變易	pian3 yih
 谷蠡	luk li1
 豬圈	cu1 jion3
-負荷	veu3 gho3
+負荷	vu3 gho3
 財會	dze1 kue3
 貫穿	kuon1 chuon1
-費姓	ve3 sin3
+費姓	vi3 sin3
 費縣	pe3 yon3
 貿易	meu3 yih
 質子	ceh tzy2
@@ -27885,7 +27884,7 @@ import_tables:
 過錯	ko3 tsuk
 道觀	dau3 kuon3
 遞相	di3 siang1
-避難	be3 nan3
+避難	bi3 nan3
 邊塞	pian1 se3
 邪惡	zia1 uk
 邪教	zia1 ciau3
@@ -27963,12 +27962,12 @@ import_tables:
 黎朝	li1 jau1
 黑種	heh cung2
 點當	tian2 tang3
-鼻冠	be3 kuon3
+鼻冠	bi3 kuon3
 龜兹	chieu1 dzy1
 龜兹	cieu1 dzy1
 一刀切	ih tau1 tsiah
-乾兒子	kon1 ghel1 tzy2
-二人轉	ghel3 zhen1 cuon3
+乾兒子	kon1 el1 tzy2
+二人轉	el3 zhen1 cuon3
 代謝率	de3 zia3 lih
 函谷關	yan1 kuk kuan1
 南北朝	non1 puk jau1
