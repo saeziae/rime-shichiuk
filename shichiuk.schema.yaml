@@ -4,11 +4,11 @@
 schema:
   schema_id: shichiuk
   name: 越白
-  version: "20240224"
+  version: "20240226"
   author:
     - 山前 <i@estela.moe>
   description: |
-    * 越劇唸白 混蘇州評彈 混紹興音
+    * 越劇唸白 混蘇州評彈 混紹興音 混杭州音
     * R/X/Q 代表平上去
   dependencies:
     - luna_pinyin #反查

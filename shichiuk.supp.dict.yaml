@@ -5,7 +5,7 @@
 
 ---
 name: shichiuk.supp
-version: "20240225"
+version: "20240226"
 sort: by_weight
 ...
 
@@ -13,3 +13,5 @@ sort: by_weight
 不	puk
 行	yin1
 打	ta2
+行	yin1
+大	da3

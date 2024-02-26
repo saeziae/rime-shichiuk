@@ -6,7 +6,7 @@
 
 ---
 name: shichiuk.words
-version: "20240225"
+version: "20240226"
 sort: by_weight
 ...
 
@@ -15,7 +15,7 @@ sort: by_weight
 一下	ih ya3
 一並	ih bin3
 一二	ih el3
-一些	ih sia1
+一些	ih si1
 一代	ih de3
 一來	ih le1
 一價	ih cia3
@@ -45,7 +45,7 @@ sort: by_weight
 一對	ih tue3
 一層	ih dzen1
 一己	ih ci2
-一帶	ih ta3
+一帶	ih te3
 一度	ih du3
 一律	ih lih
 一徑	ih cin3
@@ -177,7 +177,7 @@ sort: by_weight
 上流	zhang3 lieu1
 上游	zhang3 yeu1
 上班	zhang3 pan1
-上界	zhang3 cia3
+上界	zhang3 cie3
 上皮	zhang3 be1
 上瞼	zhang3 cian2
 上空	zhang3 khung1
@@ -428,7 +428,7 @@ sort: by_weight
 乙卯	ih mau2
 乙型	ih yin1
 乙基	ih ci1
-乙太	ih tha3
+乙太	ih the3
 乙巳	ih zy3
 乙未	ih vi3
 乙炔	ih ci3
@@ -448,7 +448,7 @@ sort: by_weight
 九月	cieu2 yoh
 九歸	cieu2 kue1
 九江	cieu2 ciang1
-九泉	cieu2 dzian1
+九泉	cieu2 dzion1
 九流	cieu2 lieu1
 九淵	cieu2 ion1
 九竅	cieu2 chiau3
@@ -496,7 +496,7 @@ sort: by_weight
 亂動	luon3 dung3
 亂叫	luon3 ciau3
 亂吃	luon3 cih
-亂寫	luon3 sia2
+亂寫	luon3 si2
 亂局	luon3 jiuk
 亂政	luon3 cen3
 亂民	luon3 min1
@@ -560,7 +560,7 @@ sort: by_weight
 二道	el3 dau3
 二郎	el3 lang1
 二醇	el3 zhen1
-二階	el3 cia1
+二階	el3 cie1
 二黃	el3 wang1
 于丹	yu1 tan1
 于歸	yu1 kue1
@@ -636,14 +636,14 @@ sort: by_weight
 亞倫	ia3 len1
 亞哈	ia3 ngoh
 亞型	ia3 yin1
-亞太	ia3 tha3
+亞太	ia3 the3
 亞庇	ia3 pi3
 亞所	ia3 su2
 亞東	ia3 tung1
 亞洲	ia3 ceu1
 亞琛	ia3 chen1
 亞瑟	ia3 sih
-亞界	ia3 cia3
+亞界	ia3 cie3
 亞目	ia3 muk
 亞綱	ia3 kang1
 亞聖	ia3 shen3
@@ -673,7 +673,7 @@ sort: by_weight
 交兵	ciau1 pin1
 交割	ciau1 koh
 交加	ciau1 cia1
-交卸	ciau1 sia3
+交卸	ciau1 si3
 交友	ciau1 yeu2
 交口	ciau1 kheu2
 交困	ciau1 khuen3
@@ -698,7 +698,7 @@ sort: by_weight
 交流	ciau1 lieu1
 交火	ciau1 ho2
 交班	ciau1 pan1
-交界	ciau1 cia3
+交界	ciau1 cie3
 交睫	ciau1 tziah
 交管	ciau1 kuon2
 交納	ciau1 noh
@@ -871,16 +871,16 @@ sort: by_weight
 今生	cin1 sen1
 今譯	cin1 yih
 今音	cin1 in1
-介乎	cia3 wu1
-介休	cia3 shieu1
-介入	cia3 zheh
-介子	cia3 tzy2
-介意	cia3 i3
-介懷	cia3 wa1
-介紹	cia3 zhau3
-介胄	cia3 jeu3
-介詞	cia3 zy1
-介面	cia3 mian3
+介乎	cie3 wu1
+介休	cie3 shieu1
+介入	cie3 zheh
+介子	cie3 tzy2
+介意	cie3 i3
+介懷	cie3 wa1
+介紹	cie3 zhau3
+介胄	cie3 jeu3
+介詞	cie3 zy1
+介面	cie3 mian3
 仍然	zhen1 zhon1
 仍舊	zhen1 jieu3
 仕宦	dzu3 wan3
@@ -911,7 +911,7 @@ sort: by_weight
 仙山	sian1 san1
 仙桃	sian1 dau1
 仙氣	sian1 chi3
-仙界	sian1 cia3
+仙界	sian1 cie3
 仙童	sian1 dung1
 仙股	sian1 ku2
 仙臺	sian1 de1
@@ -929,7 +929,7 @@ sort: by_weight
 代孕	de3 yin3
 代字	de3 dzy3
 代宗	de3 tzung1
-代寫	de3 sia2
+代寫	de3 si2
 代工	de3 kung1
 代幣	de3 bi3
 代換	de3 won3
@@ -950,7 +950,7 @@ sort: by_weight
 代詞	de3 zy1
 代誌	de3 cu3
 代課	de3 kho3
-代謝	de3 zia3
+代謝	de3 zi3
 代購	de3 keu3
 代辦	de3 ban3
 代銷	de3 siau1
@@ -966,7 +966,7 @@ sort: by_weight
 以及	yi2 jih
 以埃	yi2 e1
 以外	yi2 we3
-以太	yi2 tha3
+以太	yi2 the3
 以往	yi2 wang2
 以律	yi2 lih
 以敘	yi2 ziu3
@@ -981,7 +981,7 @@ sort: by_weight
 以西	yi2 si1
 以資	yi2 tzy1
 以軍	yi2 ciun1
-仲介	jung3 cia3
+仲介	jung3 cie3
 仲尼	jung3 nyi1
 仲巴	jung3 pa1
 仲秋	jung3 tsieu1
@@ -1004,7 +1004,7 @@ sort: by_weight
 伊凡	i1 van1
 伊塔	i1 thah
 伊始	i1 shu2
-伊娃	i1 ia1
+伊娃	i1 ie1
 伊寧	i1 nyin1
 伊川	i1 chuon1
 伊州	i1 ceu1
@@ -1063,11 +1063,11 @@ sort: by_weight
 伸直	shen1 jeh
 伸縮	shen1 suk
 伸開	shen1 khe1
-伸雪	shen1 siah
+伸雪	shen1 sioh
 似乎	zy3 wu1
 似核	zy3 gheh
 似的	zy3 tih
-似雪	zy3 siah
+似雪	zy3 sioh
 伽師	jia1 su1
 伽藍	jia1 lan1
 伽馬	jia1 ma2
@@ -1095,7 +1095,7 @@ sort: by_weight
 低保	ti1 pau2
 低價	ti1 cia3
 低利	ti1 li3
-低劣	ti1 liah
+低劣	ti1 lioh
 低地	ti1 di3
 低垂	ti1 zhue1
 低壓	ti1 iah
@@ -1112,7 +1112,7 @@ sort: by_weight
 低溫	ti1 uen1
 低潮	ti1 jau1
 低熱	ti1 zhoh
-低矮	ti1 ia2
+低矮	ti1 ie2
 低窪	ti1 ua1
 低端	ti1 tuon1
 低粉	ti1 fen2
@@ -1124,7 +1124,7 @@ sort: by_weight
 低落	ti1 luk
 低迷	ti1 mi1
 低陷	ti1 yan3
-低階	ti1 cia1
+低階	ti1 cie1
 低音	ti1 in1
 低頭	ti1 deu1
 住友	ju3 yeu2
@@ -1173,25 +1173,25 @@ sort: by_weight
 佛門	veh men1
 佛陀	veh do1
 佛龕	veh khon1
-佩帶	be3 ta3
+佩帶	be3 te3
 佩戴	be3 te3
 佩服	be3 vuk
 佩環	be3 wan1
 佩蘭	be3 lan1
 佩飾	be3 sheh
 佯裝	yang1 tzuang1
-佳人	cia1 zhen1
-佳冬	cia1 tung1
-佳境	cia1 cin2
-佳妙	cia1 miau3
-佳期	cia1 ji1
-佳節	cia1 tziah
-佳績	cia1 tzih
-佳美	cia1 me2
-佳話	cia1 wa3
-佳釀	cia1 nyiang3
-佳里	cia1 li2
-佳餚	cia1 yau1
+佳人	cie1 zhen1
+佳冬	cie1 tung1
+佳境	cie1 cin2
+佳妙	cie1 miau3
+佳期	cie1 ji1
+佳節	cie1 tziah
+佳績	cie1 tzih
+佳美	cie1 me2
+佳話	cie1 wa3
+佳釀	cie1 nyiang3
+佳里	cie1 li2
+佳餚	cie1 yau1
 來信	le1 sin3
 來到	le1 tau3
 來勁	le1 cin3
@@ -1246,7 +1246,7 @@ sort: by_weight
 依存	i1 dzen1
 依安	i1 on1
 依循	i1 zin1
-依戀	i1 lian3
+依戀	i1 lion3
 依據	i1 ciu3
 依次	i1 tsy3
 依法	i1 fah
@@ -1256,7 +1256,7 @@ sort: by_weight
 依舊	i1 jieu3
 依蘭	i1 lan1
 依託	i1 thuk
-依賴	i1 la3
+依賴	i1 le3
 依附	i1 vu3
 依雲	i1 yun1
 依靠	i1 khau3
@@ -1323,7 +1323,7 @@ sort: by_weight
 保佑	pau2 yeu3
 保修	pau2 sieu1
 保健	pau2 jian3
-保全	pau2 dzian1
+保全	pau2 dzion1
 保八	pau2 pah
 保准	pau2 cen2
 保命	pau2 min3
@@ -1398,7 +1398,7 @@ sort: by_weight
 信訪	sin3 fang3
 信豐	sin3 fung1
 信貸	sin3 the3
-信賴	sin3 la3
+信賴	sin3 le3
 信道	sin3 dau3
 信陽	sin3 yang1
 信靠	sin3 khau3
@@ -1440,8 +1440,8 @@ sort: by_weight
 俯臥	fu2 gho3
 俯衝	fu2 chung1
 俯身	fu2 shen1
-俱佳	ciu1 cia1
-俱全	ciu1 dzian1
+俱佳	ciu1 cie1
+俱全	ciu1 dzion1
 俳佪	ba1 we1
 俳句	ba1 ciu3
 俾倪	pi2 yi1
@@ -1536,8 +1536,8 @@ sort: by_weight
 偏辭	phian1 zy1
 偏鋒	phian1 fung1
 偏門	phian1 men1
-偕同	cia1 dung1
-偕老	cia1 lau2
+偕同	cie1 dung1
+偕老	cie1 lau2
 停住	din1 ju3
 停工	din1 kung1
 停息	din1 sih
@@ -1564,7 +1564,7 @@ sort: by_weight
 停頓	din1 ten3
 停飛	din1 fi1
 健保	jian3 pau2
-健全	jian3 dzian1
+健全	jian3 dzion1
 健壯	jian3 tzuang3
 健康	jian3 khang1
 健忘	jian3 vang3
@@ -1576,7 +1576,7 @@ sort: by_weight
 健身	jian3 shen1
 側壁	tzeh pih
 側室	tzeh sheh
-側寫	tzeh sia2
+側寫	tzeh si2
 側影	tzeh in2
 側根	tzeh ken1
 側目	tzeh muk
@@ -1663,7 +1663,7 @@ sort: by_weight
 傾側	chiung1 tzeh
 傾動	chiung1 dung3
 傾危	chiung1 we1
-傾卸	chiung1 sia3
+傾卸	chiung1 si3
 傾向	chiung1 shiang3
 傾囊	chiung1 nang1
 傾城	chiung1 zhen1
@@ -1741,7 +1741,7 @@ sort: by_weight
 儒艮	zhu1 ken3
 儒雅	zhu1 ya2
 優伶	ieu1 lin1
-優劣	ieu1 liah
+優劣	ieu1 lioh
 優勢	ieu1 shu3
 優化	ieu1 hua3
 優孟	ieu1 men3
@@ -1957,69 +1957,69 @@ sort: by_weight
 入門	zheh men1
 入關	zheh kuan1
 入黨	zheh tang2
-全份	dzian1 pin1
-全休	dzian1 shieu1
-全優	dzian1 ieu1
-全力	dzian1 lih
-全勤	dzian1 jin1
-全南	dzian1 non1
-全同	dzian1 dung1
-全向	dzian1 shiang3
-全員	dzian1 yun1
-全國	dzian1 kuk
-全城	dzian1 zhen1
-全場	dzian1 jang1
-全天	dzian1 thian1
-全家	dzian1 cia1
-全局	dzian1 jiuk
-全州	dzian1 ceu1
-全市	dzian1 zhu3
-全年	dzian1 nyian1
-全影	dzian1 in2
-全心	dzian1 sin1
-全息	dzian1 sih
-全愈	dzian1 yu2
-全才	dzian1 dze1
-全文	dzian1 ven1
-全新	dzian1 sin1
-全景	dzian1 cin2
-全書	dzian1 shu1
-全本	dzian1 pen2
-全椒	dzian1 tziau1
-全橋	dzian1 jiau1
-全權	dzian1 jion1
-全殲	dzian1 tzian1
-全民	dzian1 min1
-全港	dzian1 ciang2
-全無	dzian1 vu1
-全然	dzian1 zhon1
-全熟	dzian1 zhuk
-全班	dzian1 pan1
-全球	dzian1 jieu1
-全盤	dzian1 bon1
-全知	dzian1 cu1
-全程	dzian1 jen1
-全等	dzian1 ten2
-全素	dzian1 su3
-全線	dzian1 sian3
-全美	dzian1 me2
-全職	dzian1 ceh
-全色	dzian1 seh
-全蝕	dzian1 zheh
-全託	dzian1 thuk
-全豹	dzian1 pau3
-全貌	dzian1 mau3
-全身	dzian1 shen1
-全軍	dzian1 ciun1
-全速	dzian1 suk
-全都	dzian1 tu1
-全陪	dzian1 be1
-全集	dzian1 dzih
-全面	dzian1 mian3
-全音	dzian1 in1
-全體	dzian1 thi2
-全麥	dzian1 meh
-全麻	dzian1 ma1
+全份	dzion1 pin1
+全休	dzion1 shieu1
+全優	dzion1 ieu1
+全力	dzion1 lih
+全勤	dzion1 jin1
+全南	dzion1 non1
+全同	dzion1 dung1
+全向	dzion1 shiang3
+全員	dzion1 yun1
+全國	dzion1 kuk
+全城	dzion1 zhen1
+全場	dzion1 jang1
+全天	dzion1 thian1
+全家	dzion1 cia1
+全局	dzion1 jiuk
+全州	dzion1 ceu1
+全市	dzion1 zhu3
+全年	dzion1 nyian1
+全影	dzion1 in2
+全心	dzion1 sin1
+全息	dzion1 sih
+全愈	dzion1 yu2
+全才	dzion1 dze1
+全文	dzion1 ven1
+全新	dzion1 sin1
+全景	dzion1 cin2
+全書	dzion1 shu1
+全本	dzion1 pen2
+全椒	dzion1 tziau1
+全橋	dzion1 jiau1
+全權	dzion1 jion1
+全殲	dzion1 tzian1
+全民	dzion1 min1
+全港	dzion1 ciang2
+全無	dzion1 vu1
+全然	dzion1 zhon1
+全熟	dzion1 zhuk
+全班	dzion1 pan1
+全球	dzion1 jieu1
+全盤	dzion1 bon1
+全知	dzion1 cu1
+全程	dzion1 jen1
+全等	dzion1 ten2
+全素	dzion1 su3
+全線	dzion1 sian3
+全美	dzion1 me2
+全職	dzion1 ceh
+全色	dzion1 seh
+全蝕	dzion1 zheh
+全託	dzion1 thuk
+全豹	dzion1 pau3
+全貌	dzion1 mau3
+全身	dzion1 shen1
+全軍	dzion1 ciun1
+全速	dzion1 suk
+全都	dzion1 tu1
+全陪	dzion1 be1
+全集	dzion1 dzih
+全面	dzion1 mian3
+全音	dzion1 in1
+全體	dzion1 thi2
+全麥	dzion1 meh
+全麻	dzion1 ma1
 八仙	pah sian1
 八十	pah zheh
 八卦	pah kua3
@@ -2030,7 +2030,7 @@ sort: by_weight
 八強	pah jiang1
 八德	pah teh
 八成	pah zhen1
-八戒	pah cia3
+八戒	pah cie3
 八旗	pah ji1
 八月	pah yoh
 八步	pah bu3
@@ -2260,7 +2260,7 @@ sort: by_weight
 冥幣	min1 bi3
 冥府	min1 fu2
 冥想	min1 siang2
-冥界	min1 cia3
+冥界	min1 cie3
 冥福	min1 fuk
 冥道	min1 dau3
 冥頑	min1 wan1
@@ -2326,7 +2326,7 @@ sort: by_weight
 冰鑹	pin1 tsuon3
 冰隙	pin1 chih
 冰雕	pin1 tiau1
-冰雪	pin1 siah
+冰雪	pin1 sioh
 冰雹	pin1 buk
 冰霜	pin1 suang1
 冰點	pin1 tian2
@@ -2341,7 +2341,7 @@ sort: by_weight
 凈身	tsen1 shen1
 凋敝	tiau1 bi3
 凋落	tiau1 luk
-凋謝	tiau1 zia3
+凋謝	tiau1 zi3
 凌亂	lin1 luon3
 凌兢	lin1 cin1
 凌夷	lin1 yi1
@@ -2476,7 +2476,7 @@ sort: by_weight
 初小	tsu1 siau2
 初年	tsu1 nyian1
 初心	tsu1 sin1
-初戀	tsu1 lian3
+初戀	tsu1 lion3
 初文	tsu1 ven1
 初期	tsu1 ji1
 初次	tsu1 tsy3
@@ -2578,7 +2578,7 @@ sort: by_weight
 制藥	cu3 yak
 制衡	cu3 ghen1
 刻印	kheh in3
-刻寫	kheh sia2
+刻寫	kheh si2
 刻意	kheh i3
 刻日	kheh zheh
 刻期	kheh ji1
@@ -2742,7 +2742,7 @@ sort: by_weight
 劇變	jih pian3
 劇透	jih theu3
 劈手	phih sheu2
-劈柴	phih dza1
+劈柴	phih dze1
 劈腿	phih thue2
 劈裂	phih liah
 劈開	phih khe1
@@ -2774,7 +2774,7 @@ sort: by_weight
 力寶	lih pau2
 力征	lih cen1
 力心	lih sin1
-力戒	lih cia3
+力戒	lih cie3
 力戰	lih con3
 力挫	lih tzo3
 力氣	lih chi3
@@ -2858,9 +2858,9 @@ sort: by_weight
 加里	cia1 li2
 加餐	cia1 tsan1
 加點	cia1 tian2
-劣勢	liah shu3
-劣汰	liah tha3
-劣跡	liah tzih
+劣勢	lioh shu3
+劣汰	lioh the3
+劣跡	lioh tzih
 助力	dzu3 lih
 助威	dzu3 ue1
 助手	dzu3 sheu2
@@ -2910,7 +2910,7 @@ sort: by_weight
 勉力	mian2 lih
 勉勵	mian2 li3
 勉強	mian2 jiang1
-勒戒	leh cia3
+勒戒	leh cie3
 勒斃	leh bi3
 勒死	leh sy2
 勒殺	leh sah
@@ -2948,7 +2948,7 @@ sort: by_weight
 勘察	khon3 tsah
 勘探	khon3 thon1
 勘測	khon3 tseh
-勘界	khon3 cia3
+勘界	khon3 cie3
 勘破	khon3 pho3
 勘誤	khon3 wu3
 勘驗	khon3 yan3
@@ -2990,11 +2990,11 @@ sort: by_weight
 勸學	chion3 yuk
 勸導	chion3 dau3
 勸慰	chion3 ue3
-勸戒	chion3 cia3
+勸戒	chion3 cie3
 勸服	chion3 vuk
 勸架	chion3 cia3
 勸誘	chion3 yeu2
-勸誡	chion3 cia3
+勸誡	chion3 cie3
 勸課	chion3 kho3
 勸諫	chion3 cian3
 勸農	chion3 nung1
@@ -3077,7 +3077,7 @@ sort: by_weight
 化開	hua3 khe1
 化隆	hua3 lung1
 化驗	hua3 yan3
-化齋	hua3 tza1
+化齋	hua3 tze1
 北上	puk zhang3
 北亞	puk ia3
 北京	puk cin1
@@ -3144,17 +3144,17 @@ sort: by_weight
 十倍	zheh be3
 十億	zheh ih
 十克	zheh kheh
-十全	zheh dzian1
+十全	zheh dzion1
 十八	zheh pah
 十六	zheh luk
 十四	zheh sy3
 十字	zheh dzy3
 十干	zheh kon1
 十成	zheh zhen1
-十戒	zheh cia3
+十戒	zheh cie3
 十月	zheh yoh
 十萬	zheh van3
-十誡	zheh cia3
+十誡	zheh cie3
 十進	zheh tzin3
 十錦	zheh cin2
 十項	zheh yang3
@@ -3226,7 +3226,7 @@ sort: by_weight
 半音	pon3 in1
 半響	pon3 shiang2
 半點	pon3 tian2
-卑劣	pi1 liah
+卑劣	pi1 lioh
 卑南	pi1 non1
 卑微	pi1 vi1
 卑怯	pi1 chiah
@@ -3238,7 +3238,7 @@ sort: by_weight
 卓溪	tzuk chi1
 卓然	tzuk zhon1
 卓異	tzuk yi3
-卓絕	tzuk dziah
+卓絕	tzuk dzioh
 卓蘭	tzuk lan1
 卓資	tzuk tzy1
 協力	yah lih
@@ -3366,7 +3366,7 @@ sort: by_weight
 印子	in3 tzy2
 印尼	in3 nyi1
 印巴	in3 pa1
-印戒	in3 cia3
+印戒	in3 cie3
 印支	in3 cu1
 印本	in3 pen2
 印次	in3 tsy3
@@ -3419,11 +3419,11 @@ sort: by_weight
 即時	tzih zhu1
 即為	tzih we1
 即由	tzih yeu1
-卸妝	sia3 tzuang1
-卸職	sia3 ceh
-卸裝	sia3 tzuang1
-卸貨	sia3 ho3
-卸頭	sia3 deu1
+卸妝	si3 tzuang1
+卸職	si3 ceh
+卸裝	si3 tzuang1
+卸貨	si3 ho3
+卸頭	si3 deu1
 卻才	chiak dze1
 卻步	chiak bu3
 卻病	chiak bin3
@@ -3510,7 +3510,7 @@ sort: by_weight
 受寵	zheu3 chung2
 受性	zheu3 sin3
 受惠	zheu3 yi3
-受戒	zheu3 cia3
+受戒	zheu3 cie3
 受持	zheu3 ju1
 受挫	zheu3 tzo3
 受損	zheu3 sen2
@@ -3795,14 +3795,14 @@ sort: by_weight
 吃飽	cih pau2
 吃香	cih shiang1
 吃驚	cih cin1
-吃齋	cih tza1
+吃齋	cih tze1
 各人	kuk zhen1
 各位	kuk we3
 各個	kuk ko3
 各別	kuk biah
 各國	kuk kuk
 各地	kuk di3
-各界	kuk cia3
+各界	kuk cie3
 各異	kuk yi3
 各級	kuk cih
 各自	kuk dzy3
@@ -3833,7 +3833,7 @@ sort: by_weight
 同人	dung1 zhen1
 同仁	dung1 zhen1
 同位	dung1 we3
-同儕	dung1 dza1
+同儕	dung1 dze1
 同功	dung1 kung1
 同化	dung1 hua3
 同名	dung1 min1
@@ -3958,7 +3958,7 @@ sort: by_weight
 含苞	ghon1 pau1
 含蘊	ghon1 iun1
 含金	ghon1 cin1
-吮吸	dzian3 shih
+吮吸	dzion3 shih
 吱嘎	chi3 ciah
 吱聲	chi3 shen1
 吳儀	wu1 yi1
@@ -3977,7 +3977,7 @@ sort: by_weight
 吸入	shih zheh
 吸力	shih lih
 吸口	shih kheu2
-吸吮	shih dzian3
+吸吮	shih dzion3
 吸地	shih di3
 吸引	shih yin2
 吸把	shih pa2
@@ -4000,7 +4000,7 @@ sort: by_weight
 吻技	ven2 ji3
 吻痕	ven2 ghen1
 吽牙	heu2 ya1
-呃逆	ia3 yih
+呃逆	ie3 yih
 呢呢	nyi1 nyi1
 呢喃	nyi1 non1
 呢子	nyi1 tzy2
@@ -4008,7 +4008,7 @@ sort: by_weight
 周中	ceu1 cung1
 周代	ceu1 de3
 周備	ceu1 be3
-周全	ceu1 dzian1
+周全	ceu1 dzion1
 周公	ceu1 kung1
 周到	ceu1 tau3
 周勃	ceu1 beh
@@ -4024,7 +4024,7 @@ sort: by_weight
 周波	ceu1 po1
 周狗	ceu1 keu2
 周瑜	ceu1 yu1
-周璇	ceu1 zian1
+周璇	ceu1 zion1
 周知	ceu1 cu1
 周禮	ceu1 li2
 周章	ceu1 cang1
@@ -4068,7 +4068,7 @@ sort: by_weight
 命途	min3 du1
 命運	min3 yun3
 咆哮	bau1 shiau1
-咨嗟	tzy1 tzia1
+咨嗟	tzy1 tzi1
 咨客	tzy1 kheh
 咨文	tzy1 ven1
 咨詢	tzy1 sin1
@@ -4261,7 +4261,7 @@ sort: by_weight
 商洽	shang1 yah
 商港	shang1 ciang2
 商演	shang1 yan2
-商界	shang1 cia3
+商界	shang1 cie3
 商祺	shang1 ji1
 商科	shang1 kho1
 商稅	shang1 shue3
@@ -4418,7 +4418,7 @@ sort: by_weight
 器具	chi3 jiu3
 器官	chi3 kuon1
 器材	chi3 dze1
-器械	chi3 ya3
+器械	chi3 ye3
 器物	chi3 veh
 器皿	chi3 min2
 噩運	nguk yun3
@@ -4547,7 +4547,7 @@ sort: by_weight
 回程	we1 jen1
 回稟	we1 pin2
 回答	we1 toh
-回絕	we1 dziah
+回絕	we1 dzioh
 回聲	we1 shen1
 回腸	we1 jang1
 回航	we1 ghang1
@@ -4650,11 +4650,11 @@ sort: by_weight
 國歌	kuk ko1
 國民	kuk min1
 國法	kuk fah
-國泰	kuk tha3
+國泰	kuk the3
 國漫	kuk mon3
 國營	kuk yung1
 國璽	kuk sy2
-國界	kuk cia3
+國界	kuk cie3
 國立	kuk lih
 國策	kuk tseh
 國籍	kuk dzih
@@ -4761,7 +4761,7 @@ sort: by_weight
 地壇	di3 dan1
 地宮	di3 kung1
 地層	di3 dzen1
-地帶	di3 ta3
+地帶	di3 te3
 地幔	di3 mon3
 地底	di3 ti2
 地府	di3 fu2
@@ -4890,7 +4890,7 @@ sort: by_weight
 埃蕾	e1 lue2
 埇橋	yung2 jiau1
 埋名	ma1 min1
-埋汰	ma1 tha3
+埋汰	ma1 the3
 埋線	ma1 sian3
 埋葬	ma1 tzang3
 埋設	ma1 shoh
@@ -4986,7 +4986,7 @@ sort: by_weight
 堂哥	dang1 ko1
 堂堂	dang1 dang1
 堂妹	dang1 me3
-堂姐	dang1 tzia2
+堂姐	dang1 tzi2
 堂嫂	dang1 sau2
 堂屋	dang1 uk
 堂廡	dang1 vu2
@@ -5053,7 +5053,7 @@ sort: by_weight
 報案	pau3 on3
 報條	pau3 diau1
 報檢	pau3 cian2
-報界	pau3 cia3
+報界	pau3 cie3
 報盤	pau3 bon1
 報社	pau3 zhe3
 報稅	pau3 shue3
@@ -5108,7 +5108,7 @@ sort: by_weight
 塕埲	ung2 bung3
 塗乙	du1 ih
 塗家	du1 cia1
-塗寫	du1 sia2
+塗寫	du1 si2
 塗層	du1 dzen1
 塗徑	du1 cin3
 塗改	du1 ke2
@@ -5127,7 +5127,7 @@ sort: by_weight
 境地	cin2 di3
 境外	cin2 we3
 境況	cin2 huang3
-境界	cin2 cia3
+境界	cin2 cie3
 境遇	cin2 yu3
 墉垣	yung1 yon1
 墊付	tian3 fu3
@@ -5287,7 +5287,7 @@ sort: by_weight
 外子	we3 tzy2
 外孫	we3 sen1
 外層	we3 dzen1
-外帶	we3 ta3
+外帶	we3 te3
 外幣	we3 bi3
 外形	we3 yin1
 外徑	we3 cin3
@@ -5308,7 +5308,7 @@ sort: by_weight
 外牆	we3 dziang1
 外甥	we3 sen1
 外用	we3 yung3
-外界	we3 cia3
+外界	we3 cie3
 外皮	we3 be1
 外稃	we3 fu1
 外籍	we3 dzih
@@ -5388,7 +5388,7 @@ sort: by_weight
 多芬	to1 fen1
 多虧	to1 khue1
 多言	to1 yan1
-多謝	to1 zia3
+多謝	to1 zi3
 多變	to1 pian3
 多輪	to1 len1
 多邊	to1 pian1
@@ -5437,7 +5437,7 @@ sort: by_weight
 天倫	thian1 len1
 天價	thian1 cia3
 天兒	thian1 el1
-天全	thian1 dzian1
+天全	thian1 dzion1
 天公	thian1 kung1
 天兵	thian1 pin1
 天命	thian1 min3
@@ -5492,10 +5492,10 @@ sort: by_weight
 天珠	thian1 cu1
 天球	thian1 jieu1
 天理	thian1 li2
-天璇	thian1 zian1
+天璇	thian1 zion1
 天璣	thian1 ci1
 天生	thian1 sen1
-天界	thian1 cia3
+天界	thian1 cie3
 天癸	thian1 kue2
 天皇	thian1 wang1
 天神	thian1 zhen1
@@ -5503,7 +5503,7 @@ sort: by_weight
 天空	thian1 khung1
 天等	thian1 ten2
 天篷	thian1 bung1
-天籟	thian1 la3
+天籟	thian1 le3
 天線	thian1 sian3
 天職	thian1 ceh
 天良	thian1 liang1
@@ -5535,32 +5535,32 @@ sort: by_weight
 天鵝	thian1 ngo1
 天麻	thian1 ma1
 天黑	thian1 heh
-太保	tha3 pau2
-太倉	tha3 tsang1
-太公	tha3 kung1
-太初	tha3 tsu1
-太半	tha3 pon3
-太原	tha3 yon1
-太古	tha3 ku2
-太太	tha3 tha3
-太妹	tha3 me3
-太婆	tha3 bo1
-太子	tha3 tzy2
-太學	tha3 yuk
-太宗	tha3 tzung1
-太師	tha3 su1
-太常	tha3 zhang1
-太康	tha3 khang1
-太極	tha3 jih
-太歲	tha3 sue3
-太湖	tha3 wu1
-太田	tha3 dian1
-太白	tha3 beh
-太祖	tha3 tzu2
-太空	tha3 khung1
-太醫	tha3 i1
-太陰	tha3 in1
-太陽	tha3 yang1
+太保	the3 pau2
+太倉	the3 tsang1
+太公	the3 kung1
+太初	the3 tsu1
+太半	the3 pon3
+太原	the3 yon1
+太古	the3 ku2
+太太	the3 the3
+太妹	the3 me3
+太婆	the3 bo1
+太子	the3 tzy2
+太學	the3 yuk
+太宗	the3 tzung1
+太師	the3 su1
+太常	the3 zhang1
+太康	the3 khang1
+太極	the3 jih
+太歲	the3 sue3
+太湖	the3 wu1
+太田	the3 dian1
+太白	the3 beh
+太祖	the3 tzu2
+太空	the3 khung1
+太醫	the3 i1
+太陰	the3 in1
+太陽	the3 yang1
 央及	iang1 jih
 央求	iang1 jieu1
 央託	iang1 thuk
@@ -5585,7 +5585,7 @@ sort: by_weight
 失恃	sheh zhu3
 失意	sheh i3
 失態	sheh the3
-失戀	sheh lian3
+失戀	sheh lion3
 失手	sheh sheu2
 失措	sheh tsu3
 失效	sheh yau3
@@ -5632,7 +5632,7 @@ sort: by_weight
 夾具	ciah jiu3
 夾子	ciah tzy2
 夾層	ciah dzen1
-夾帶	ciah ta3
+夾帶	ciah te3
 夾心	ciah sin1
 夾批	ciah phi1
 夾持	ciah ju1
@@ -5674,7 +5674,7 @@ sort: by_weight
 奚落	yi1 luk
 奢侈	she1 chu2
 奢求	she1 jieu1
-奢泰	she1 tha3
+奢泰	she1 the3
 奢盼	she1 phan3
 奢糜	she1 me1
 奢靡	she1 me2
@@ -5769,9 +5769,9 @@ sort: by_weight
 始終	shu2 cung1
 始點	shu2 tian2
 姍姍	san1 san1
-姐丈	tzia2 jang3
-姐妹	tzia2 me3
-姐姐	tzia2 tzia2
+姐丈	tzi2 jang3
+姐妹	tzi2 me3
+姐姐	tzi2 tzi2
 姑丈	ku1 jang3
 姑姑	ku1 ku1
 姑娘	ku1 nyiang1
@@ -5794,7 +5794,7 @@ sort: by_weight
 姦雄	cian1 yung1
 姨丈	yi1 jang3
 姨妹	yi1 me3
-姨姐	yi1 tzia2
+姨姐	yi1 tzi2
 姨娘	yi1 nyiang1
 姨媽	yi1 mu2
 姨母	yi1 meu2
@@ -5829,9 +5829,9 @@ sort: by_weight
 威逼	ue1 pih
 威靈	ue1 lin1
 威顯	ue1 shian2
-威駭	ue1 ya3
-娃娃	ia1 ia1
-娃子	ia1 tzy2
+威駭	ue1 ye3
+娃娃	ie1 ie1
+娃子	ie1 tzy2
 娘娘	nyiang1 nyiang1
 娘媽	nyiang1 mu2
 娘子	nyiang1 tzy2
@@ -5844,7 +5844,7 @@ sort: by_weight
 娜娜	no2 no2
 娟秀	ion1 sieu3
 娥眉	ngo1 me1
-娭姐	shi1 tzia2
+娭姐	shi1 tzi2
 婆姨	bo1 yi1
 婆娘	bo1 nyiang1
 婆婆	bo1 bo1
@@ -5855,7 +5855,7 @@ sort: by_weight
 婉言	ion2 yan1
 婉詞	ion2 zy1
 婉辭	ion2 zy1
-婚介	huen1 cia3
+婚介	huen1 cie3
 婚典	huen1 tian2
 婚前	huen1 dzian1
 婚友	huen1 yeu2
@@ -5864,7 +5864,7 @@ sort: by_weight
 婚嫁	huen1 cia3
 婚宴	huen1 ian3
 婚慶	huen1 chin3
-婚戀	huen1 lian3
+婚戀	huen1 lion3
 婚書	huen1 shu1
 婚期	huen1 ji1
 婚禮	huen1 li2
@@ -5878,14 +5878,14 @@ sort: by_weight
 婺城	vu3 zhen1
 婺源	vu3 yon1
 媒人	me1 zhen1
-媒介	me1 cia3
+媒介	me1 cie3
 媒婆	me1 bo1
 媒材	me1 dze1
-媒界	me1 cia3
+媒界	me1 cie3
 媒體	me1 thi2
 媚俗	me3 zuk
 媚外	me3 we3
-媚娃	me3 ia1
+媚娃	me3 ie1
 媚惑	me3 ghuk
 媚態	me3 the3
 媚眼	me3 yan2
@@ -6088,7 +6088,7 @@ sort: by_weight
 孤拐	ku1 kua2
 孤獨	ku1 duk
 孤立	ku1 lih
-孤絕	ku1 dziah
+孤絕	ku1 dzioh
 孤老	ku1 lau2
 孤膽	ku1 tan2
 孤負	ku1 vu3
@@ -6124,7 +6124,7 @@ sort: by_weight
 學報	yuk pau3
 學士	yuk dzu3
 學妹	yuk me3
-學姐	yuk tzia2
+學姐	yuk tzi2
 學子	yuk tzy2
 學家	yuk cia1
 學年	yuk nyian1
@@ -6169,7 +6169,7 @@ sort: by_weight
 安仁	on1 zhen1
 安保	on1 pau2
 安倍	on1 be3
-安全	on1 dzian1
+安全	on1 dzion1
 安利	on1 li3
 安化	on1 hua3
 安卓	on1 tzuk
@@ -6200,7 +6200,7 @@ sort: by_weight
 安檢	on1 cian2
 安次	on1 tsy3
 安歇	on1 shiah
-安泰	on1 tha3
+安泰	on1 the3
 安源	on1 yon1
 安溪	on1 chi1
 安澤	on1 dzeh
@@ -6246,7 +6246,7 @@ sort: by_weight
 完了	won1 liau2
 完人	won1 zhen1
 完備	won1 be3
-完全	won1 dzian1
+完全	won1 dzion1
 完善	won1 zhon3
 完工	won1 kung1
 完形	won1 yin1
@@ -6292,7 +6292,7 @@ sort: by_weight
 官子	kuon1 tzy2
 官學	kuon1 yuk
 官客	kuon1 kheh
-官宣	kuon1 sian1
+官宣	kuon1 sion1
 官宦	kuon1 wan3
 官家	kuon1 cia1
 官府	kuon1 fu2
@@ -6308,7 +6308,7 @@ sort: by_weight
 官辦	kuon1 ban3
 官邸	kuon1 ti2
 官銜	kuon1 yan1
-官階	kuon1 cia1
+官階	kuon1 cie1
 官非	kuon1 fi1
 宙斯	jeu3 sy1
 宜人	yi1 zhen1
@@ -6349,26 +6349,26 @@ sort: by_weight
 客運	kheh yun3
 客隊	kheh due3
 客體	kheh thi2
-宣判	sian1 phon3
-宣化	sian1 hua3
-宣城	sian1 zhen1
-宣威	sian1 ue1
-宣州	sian1 ceu1
-宣布	sian1 pu3
-宣德	sian1 teh
-宣恩	sian1 en1
-宣戰	sian1 con3
-宣揚	sian1 yang1
-宣教	sian1 ciau3
-宣洩	sian1 yi3
-宣漢	sian1 hon3
-宣紙	sian1 cu2
-宣統	sian1 thung3
-宣言	sian1 yan1
-宣誓	sian1 zhu3
-宣講	sian1 ciang2
-宣讀	sian1 duk
-宣道	sian1 dau3
+宣判	sion1 phon3
+宣化	sion1 hua3
+宣城	sion1 zhen1
+宣威	sion1 ue1
+宣州	sion1 ceu1
+宣布	sion1 pu3
+宣德	sion1 teh
+宣恩	sion1 en1
+宣戰	sion1 con3
+宣揚	sion1 yang1
+宣教	sion1 ciau3
+宣洩	sion1 yi3
+宣漢	sion1 hon3
+宣紙	sion1 cu2
+宣統	sion1 thung3
+宣言	sion1 yan1
+宣誓	sion1 zhu3
+宣講	sion1 ciang2
+宣讀	sion1 duk
+宣道	sion1 dau3
 室友	sheh yeu2
 室外	sheh we3
 室溫	sheh uen1
@@ -6422,7 +6422,7 @@ sort: by_weight
 家園	cia1 yon1
 家境	cia1 cin2
 家奴	cia1 nu1
-家姐	cia1 tzia2
+家姐	cia1 tzi2
 家姑	cia1 ku1
 家娘	cia1 nyiang1
 家婆	cia1 bo1
@@ -6560,7 +6560,7 @@ sort: by_weight
 寒冬	ghon1 tung1
 寒喧	ghon1 shion1
 寒天	ghon1 thian1
-寒帶	ghon1 ta3
+寒帶	ghon1 te3
 寒微	ghon1 vi1
 寒心	ghon1 sin1
 寒意	ghon1 i3
@@ -6683,15 +6683,15 @@ sort: by_weight
 審讀	shen2 duk
 審酌	shen2 cak
 審閱	shen2 yoh
-寫信	sia2 sin3
-寫字	sia2 dzy3
-寫完	sia2 won1
-寫實	sia2 zheh
-寫意	sia2 i3
-寫手	sia2 sheu2
-寫法	sia2 fah
-寫照	sia2 cau3
-寫生	sia2 sen1
+寫信	si2 sin3
+寫字	si2 dzy3
+寫完	si2 won1
+寫實	si2 zheh
+寫意	si2 i3
+寫手	si2 sheu2
+寫法	si2 fah
+寫照	si2 cau3
+寫生	si2 sen1
 寬亮	khuon1 liang3
 寬免	khuon1 mian2
 寬口	khuon1 kheu2
@@ -6700,7 +6700,7 @@ sort: by_weight
 寬宥	khuon1 yeu3
 寬容	khuon1 yung1
 寬展	khuon1 con2
-寬帶	khuon1 ta3
+寬帶	khuon1 te3
 寬廣	khuon1 kuang2
 寬弘	khuon1 ghung1
 寬待	khuon1 de3
@@ -6937,16 +6937,16 @@ sort: by_weight
 小報	siau2 pau3
 小妖	siau2 iau1
 小妹	siau2 me3
-小姐	siau2 tzia2
+小姐	siau2 tzi2
 小姑	siau2 ku1
 小姨	siau2 yi1
-小娃	siau2 ia1
+小娃	siau2 ie1
 小子	siau2 tzy2
 小孩	siau2 ghe1
 小學	siau2 yuk
 小官	siau2 kuon1
 小寒	siau2 ghon1
-小寫	siau2 sia2
+小寫	siau2 si2
 小小	siau2 siau2
 小屋	siau2 uk
 小川	siau2 chuon1
@@ -6975,7 +6975,7 @@ sort: by_weight
 小橋	siau2 jiau1
 小民	siau2 min1
 小河	siau2 gho1
-小泉	siau2 dzian1
+小泉	siau2 dzion1
 小泡	siau2 phau1
 小波	siau2 po1
 小淵	siau2 ion1
@@ -7028,7 +7028,7 @@ sort: by_weight
 小開	siau2 khe1
 小雅	siau2 ya2
 小雞	siau2 ci1
-小雪	siau2 siah
+小雪	siau2 sioh
 小項	siau2 yang3
 小顎	siau2 nguk
 小馬	siau2 ma2
@@ -7070,9 +7070,9 @@ sort: by_weight
 尤為	yeu1 we1
 尤物	yeu1 veh
 尤金	yeu1 cin1
-尬意	cia3 i3
-尬聊	cia3 liau1
-尬舞	cia3 vu2
+尬意	cie3 i3
+尬聊	cie3 liau1
+尬舞	cie3 vu2
 就地	dzieu3 di3
 就學	dzieu3 yuk
 就寢	dzieu3 tsin2
@@ -7158,8 +7158,8 @@ sort: by_weight
 屁眼	phi3 yan2
 屁股	phi3 ku2
 屁話	phi3 wa3
-屆時	cia3 zhu1
-屆滿	cia3 mon2
+屆時	cie3 zhu1
+屆滿	cie3 mon2
 屋外	uk we3
 屋子	uk tzy2
 屋宇	uk yu2
@@ -7205,7 +7205,7 @@ sort: by_weight
 層級	dzen1 cih
 層雲	dzen1 yun1
 層面	dzen1 mian3
-履帶	li2 ta3
+履帶	li2 te3
 履歷	li2 lih
 履踐	li2 dzian3
 屬吏	zhuk li3
@@ -7374,7 +7374,7 @@ sort: by_weight
 川震	chuon1 cen3
 川黨	chuon1 tang2
 州伯	ceu1 peh
-州界	ceu1 cia3
+州界	ceu1 cie3
 州立	ceu1 lih
 巡弋	zin1 yih
 巡捕	zin1 bu3
@@ -7438,7 +7438,7 @@ sort: by_weight
 巨石	jiu3 zheh
 巨細	jiu3 si3
 巨蜥	jiu3 sih
-巨蟹	jiu3 ya3
+巨蟹	jiu3 ye3
 巨蠹	jiu3 tu3
 巨變	jiu3 pian3
 巨資	jiu3 tzy1
@@ -7575,7 +7575,7 @@ sort: by_weight
 師友	su1 yeu2
 師古	su1 ku2
 師妹	su1 me3
-師姐	su1 tzia2
+師姐	su1 tzi2
 師宗	su1 tzung1
 師尊	su1 tzen1
 師徒	su1 du1
@@ -7593,30 +7593,30 @@ sort: by_weight
 帳目	cang3 muk
 帳篷	cang3 bung1
 帳簾	cang3 lian1
-帶來	ta3 le1
-帶兒	ta3 el1
-帶兵	ta3 pin1
-帶勁	ta3 cin3
-帶動	ta3 dung3
-帶去	ta3 chiu3
-帶回	ta3 we1
-帶子	ta3 tzy2
-帶孝	ta3 shiau3
-帶寬	ta3 khuon1
-帶嶺	ta3 lin2
-帶感	ta3 kon2
-帶有	ta3 yeu2
-帶病	ta3 bin3
-帶給	ta3 cih
-帶薪	ta3 sin1
-帶賽	ta3 se3
-帶路	ta3 lu3
-帶釦	ta3 kheu2
-帶電	ta3 dian3
-帶露	ta3 lu3
-帶領	ta3 lin2
-帶頭	ta3 deu1
-帶魚	ta3 yu1
+帶來	te3 le1
+帶兒	te3 el1
+帶兵	te3 pin1
+帶勁	te3 cin3
+帶動	te3 dung3
+帶去	te3 chiu3
+帶回	te3 we1
+帶子	te3 tzy2
+帶孝	te3 shiau3
+帶寬	te3 khuon1
+帶嶺	te3 lin2
+帶感	te3 kon2
+帶有	te3 yeu2
+帶病	te3 bin3
+帶給	te3 cih
+帶薪	te3 sin1
+帶賽	te3 se3
+帶路	te3 lu3
+帶釦	te3 kheu2
+帶電	te3 dian3
+帶露	te3 lu3
+帶領	te3 lin2
+帶頭	te3 deu1
+帶魚	te3 yu1
 帷幔	we1 mon3
 帷幕	we1 muk
 常人	zhang1 zhen1
@@ -7814,7 +7814,7 @@ sort: by_weight
 底漆	ti2 tsih
 底片	ti2 phian3
 底版	ti2 pan2
-底界	ti2 cia3
+底界	ti2 cie3
 底盤	ti2 bon1
 底端	ti2 tuon1
 底細	ti2 si3
@@ -7873,14 +7873,14 @@ sort: by_weight
 庶子	shu3 tzy2
 庶室	shu3 sheh
 庶民	shu3 min1
-康佳	khang1 cia1
+康佳	khang1 cie1
 康保	khang1 pau2
 康健	khang1 jian3
 康巴	khang1 pa1
 康強	khang1 jiang1
 康德	khang1 teh
 康橋	khang1 jiau1
-康泰	khang1 tha3
+康泰	khang1 the3
 康熙	khang1 shi1
 康衢	khang1 jiu1
 康馬	khang1 ma2
@@ -7928,7 +7928,7 @@ sort: by_weight
 廢墟	fi3 chiu1
 廢弛	fi3 shu2
 廢時	fi3 zhu1
-廢柴	fi3 dza1
+廢柴	fi3 dze1
 廢棄	fi3 chi3
 廢止	fi3 cu2
 廢水	fi3 shue2
@@ -8174,13 +8174,13 @@ sort: by_weight
 形象	yin1 ziang3
 形貌	yin1 mau3
 形跡	yin1 tzih
-形骸	yin1 ya1
+形骸	yin1 ye1
 形體	yin1 thi2
 彩信	tse2 sin3
 彩印	tse2 in3
 彩塑	tse2 su3
 彩妝	tse2 tzuang1
-彩帶	tse2 ta3
+彩帶	tse2 te3
 彩排	tse2 ba1
 彩擴	tse2 wang3
 彩旗	tse2 ji1
@@ -8251,7 +8251,7 @@ sort: by_weight
 往前	wang2 dzian1
 往古	wang2 ku2
 往外	wang2 we3
-往屆	wang2 cia3
+往屆	wang2 cie3
 往常	wang2 zhang1
 往年	wang2 nyian1
 往往	wang2 wang2
@@ -9001,7 +9001,7 @@ sort: by_weight
 愛慕	e3 mu3
 愛憎	e3 tzen1
 愛憐	e3 lian1
-愛戀	e3 lian3
+愛戀	e3 lion3
 愛戴	e3 te3
 愛撫	e3 fu2
 愛昵	e3 neh
@@ -9042,7 +9042,7 @@ sort: by_weight
 感發	kon2 fah
 感知	kon2 cu1
 感觸	kon2 chuk
-感謝	kon2 zia3
+感謝	kon2 zi3
 感遇	kon2 yu3
 愧對	kue3 tue3
 愧怍	kue3 dzuk
@@ -9144,7 +9144,7 @@ sort: by_weight
 憂鬱	ieu1 iuh
 憊倦	ba3 jion3
 憊懶	ba3 lan2
-憊賴	ba3 la3
+憊賴	ba3 le3
 憋悶	phiah men3
 憎恨	tzen1 ghen3
 憐恤	lian1 sih
@@ -9187,8 +9187,8 @@ sort: by_weight
 懂眼	tung2 yan2
 懇求	khen2 jieu1
 懇辭	khen2 zy1
-懈弛	cia3 shu2
-懈怠	cia3 de3
+懈弛	cie3 shu2
+懈怠	cie3 de3
 應付	in3 fu3
 應允	in3 yun2
 應力	in3 lih
@@ -9215,7 +9215,7 @@ sort: by_weight
 應點	in3 tian2
 懦弱	zhu1 zhak
 懮慮	ieu2 liu3
-懲戒	jen1 cia3
+懲戒	jen1 cie3
 懲罰	jen1 vah
 懲辦	jen1 ban3
 懵懂	mung2 tung2
@@ -9248,7 +9248,7 @@ sort: by_weight
 懷集	wa1 dzih
 懸停	yon1 din1
 懸垂	yon1 zhue1
-懸帶	yon1 ta3
+懸帶	yon1 te3
 懸念	yon1 nyian3
 懸掛	yon1 kua3
 懸案	yon1 on3
@@ -9261,16 +9261,16 @@ sort: by_weight
 懸賞	yon1 shang2
 懾服	coh vuk
 懿旨	i3 cu2
-戀人	lian3 zhen1
-戀家	lian3 cia1
-戀念	lian3 nyian3
-戀情	lian3 dzin1
-戀愛	lian3 e3
-戀慕	lian3 mu3
-戀戰	lian3 con3
-戀歌	lian3 ko1
-戀物	lian3 veh
-戀舊	lian3 jieu3
+戀人	lion3 zhen1
+戀家	lion3 cia1
+戀念	lion3 nyian3
+戀情	lion3 dzin1
+戀愛	lion3 e3
+戀慕	lion3 mu3
+戀戰	lion3 con3
+戀歌	lion3 ko1
+戀物	lion3 veh
+戀舊	lion3 jieu3
 戇督	tzuang3 tuk
 戈壁	ko1 pih
 戈爾	ko1 el2
@@ -9300,7 +9300,7 @@ sort: by_weight
 成份	zhen1 pin1
 成佛	zhen1 veh
 成像	zhen1 ziang3
-成全	zhen1 dzian1
+成全	zhen1 dzion1
 成功	zhen1 kung1
 成千	zhen1 tsian1
 成名	zhen1 min1
@@ -9363,23 +9363,23 @@ sort: by_weight
 我等	ngo2 ten2
 我輩	ngo2 pe3
 我靠	ngo2 khau3
-戒備	cia3 be3
-戒刀	cia3 tau1
-戒命	cia3 min3
-戒嚴	cia3 yan1
-戒壇	cia3 dan1
-戒子	cia3 tzy2
-戒律	cia3 lih
-戒心	cia3 sin1
-戒忌	cia3 ji3
-戒懼	cia3 jiu3
-戒指	cia3 cu2
-戒條	cia3 diau1
-戒毒	cia3 duk
-戒煙	cia3 ian1
-戒絕	cia3 dziah
-戒規	cia3 kue1
-戒酒	cia3 tzieu2
+戒備	cie3 be3
+戒刀	cie3 tau1
+戒命	cie3 min3
+戒嚴	cie3 yan1
+戒壇	cie3 dan1
+戒子	cie3 tzy2
+戒律	cie3 lih
+戒心	cie3 sin1
+戒忌	cie3 ji3
+戒懼	cie3 jiu3
+戒指	cie3 cu2
+戒條	cie3 diau1
+戒毒	cie3 duk
+戒煙	cie3 ian1
+戒絕	cie3 dzioh
+戒規	cie3 kue1
+戒酒	cie3 tzieu2
 戔戔	dzan1 dzan1
 或是	ghuk zhu3
 或然	ghuk zhon1
@@ -9461,7 +9461,7 @@ sort: by_weight
 手動	sheu2 dung3
 手勢	sheu2 shu3
 手包	sheu2 pau1
-手寫	sheu2 sia2
+手寫	sheu2 si2
 手工	sheu2 kung1
 手巾	sheu2 cin1
 手帕	sheu2 mah
@@ -9522,7 +9522,7 @@ sort: by_weight
 扎囊	tzah nang1
 扎堆	tzah tue1
 扎實	tzah zheh
-扎帶	tzah ta3
+扎帶	tzah te3
 扎扎	tzah tzah
 扎根	tzah ken1
 扎款	tzah khuon2
@@ -9589,7 +9589,7 @@ sort: by_weight
 抃掌	bian3 cang2
 抄件	tsau1 jian3
 抄家	tsau1 cia1
-抄寫	tsau1 sia2
+抄寫	tsau1 si2
 抄手	tsau1 sheu2
 抄本	tsau1 pen2
 抄網	tsau1 vang2
@@ -9689,7 +9689,7 @@ sort: by_weight
 抵罪	ti2 dzue3
 抵補	ti2 pu2
 抵觸	ti2 chuk
-抵賴	ti2 la3
+抵賴	ti2 le3
 抵銷	ti2 siau1
 抹刀	moh tau1
 抹布	moh pu3
@@ -9805,14 +9805,14 @@ sort: by_weight
 拒付	jiu3 fu3
 拒捕	jiu3 bu3
 拒接	jiu3 tziah
-拒絕	jiu3 dziah
+拒絕	jiu3 dzioh
 拒馬	jiu3 ma2
 拖動	tho3 dung3
 拖地	tho3 di3
 拖堂	tho3 dang1
 拖宕	tho3 dang3
 拖布	tho3 pu3
-拖帶	tho3 ta3
+拖帶	tho3 te3
 拖慢	tho3 man3
 拖把	tho3 pa2
 拖拉	tho3 lah
@@ -9833,12 +9833,12 @@ sort: by_weight
 拘役	ciu1 yuk
 拘忌	ciu1 ji3
 拘捕	ciu1 bu3
-拘攣	ciu1 lian1
+拘攣	ciu1 lion1
 拘束	ciu1 shuk
 拘檢	ciu1 cian2
 拘禮	ciu1 li2
 拘謹	ciu1 cin2
-拙劣	cuoh liah
+拙劣	cuoh lioh
 拙澀	cuoh seh
 拙直	cuoh jeh
 拙筆	cuoh pih
@@ -9878,7 +9878,7 @@ sort: by_weight
 拜師	pa3 su1
 拜年	pa3 nyian1
 拜拜	pa3 pa3
-拜泉	pa3 dzian1
+拜泉	pa3 dzion1
 拜登	pa3 ten1
 拜節	pa3 tziah
 拜託	pa3 thuk
@@ -9924,7 +9924,7 @@ sort: by_weight
 拼圖	pin1 du1
 拼字	pin1 dzy3
 拼客	pin1 kheh
-拼寫	pin1 sia2
+拼寫	pin1 si2
 拼成	pin1 zhen1
 拼接	pin1 tziah
 拼攏	pin1 lung2
@@ -9947,12 +9947,12 @@ sort: by_weight
 拾物	zheh veh
 拾獲	zheh ghuk
 拾級	zheh cih
-拾芥	zheh cia3
+拾芥	zheh cie3
 持久	ju1 cieu2
 持刀	ju1 tau1
 持家	ju1 cia1
 持有	ju1 yeu2
-持械	ju1 ya3
+持械	ju1 ye3
 持用	ju1 yung3
 持續	ju1 zuk
 持股	ju1 ku2
@@ -9974,7 +9974,7 @@ sort: by_weight
 指派	cu2 pha3
 指環	cu2 wan1
 指甲	cu2 ciah
-指界	cu2 cia3
+指界	cu2 cie3
 指紋	cu2 ven1
 指謫	cu2 tzeh
 指證	cu2 cen3
@@ -9982,7 +9982,7 @@ sort: by_weight
 指路	cu2 lu3
 指頭	cu2 deu1
 指點	cu2 tian2
-挈帶	chiah ta3
+挈帶	chiah te3
 挈挈	chiah chiah
 按壓	on3 iah
 按天	on3 thian1
@@ -10021,7 +10021,7 @@ sort: by_weight
 挽詞	van2 zy1
 挽辭	van2 zy1
 挽額	van2 gheh
-挾帶	yah ta3
+挾帶	yah te3
 挾持	yah ju1
 挾製	yah cu3
 捅破	thung2 pho3
@@ -10295,7 +10295,7 @@ sort: by_weight
 揉搓	zheu1 tso1
 揉碎	zheu1 sue3
 描圖	miau1 du1
-描寫	miau1 sia2
+描寫	miau1 si2
 描繪	miau1 we3
 描述	miau1 zheh
 描金	miau1 cin1
@@ -10365,8 +10365,8 @@ sort: by_weight
 揮舞	hue1 vu2
 揮霍	hue1 huk
 揮麈	hue1 cu2
-搋子	tsa1 tzy2
-搋麵	tsa1 mian3
+搋子	tse1 tzy2
+搋麵	tse1 mian3
 損人	sen2 zhen1
 損友	sen2 yeu2
 損失	sen2 sheh
@@ -10413,7 +10413,7 @@ sort: by_weight
 搭桌	thah tzuk
 搭檔	thah tang1
 搭理	thah li2
-搭界	thah cia3
+搭界	thah cie3
 搭白	thah beh
 搭肩	thah cian1
 搭腔	thah chiang1
@@ -10588,7 +10588,7 @@ sort: by_weight
 攔網	lan1 vang2
 攔腰	lan1 iau1
 攔路	lan1 lu3
-攜帶	yi1 ta3
+攜帶	yi1 te3
 攜手	yi1 sheu2
 攜款	yi1 khuon2
 攜眷	yi1 cion3
@@ -10632,7 +10632,7 @@ sort: by_weight
 改天	ke2 thian1
 改嫁	ke2 cia3
 改學	ke2 yuk
-改寫	ke2 sia2
+改寫	ke2 si2
 改建	ke2 cian3
 改成	ke2 zhen1
 改換	ke2 won3
@@ -10671,7 +10671,7 @@ sort: by_weight
 政法	cen3 fah
 政派	cen3 pha3
 政理	cen3 li2
-政界	cen3 cia3
+政界	cen3 cie3
 政策	cen3 tseh
 政紀	cen3 ci2
 政綱	cen3 kang1
@@ -10840,7 +10840,7 @@ sort: by_weight
 文學	ven1 yuk
 文安	ven1 on1
 文宗	ven1 tzung1
-文宣	ven1 sian1
+文宣	ven1 sion1
 文山	ven1 san1
 文庫	ven1 khu3
 文康	ven1 khang1
@@ -10977,7 +10977,7 @@ sort: by_weight
 新民	sin1 min1
 新沂	sin1 yi1
 新河	sin1 gho1
-新泰	sin1 tha3
+新泰	sin1 the3
 新津	sin1 tzin1
 新洲	sin1 ceu1
 新派	sin1 pha3
@@ -10990,7 +10990,7 @@ sort: by_weight
 新版	sin1 pan2
 新生	sin1 sen1
 新田	sin1 dian1
-新界	sin1 cia3
+新界	sin1 cie3
 新異	sin1 yi3
 新疆	sin1 ciang1
 新知	sin1 cu1
@@ -11002,7 +11002,7 @@ sort: by_weight
 新羅	sin1 lo1
 新芽	sin1 ya1
 新莊	sin1 tzuang1
-新蔡	sin1 tsa3
+新蔡	sin1 tse3
 新詞	sin1 zy1
 新豐	sin1 fung1
 新貴	sin1 kue3
@@ -11112,7 +11112,7 @@ sort: by_weight
 日電	zheh dian3
 日頭	zheh deu1
 旨意	cu2 i3
-早些	tzau2 sia1
+早些	tzau2 si1
 早亡	tzau2 vang1
 早來	tzau2 le1
 早前	tzau2 dzian1
@@ -11124,7 +11124,7 @@ sort: by_weight
 早就	tzau2 dzieu3
 早市	tzau2 zhu3
 早年	tzau2 nyian1
-早戀	tzau2 lian3
+早戀	tzau2 lion3
 早播	tzau2 po3
 早日	tzau2 zheh
 早春	tzau2 chen1
@@ -11334,7 +11334,7 @@ sort: by_weight
 昭蘇	cau1 su1
 昭通	cau1 thung1
 昭陽	cau1 yang1
-昭雪	cau1 siah
+昭雪	cau1 sioh
 是以	zhu3 yi2
 是故	zhu3 ku3
 是日	zhu3 zheh
@@ -11441,7 +11441,7 @@ sort: by_weight
 景山	cin2 san1
 景東	cin2 tung1
 景況	cin2 huang3
-景泰	cin2 tha3
+景泰	cin2 the3
 景洪	cin2 ghung1
 景物	cin2 veh
 景致	cin2 cu3
@@ -11510,7 +11510,7 @@ sort: by_weight
 暗害	on3 ghe3
 暗影	on3 in2
 暗想	on3 siang2
-暗戀	on3 lian3
+暗戀	on3 lion3
 暗指	on3 cu2
 暗探	on3 thon1
 暗昧	on3 me3
@@ -11574,11 +11574,11 @@ sort: by_weight
 曠職	khuang3 ceh
 曠課	khuang3 kho3
 曠闊	khuang3 khuoh
-曬友	sa3 yeu2
-曬圖	sa3 du1
-曬客	sa3 kheh
-曬斑	sa3 pan1
-曬黑	sa3 heh
+曬友	se3 yeu2
+曬圖	se3 du1
+曬客	se3 kheh
+曬斑	se3 pan1
+曬黑	se3 heh
 曲周	chiuk ceu1
 曲子	chiuk tzy2
 曲尺	chiuk cheh
@@ -11607,7 +11607,7 @@ sort: by_weight
 書名	shu1 min1
 書報	shu1 pau3
 書壇	shu1 dan1
-書寫	shu1 sia2
+書寫	shu1 si2
 書局	shu1 jiuk
 書店	shu1 tian3
 書庫	shu1 khu3
@@ -11644,7 +11644,7 @@ sort: by_weight
 書館	shu1 kuon3
 書香	shu1 shiang1
 書體	shu1 thi2
-書齋	shu1 tza1
+書齋	shu1 tze1
 曹丕	dzau1 phe1
 曹沖	dzau1 jung1
 曹魏	dzau1 we3
@@ -11656,7 +11656,7 @@ sort: by_weight
 替補	thi3 pu2
 替身	thi3 shen1
 替餐	thi3 tsan1
-最佳	tzue3 cia1
+最佳	tzue3 cie1
 最優	tzue3 ieu1
 最初	tzue3 tsu1
 最善	tzue3 zhon3
@@ -11749,7 +11749,7 @@ sort: by_weight
 有無	yeu2 vu1
 有理	yeu2 li2
 有用	yeu2 yung3
-有界	yeu2 cia3
+有界	yeu2 cie3
 有的	yeu2 tih
 有益	yeu2 ih
 有碼	yeu2 ma2
@@ -11828,7 +11828,7 @@ sort: by_weight
 木材	muk dze1
 木村	muk tsen1
 木板	muk pan2
-木柴	muk dza1
+木柴	muk dze1
 木框	muk khuang1
 木棉	muk mian1
 木棍	muk wen3
@@ -11921,7 +11921,7 @@ sort: by_weight
 本子	pen2 tzy2
 本字	pen2 dzy3
 本家	pen2 cia1
-本屆	pen2 cia3
+本屆	pen2 cie3
 本州	pen2 ceu1
 本市	pen2 zhu3
 本幣	pen2 bi3
@@ -12044,7 +12044,7 @@ sort: by_weight
 杜梨	du3 li1
 杜牧	du3 muk
 杜甫	du3 fu2
-杜絕	du3 dziah
+杜絕	du3 dzioh
 杜蘅	du3 ghen1
 杜衡	du3 ghen1
 杜邦	du3 pang1
@@ -12055,7 +12055,7 @@ sort: by_weight
 杞國	chi2 kuk
 杞婦	chi2 vu3
 束修	shuk sieu1
-束帶	shuk ta3
+束帶	shuk te3
 束手	shuk sheu2
 束狹	shuk yah
 束緊	shuk cin2
@@ -12347,13 +12347,13 @@ sort: by_weight
 柳眉	lieu2 me1
 柳體	lieu2 thi2
 柳鶯	lieu2 in1
-柴火	dza1 ho2
-柴田	dza1 dian1
-柴胡	dza1 wu1
-柴草	dza1 tsau2
-柴薪	dza1 sin1
-柴門	dza1 men1
-柴雞	dza1 ci1
+柴火	dze1 ho2
+柴田	dze1 dian1
+柴胡	dze1 wu1
+柴草	dze1 tsau2
+柴薪	dze1 sin1
+柴門	dze1 men1
+柴雞	dze1 ci1
 栓皮	suon1 be1
 栗子	lih tzy2
 栗色	lih seh
@@ -12402,7 +12402,7 @@ sort: by_weight
 根特	ken1 deh
 根由	ken1 yeu1
 根系	ken1 yi3
-根絕	ken1 dziah
+根絕	ken1 dzioh
 根音	ken1 in1
 根鬚	ken1 siu1
 桂圓	ci3 yon1
@@ -12535,7 +12535,7 @@ sort: by_weight
 梯田	thi1 dian1
 梯級	thi1 cih
 梯隊	thi1 due3
-械鬥	ya3 teu3
+械鬥	ye3 teu3
 梳妝	su1 tzuang1
 梳子	su1 tzy2
 梳弄	su1 lung3
@@ -12548,7 +12548,7 @@ sort: by_weight
 棄櫻	chi3 in1
 棄權	chi3 jion1
 棄用	chi3 yung3
-棄絕	chi3 dziah
+棄絕	chi3 dzioh
 棄置	chi3 cu3
 棄船	chi3 zhuon1
 棉布	mian1 pu3
@@ -12647,7 +12647,7 @@ sort: by_weight
 業根	yah ken1
 業海	yah he2
 業滿	yah mon2
-業界	yah cia3
+業界	yah cie3
 業績	yah tzih
 業者	yah ce2
 業餘	yah yu1
@@ -12766,7 +12766,7 @@ sort: by_weight
 模塊	mu1 khue3
 模壓	mu1 iah
 模子	mu1 tzy2
-模寫	mu1 sia2
+模寫	mu1 si2
 模式	mu1 sheh
 模形	mu1 yin1
 模態	mu1 the3
@@ -12814,7 +12814,7 @@ sort: by_weight
 機庫	ci1 khu3
 機敏	ci1 min2
 機智	ci1 cu3
-機械	ci1 ya3
+機械	ci1 ye3
 機構	ci1 keu3
 機理	ci1 li2
 機甲	ci1 ciah
@@ -12908,7 +12908,7 @@ sort: by_weight
 權限	jion1 yan3
 欒城	luon1 zhen1
 欒川	luon1 chuon1
-欠佳	chian3 cia1
+欠佳	chian3 cie1
 欠妥	chian3 tho2
 欠安	chian3 on1
 欠條	chian3 diau1
@@ -12940,7 +12940,7 @@ sort: by_weight
 欲求	yuk jieu1
 欲海	yuk he2
 欲滴	yuk tih
-欲絕	yuk dziah
+欲絕	yuk dzioh
 欺侮	chi1 vu2
 欺凌	chi1 lin1
 欺哄	chi1 ghung3
@@ -13056,7 +13056,7 @@ sort: by_weight
 武威	vu2 ue1
 武安	vu2 on1
 武官	vu2 kuon1
-武宣	vu2 sian1
+武宣	vu2 sion1
 武寧	vu2 nyin1
 武山	vu2 san1
 武岡	vu2 kang1
@@ -13108,7 +13108,7 @@ sort: by_weight
 歷來	lih le1
 歷史	lih su2
 歷城	lih zhen1
-歷屆	lih cia3
+歷屆	lih cie3
 歷年	lih nyian1
 歷時	lih zhu1
 歷次	lih tsy3
@@ -13181,7 +13181,7 @@ sort: by_weight
 死穴	sy2 yoh
 死節	sy2 tziah
 死結	sy2 ciah
-死絕	sy2 dziah
+死絕	sy2 dzioh
 死線	sy2 sian3
 死緩	sy2 won3
 死罪	sy2 dzue3
@@ -13234,7 +13234,7 @@ sort: by_weight
 殘酷	dzan1 khuk
 殘餘	dzan1 yu1
 殘香	dzan1 shiang1
-殘骸	dzan1 ya1
+殘骸	dzan1 ye1
 殞命	yun2 min3
 殞落	yun2 luk
 殫力	tan1 lih
@@ -13255,7 +13255,7 @@ sort: by_weight
 殺死	sah sy2
 殺滅	sah miah
 殺生	sah sen1
-殺絕	sah dziah
+殺絕	sah dzioh
 殺菌	sah jiun3
 殺頭	sah deu1
 毀容	hue3 yung1
@@ -13343,7 +13343,7 @@ sort: by_weight
 毫髮	ghau1 fah
 毯子	than2 tzy2
 氈子	con1 tzy2
-氈靴	con1 shio1
+氈靴	con1 shiu1
 民主	min1 cu2
 民俗	min1 zuk
 民兵	min1 pin1
@@ -13507,7 +13507,7 @@ sort: by_weight
 永新	yung2 sin1
 永昌	yung2 chang1
 永春	yung2 chen1
-永泰	yung2 tha3
+永泰	yung2 the3
 永清	yung2 tsin1
 永珍	yung2 cen1
 永登	yung2 ten1
@@ -13686,7 +13686,7 @@ sort: by_weight
 河童	gho1 dung1
 河粉	gho1 fen2
 河蚌	gho1 bang3
-河蟹	gho1 ya3
+河蟹	gho1 ye3
 河西	gho1 si1
 河豚	gho1 den1
 河運	gho1 yun3
@@ -13745,14 +13745,14 @@ sort: by_weight
 泅水	zieu1 shue2
 泅渡	zieu1 du3
 泅遊	zieu1 yeu1
-泉山	dzian1 san1
-泉州	dzian1 ceu1
-泉幣	dzian1 bi3
-泉水	dzian1 shue2
-泉港	dzian1 ciang2
-泉源	dzian1 yon1
-泉眼	dzian1 yan2
-泉路	dzian1 lu3
+泉山	dzion1 san1
+泉州	dzion1 ceu1
+泉幣	dzion1 bi3
+泉水	dzion1 shue2
+泉港	dzion1 ciang2
+泉源	dzion1 yon1
+泉眼	dzion1 yan2
+泉路	dzion1 lu3
 泊位	buk we3
 泊松	buk zung1
 泔水	kon1 shue2
@@ -13864,28 +13864,28 @@ sort: by_weight
 注資	cu3 tzy1
 注釋	cu3 sheh
 注音	cu3 in1
-泰來	tha3 le1
-泰勒	tha3 leh
-泰半	tha3 pon3
-泰國	tha3 kuk
-泰坦	tha3 than2
-泰安	tha3 on1
-泰寧	tha3 nyin1
-泰山	tha3 san1
-泰州	tha3 ceu1
-泰式	tha3 sheh
-泰拳	tha3 jion1
-泰文	tha3 ven1
-泰斗	tha3 teu2
-泰東	tha3 tung1
-泰武	tha3 vu2
-泰然	tha3 zhon1
-泰爾	tha3 el2
-泰瑟	tha3 sih
-泰羅	tha3 lo1
-泰西	tha3 si1
-泰銖	tha3 zhu1
-泰順	tha3 zhen3
+泰來	the3 le1
+泰勒	the3 leh
+泰半	the3 pon3
+泰國	the3 kuk
+泰坦	the3 than2
+泰安	the3 on1
+泰寧	the3 nyin1
+泰山	the3 san1
+泰州	the3 ceu1
+泰式	the3 sheh
+泰拳	the3 jion1
+泰文	the3 ven1
+泰斗	the3 teu2
+泰東	the3 tung1
+泰武	the3 vu2
+泰然	the3 zhon1
+泰爾	the3 el2
+泰瑟	the3 sih
+泰羅	the3 lo1
+泰西	the3 si1
+泰銖	the3 zhu1
+泰順	the3 zhen3
 泳帽	yung3 mau3
 泳池	yung3 ju1
 泳裝	yung3 tzuang1
@@ -14038,7 +14038,7 @@ sort: by_weight
 浣滌	won3 dih
 浣熊	won3 yung1
 浣紗	won3 sa1
-浣雪	won3 siah
+浣雪	won3 sioh
 浦北	phu2 puk
 浦口	phu2 kheu2
 浦城	phu2 zhen1
@@ -14117,7 +14117,7 @@ sort: by_weight
 海州	he2 ceu1
 海巡	he2 zin1
 海市	he2 zhu3
-海帶	he2 ta3
+海帶	he2 te3
 海床	he2 dzuang1
 海底	he2 ti2
 海康	he2 khang1
@@ -14300,7 +14300,7 @@ sort: by_weight
 淪陷	len1 yan3
 淫亂	yin1 luon3
 淫威	yin1 ue1
-淫娃	yin1 ia1
+淫娃	yin1 ie1
 淫婦	yin1 vu3
 淫媒	yin1 me1
 淫徑	yin1 cin3
@@ -14340,7 +14340,7 @@ sort: by_weight
 淵廣	ion1 kuang2
 淵慮	ion1 liu3
 淵沖	ion1 jung1
-淵泉	ion1 dzian1
+淵泉	ion1 dzion1
 淵泓	ion1 ung1
 淵海	ion1 he2
 淵淵	ion1 ion1
@@ -14421,7 +14421,7 @@ sort: by_weight
 清江	tsin1 ciang1
 清河	tsin1 gho1
 清油	tsin1 yeu1
-清泉	tsin1 dzian1
+清泉	tsin1 dzion1
 清流	tsin1 lieu1
 清浦	tsin1 phu2
 清淨	tsin1 dzin3
@@ -14583,7 +14583,7 @@ sort: by_weight
 湟魚	wang1 yu1
 湮滅	in1 miah
 源城	yon1 zhen1
-源泉	yon1 dzian1
+源泉	yon1 dzion1
 源流	yon1 lieu1
 源碼	yon1 ma2
 源自	yon1 dzy3
@@ -14613,7 +14613,7 @@ sort: by_weight
 溪流	chi1 lieu1
 溪湖	chi1 wu1
 溪澗	chi1 cian3
-溪蟹	chi1 ya3
+溪蟹	chi1 ye3
 溫乎	uen1 wu1
 溫壓	uen1 iah
 溫婉	uen1 ion2
@@ -14621,14 +14621,14 @@ sort: by_weight
 溫室	uen1 sheh
 溫嶺	uen1 lin2
 溫州	uen1 ceu1
-溫帶	uen1 ta3
+溫帶	uen1 te3
 溫床	uen1 dzuang1
 溫情	uen1 dzin1
 溫文	uen1 ven1
 溫暖	uen1 nuon2
 溫柔	uen1 zheu1
 溫江	uen1 ciang1
-溫泉	uen1 dzian1
+溫泉	uen1 dzion1
 溫溫	uen1 uen1
 溫潤	uen1 zhen3
 溫熱	uen1 zhoh
@@ -14650,7 +14650,7 @@ sort: by_weight
 滅失	miah sheh
 滅族	miah dzuk
 滅火	miah ho2
-滅絕	miah dziah
+滅絕	miah dzioh
 滅菌	miah jiun3
 滅門	miah men1
 滅頂	miah tin2
@@ -14664,7 +14664,7 @@ sort: by_weight
 滌塵	dih jen1
 滌慮	dih liu3
 滌棉	dih mian1
-滌汰	dih tha3
+滌汰	dih the3
 滌淨	dih dzin3
 滌瑕	dih ya1
 滌硯	dih yan3
@@ -14839,7 +14839,7 @@ sort: by_weight
 漿紙	tziang1 cu2
 潁州	yung2 ceu1
 潁東	yung2 tung1
-潁泉	yung2 dzian1
+潁泉	yung2 dzion1
 潔具	ciah jiu3
 潔淨	ciah dzin3
 潔牙	ciah ya1
@@ -14996,7 +14996,7 @@ sort: by_weight
 火成	ho2 zhen1
 火把	ho2 pa2
 火星	ho2 sin1
-火柴	ho2 dza1
+火柴	ho2 dze1
 火機	ho2 ci1
 火油	ho2 yeu1
 火湖	ho2 wu1
@@ -15247,7 +15247,7 @@ sort: by_weight
 無論	vu1 len1
 無謂	vu1 we3
 無貨	vu1 ho3
-無賴	vu1 la3
+無賴	vu1 le3
 無軌	vu1 kue2
 無辜	vu1 ku1
 無道	vu1 dau3
@@ -15417,12 +15417,12 @@ sort: by_weight
 熱導	zhoh dau3
 熱層	zhoh dzen1
 熱帖	zhoh thiah
-熱帶	zhoh ta3
+熱帶	zhoh te3
 熱心	zhoh sin1
 熱忱	zhoh zhen1
 熱情	zhoh dzin1
 熱愛	zhoh e3
-熱戀	zhoh lian3
+熱戀	zhoh lion3
 熱捧	zhoh fung2
 熱敏	zhoh min2
 熱敷	zhoh fu1
@@ -15714,7 +15714,7 @@ sort: by_weight
 特化	deh hua3
 特地	deh di3
 特定	deh din3
-特寫	deh sia2
+特寫	deh si2
 特工	deh kung1
 特快	deh khua3
 特急	deh cih
@@ -15770,7 +15770,7 @@ sort: by_weight
 犯愁	van3 dzeu1
 犯意	van3 i3
 犯憷	van3 tsu2
-犯戒	van3 cia3
+犯戒	van3 cie3
 犯案	van3 on3
 犯毒	van3 duk
 犯法	van3 fah
@@ -15794,7 +15794,7 @@ sort: by_weight
 狗吠	keu2 vi3
 狗屁	keu2 phi3
 狗屋	keu2 uk
-狗帶	keu2 ta3
+狗帶	keu2 te3
 狗年	keu2 nyian1
 狗拳	keu2 jion1
 狗日	keu2 zheh
@@ -15811,7 +15811,7 @@ sort: by_weight
 狙擊	tsiu1 cih
 狡猾	ciau2 wah
 狡詐	ciau2 tza3
-狡賴	ciau2 la3
+狡賴	ciau2 le3
 狡辯	ciau2 bian3
 狡黠	ciau2 yah
 狩獵	sheu3 liah
@@ -15821,7 +15821,7 @@ sort: by_weight
 狹窄	yah tzeh
 狹義	yah yi3
 狹路	yah lu3
-狹隘	yah ia3
+狹隘	yah ie3
 狼井	lang1 tzin2
 狼人	lang1 zhen1
 狼孩	lang1 ghe1
@@ -15992,7 +15992,7 @@ sort: by_weight
 玉札	yuk tzah
 玉林	yuk lin1
 玉桂	yuk ci3
-玉泉	yuk dzian1
+玉泉	yuk dzion1
 玉溪	yuk chi1
 玉玦	yuk cioh
 玉珉	yuk min1
@@ -16189,7 +16189,7 @@ sort: by_weight
 瑞芳	zhue3 fang1
 瑞薩	zhue3 sah
 瑞金	zhue3 cin1
-瑞雪	zhue3 siah
+瑞雪	zhue3 sioh
 瑞香	zhue3 shiang1
 瑟瑟	sih sih
 瑟縮	sih suk
@@ -16204,7 +16204,7 @@ sort: by_weight
 璀璨	tsue2 tsan3
 璧山	pih san1
 璧玉	pih yuk
-璧謝	pih zia3
+璧謝	pih zi3
 璨玉	tsan3 yuk
 璨璨	tsan3 tsan3
 璨美	tsan3 me2
@@ -16212,7 +16212,7 @@ sort: by_weight
 環化	wan1 hua3
 環城	wan1 zhen1
 環境	wan1 cin2
-環帶	wan1 ta3
+環帶	wan1 te3
 環幕	wan1 muk
 環形	wan1 yin1
 環抱	wan1 bau3
@@ -16271,7 +16271,7 @@ sort: by_weight
 甘心	kon1 sin1
 甘汞	kon1 ghung3
 甘油	kon1 yeu1
-甘泉	kon1 dzian1
+甘泉	kon1 dzion1
 甘洛	kon1 luk
 甘甜	kon1 dian1
 甘肅	kon1 suk
@@ -16399,20 +16399,20 @@ sort: by_weight
 申言	shen1 yan1
 申討	shen1 thau2
 申訴	shen1 su3
-申謝	shen1 zia3
+申謝	shen1 zi3
 申購	shen1 keu3
 申辦	shen1 ban3
 申辯	shen1 bian3
 申述	shen1 zheh
 申通	shen1 thung1
-申雪	shen1 siah
+申雪	shen1 sioh
 申領	shen1 lin2
 申飭	shen1 cheh
 男人	non1 zhen1
 男友	non1 yeu2
 男同	non1 dung1
 男士	non1 dzu3
-男娃	non1 ia1
+男娃	non1 ie1
 男嬰	non1 in1
 男子	non1 tzy2
 男孩	non1 ghe1
@@ -16435,16 +16435,16 @@ sort: by_weight
 男裝	non1 tzuang1
 男雙	non1 suang1
 甾醇	tzu1 zhen1
-界乎	cia3 wu1
-界別	cia3 biah
-界址	cia3 cu2
-界定	cia3 din3
-界尺	cia3 cheh
-界河	cia3 gho1
-界碑	cia3 pe1
-界線	cia3 sian3
-界限	cia3 yan3
-界面	cia3 mian3
+界乎	cie3 wu1
+界別	cie3 biah
+界址	cie3 cu2
+界定	cie3 din3
+界尺	cie3 cheh
+界河	cie3 gho1
+界碑	cie3 pe1
+界線	cie3 sian3
+界限	cie3 yan3
+界面	cie3 mian3
 畏友	ue3 yeu2
 畏忌	ue3 ji3
 畏懼	ue3 jiu3
@@ -16467,7 +16467,7 @@ sort: by_weight
 略圖	liak du1
 略奪	liak duoh
 略字	liak dzy3
-略帶	liak ta3
+略帶	liak te3
 略微	liak vi1
 略為	liak we1
 略略	liak liak
@@ -16518,7 +16518,7 @@ sort: by_weight
 畸變	ci1 pian3
 疆域	ciang1 yuk
 疆場	ciang1 jang1
-疆界	ciang1 cia3
+疆界	ciang1 cie3
 疊加	diah cia1
 疊層	diah dzen1
 疊彩	diah tse2
@@ -16545,7 +16545,7 @@ sort: by_weight
 疣狀	yeu1 dzuang3
 疣豬	yeu1 cu1
 疣贅	yeu1 cue3
-疥瘡	cia3 tsuang1
+疥瘡	cie3 tsuang1
 疫情	yuk dzin1
 疫病	yuk bin3
 疫苗	yuk miau1
@@ -16614,7 +16614,7 @@ sort: by_weight
 病魔	bin3 mo1
 痔瘡	ju3 tsuang1
 痕跡	ghen1 tzih
-痙攣	jin3 lian1
+痙攣	jin3 lion1
 痛哭	thung3 khuk
 痛失	thung3 sheh
 痛心	thung3 sin1
@@ -16671,9 +16671,9 @@ sort: by_weight
 瘮人	sen2 zhen1
 瘰癧	lo2 lih
 瘴癘	cang3 li3
-瘸子	jio1 tzy2
-瘸幫	jio1 pang1
-瘸腿	jio1 thue2
+瘸子	jiu1 tzy2
+瘸幫	jiu1 pang1
+瘸腿	jiu1 thue2
 癀病	wang1 bin3
 療效	liau3 yau3
 療法	liau3 fah
@@ -16818,7 +16818,7 @@ sort: by_weight
 白宮	beh kung1
 白山	beh san1
 白布	beh pu3
-白帶	beh ta3
+白帶	beh te3
 白廳	beh thin1
 白描	beh miau1
 白搭	beh thah
@@ -16888,7 +16888,7 @@ sort: by_weight
 白鐵	beh thiah
 白鑞	beh lah
 白附	beh vu3
-白雪	beh siah
+白雪	beh sioh
 白雲	beh yun1
 白霜	beh suang1
 白露	beh lu3
@@ -16932,13 +16932,13 @@ sort: by_weight
 百香	peh shiang1
 的哥	tih ko1
 的士	tih dzu3
-的姐	tih tzia2
+的姐	tih tzi2
 的款	tih khuon2
 的確	tih chiuk
 的話	tih wa3
-皆可	cia1 kho2
-皆因	cia1 in1
-皆然	cia1 zhon1
+皆可	cie1 kho2
+皆因	cie1 in1
+皆然	cie1 zhon1
 皇位	wang1 we3
 皇儲	wang1 ju1
 皇古	wang1 ku2
@@ -16976,7 +16976,7 @@ sort: by_weight
 皮尺	be1 cheh
 皮層	be1 dzen1
 皮山	be1 san1
-皮帶	be1 ta3
+皮帶	be1 te3
 皮星	be1 sin1
 皮條	be1 diau1
 皮毛	be1 mau1
@@ -17027,7 +17027,7 @@ sort: by_weight
 益陽	ih yang1
 益鳥	ih tiau2
 盒子	ghoh tzy2
-盒帶	ghoh ta3
+盒帶	ghoh te3
 盔甲	khue1 ciah
 盔頭	khue1 deu1
 盜伐	dau3 vah
@@ -17051,7 +17051,7 @@ sort: by_weight
 盤審	bon1 shen2
 盤山	bon1 san1
 盤川	bon1 chuon1
-盤帶	bon1 ta3
+盤帶	bon1 te3
 盤底	bon1 ti2
 盤店	bon1 tian3
 盤弄	bon1 lung3
@@ -17098,7 +17098,7 @@ sort: by_weight
 目珠	muk cu1
 目的	muk tih
 目盲	muk men1
-目眦	muk dza3
+目眦	muk dze3
 目睹	muk tu2
 目瞤	muk zhen1
 目送	muk sung3
@@ -17175,7 +17175,7 @@ sort: by_weight
 眷念	cion3 nyian3
 眷愛	cion3 e3
 眷懷	cion3 wa1
-眷戀	cion3 lian3
+眷戀	cion3 lion3
 眷村	cion3 tsen1
 眷顧	cion3 ku3
 眸子	mu1 tzy2
@@ -17198,7 +17198,7 @@ sort: by_weight
 眼熱	yan2 zhoh
 眼珠	yan2 cu1
 眼球	yan2 jieu1
-眼界	yan2 cia3
+眼界	yan2 cie3
 眼病	yan2 bin3
 眼白	yan2 beh
 眼皮	yan2 be1
@@ -17325,17 +17325,17 @@ sort: by_weight
 短訊	tuon2 sin3
 短跑	tuon2 phau2
 短路	tuon2 lu3
-短靴	tuon2 shio1
-矮人	ia2 zhen1
-矮凳	ia2 ten3
-矮化	ia2 hua3
-矮子	ia2 tzy2
-矮小	ia2 siau2
-矮星	ia2 sin1
-矮林	ia2 lin1
-矮瓜	ia2 kua1
-矮矬	ia2 dzo1
-矮鹿	ia2 luk
+短靴	tuon2 shiu1
+矮人	ie2 zhen1
+矮凳	ie2 ten3
+矮化	ie2 hua3
+矮子	ie2 tzy2
+矮小	ie2 siau2
+矮星	ie2 sin1
+矮林	ie2 lin1
+矮瓜	ie2 kua1
+矮矬	ie2 dzo1
+矮鹿	ie2 luk
 矯健	ciau2 jian3
 矯形	ciau2 yin1
 矯情	ciau2 dzin1
@@ -17368,7 +17368,7 @@ sort: by_weight
 石榴	zheh lieu1
 石樓	zheh leu1
 石油	zheh yeu1
-石泉	zheh dzian1
+石泉	zheh dzion1
 石渠	zheh jiu1
 石渣	zheh tza1
 石濤	zheh dau1
@@ -17396,7 +17396,7 @@ sort: by_weight
 石蠟	zheh lah
 石門	zheh men1
 石阡	zheh tsian1
-石階	zheh cia1
+石階	zheh cie1
 石雀	zheh tziak
 石雕	zheh tiau1
 石雞	zheh ci1
@@ -17443,7 +17443,7 @@ sort: by_weight
 破家	pho3 cia1
 破局	pho3 jiuk
 破布	pho3 pu3
-破戒	pho3 cia3
+破戒	pho3 cie3
 破損	pho3 sen2
 破敝	pho3 bi3
 破曉	pho3 shiau2
@@ -17600,7 +17600,7 @@ sort: by_weight
 礦業	kuang2 yah
 礦機	kuang2 ci1
 礦水	kuang2 shue2
-礦泉	kuang2 dzian1
+礦泉	kuang2 dzion1
 礦渣	kuang2 tza1
 礦燈	kuang2 ten1
 礦物	kuang2 veh
@@ -17719,7 +17719,7 @@ sort: by_weight
 福利	fuk li3
 福地	fuk di3
 福報	fuk pau3
-福娃	fuk ia1
+福娃	fuk ie1
 福安	fuk on1
 福山	fuk san1
 福岡	fuk kang1
@@ -17730,7 +17730,7 @@ sort: by_weight
 福晉	fuk tzin3
 福林	fuk lin1
 福柯	fuk ko1
-福泉	fuk dzian1
+福泉	fuk dzion1
 福海	fuk he2
 福清	fuk tsin1
 福澤	fuk dzeh
@@ -17753,7 +17753,7 @@ sort: by_weight
 禮帽	li2 mau3
 禮拜	li2 pa3
 禮服	li2 vuk
-禮泉	li2 dzian1
+禮泉	li2 dzion1
 禮法	li2 fah
 禮物	li2 veh
 禮節	li2 tziah
@@ -17866,7 +17866,7 @@ sort: by_weight
 租地	tzu1 di3
 租子	tzu1 tzy2
 租用	tzu1 yung3
-租界	tzu1 cia3
+租界	tzu1 cie3
 租稅	tzu1 shue3
 租船	tzu1 zhuon1
 租讓	tzu1 zhang3
@@ -18016,7 +18016,7 @@ sort: by_weight
 空喊	khung1 shian2
 空地	khung1 di3
 空地	khung3 di3
-空姐	khung1 tzia2
+空姐	khung1 tzi2
 空嫂	khung1 sau2
 空客	khung1 kheh
 空心	khung1 sin1
@@ -18077,7 +18077,7 @@ sort: by_weight
 窮追	gung1 cue1
 窮餓	gung1 ngo3
 窯場	yau1 jang1
-窯姐	yau1 tzia2
+窯姐	yau1 tzi2
 窯子	yau1 tzy2
 窸窣	sih seh
 窺探	khue1 thon1
@@ -18177,7 +18177,7 @@ sort: by_weight
 端線	tuon1 sian3
 端莊	tuon1 tzuang1
 端菜	tuon1 tse3
-端賴	tuon1 la3
+端賴	tuon1 le3
 端面	tuon1 mian3
 端點	tuon1 tian2
 競價	jin3 cia3
@@ -18303,7 +18303,7 @@ sort: by_weight
 答訪	toh fang3
 答詞	toh zy1
 答話	toh wa3
-答謝	toh zia3
+答謝	toh zi3
 答辯	toh bian3
 策劃	tseh ghuk
 策勒	tseh leh
@@ -18323,7 +18323,7 @@ sort: by_weight
 筵讌	yan1 ian3
 箋注	tzian1 cu3
 箍子	ku1 tzy2
-箍帶	ku1 ta3
+箍帶	ku1 te3
 箍緊	ku1 cin2
 箍麻	ku1 ma1
 箕子	ci1 tzy2
@@ -18448,13 +18448,13 @@ sort: by_weight
 簇新	tsuk sin1
 簉室	tseu3 sheh
 簞笥	tan1 sy3
-簡介	cian2 cia3
+簡介	cian2 cie3
 簡冊	cian2 tseh
 簡則	cian2 tzeh
 簡化	cian2 hua3
 簡史	cian2 su2
 簡報	cian2 pau3
-簡寫	cian2 sia2
+簡寫	cian2 si2
 簡帖	cian2 thiah
 簡慢	cian2 man3
 簡括	cian2 kuoh
@@ -18470,7 +18470,7 @@ sort: by_weight
 簡縮	cian2 suk
 簡裝	cian2 tzuang1
 簡訊	cian2 sin3
-簡諧	cian2 ya1
+簡諧	cian2 ye1
 簡譜	cian2 pu2
 簡述	cian2 zheh
 簡陋	cian2 leu3
@@ -18518,7 +18518,7 @@ sort: by_weight
 米拉	mi2 lah
 米林	mi2 lin1
 米果	mi2 ko2
-米泉	mi2 dzian1
+米泉	mi2 dzion1
 米漿	mi2 tziang1
 米突	mi2 deh
 米粉	mi2 fen2
@@ -18554,7 +18554,7 @@ sort: by_weight
 粒徑	lih cin3
 粗估	dzu3 ku2
 粗俗	dzu3 zuk
-粗劣	dzu3 liah
+粗劣	dzu3 lioh
 粗厲	dzu3 li3
 粗口	dzu3 kheu2
 粗壯	dzu3 tzuang3
@@ -18779,7 +18779,7 @@ sort: by_weight
 納降	noh yang1
 紐埃	nyieu2 e1
 紐子	nyieu2 tzy2
-紐帶	nyieu2 ta3
+紐帶	nyieu2 te3
 紐時	nyieu2 zhu1
 紐絆	nyieu2 pon3
 紐襻	nyieu2 phan3
@@ -18794,7 +18794,7 @@ sort: by_weight
 紙夾	cu2 ciah
 紙婚	cu2 huen1
 紙巾	cu2 cin1
-紙帶	cu2 ta3
+紙帶	cu2 te3
 紙幣	cu2 bi3
 紙杯	cu2 pe1
 紙板	cu2 pan2
@@ -18839,7 +18839,7 @@ sort: by_weight
 素面	su3 mian3
 素顏	su3 yan1
 素麵	su3 mian3
-素齋	su3 tza1
+素齋	su3 tze1
 紡紗	fang2 sa1
 紡絲	fang2 sy1
 紡輪	fang2 len1
@@ -18980,43 +18980,43 @@ sort: by_weight
 結髮	ciah fah
 結點	ciah tian2
 結黨	ciah tang2
-絕了	dziah liau2
-絕交	dziah ciau1
-絕代	dziah de3
-絕佳	dziah cia1
-絕倫	dziah len1
-絕句	dziah ciu3
-絕命	dziah min3
-絕品	dziah phin2
-絕唱	dziah chang3
-絕地	dziah di3
-絕域	dziah yuk
-絕境	dziah cin2
-絕壁	dziah pih
-絕妙	dziah miau3
-絕密	dziah mih
-絕對	dziah tue3
-絕情	dziah dzin1
-絕技	dziah ji3
-絕招	dziah cau1
-絕景	dziah cin2
-絕滅	dziah miah
-絕然	dziah zhon1
-絕熱	dziah zhoh
-絕版	dziah pan2
-絕筆	dziah pih
-絕糧	dziah liang1
-絕緣	dziah yon1
-絕罰	dziah vah
-絕育	dziah yuk
-絕色	dziah seh
-絕詣	dziah yi3
-絕跡	dziah tzih
-絕配	dziah phe3
-絕非	dziah fi1
+絕了	dzioh liau2
+絕交	dzioh ciau1
+絕代	dzioh de3
+絕佳	dzioh cie1
+絕倫	dzioh len1
+絕句	dzioh ciu3
+絕命	dzioh min3
+絕品	dzioh phin2
+絕唱	dzioh chang3
+絕地	dzioh di3
+絕域	dzioh yuk
+絕境	dzioh cin2
+絕壁	dzioh pih
+絕妙	dzioh miau3
+絕密	dzioh mih
+絕對	dzioh tue3
+絕情	dzioh dzin1
+絕技	dzioh ji3
+絕招	dzioh cau1
+絕景	dzioh cin2
+絕滅	dzioh miah
+絕然	dzioh zhon1
+絕熱	dzioh zhoh
+絕版	dzioh pan2
+絕筆	dzioh pih
+絕糧	dzioh liang1
+絕緣	dzioh yon1
+絕罰	dzioh vah
+絕育	dzioh yuk
+絕色	dzioh seh
+絕詣	dzioh yi3
+絕跡	dzioh tzih
+絕配	dzioh phe3
+絕非	dzioh fi1
 絘布	tsy3 pu3
 絛子	thau1 tzy2
-絛帶	thau1 ta3
+絛帶	thau1 te3
 絞刀	ciau2 tau1
 絞刑	ciau2 yin1
 絞架	ciau2 cia3
@@ -19056,7 +19056,7 @@ sort: by_weight
 統馭	thung3 yu3
 絲囊	sy1 nang1
 絲巾	sy1 cin1
-絲帶	sy1 ta3
+絲帶	sy1 te3
 絲柏	sy1 peh
 絲毫	sy1 ghau1
 絲狀	sy1 dzuang3
@@ -19134,7 +19134,7 @@ sort: by_weight
 網孔	vang2 khung2
 網室	vang2 sheh
 網店	vang2 tian3
-網戀	vang2 lian3
+網戀	vang2 lion3
 網景	vang2 cin2
 網架	vang2 cia3
 網模	vang2 mu1
@@ -19246,7 +19246,7 @@ sort: by_weight
 緝訪	tsih fang3
 緞子	duon3 tzy2
 緞布	duon3 pu3
-緞帶	duon3 ta3
+緞帶	duon3 te3
 緣故	yon1 ku3
 緣由	yon1 yeu1
 緣起	yon1 chi2
@@ -19280,7 +19280,7 @@ sort: by_weight
 緻畸	ju3 ci1
 縉雲	tzin3 yun1
 縮印	suk in3
-縮寫	suk sia2
+縮寫	suk si2
 縮小	suk siau2
 縮影	suk in2
 縮成	suk zhen1
@@ -19303,11 +19303,11 @@ sort: by_weight
 績效	tzih yau3
 績溪	tzih chi1
 繃子	pen1 tzy2
-繃帶	pen1 ta3
+繃帶	pen1 te3
 繃床	pen1 dzuang1
 繃簧	pen1 wang1
 繃緊	pen1 cin2
-繕寫	zhon3 sia2
+繕寫	zhon3 si2
 繕清	zhon3 tsin1
 繡墩	sieu3 ten1
 繡帷	sieu3 we1
@@ -19656,7 +19656,7 @@ sort: by_weight
 老墨	lau2 meh
 老外	lau2 we3
 老天	lau2 thian1
-老太	lau2 tha3
+老太	lau2 the3
 老姥	lau2 mu2
 老娘	lau2 nyiang1
 老婆	lau2 bo1
@@ -19700,7 +19700,7 @@ sort: by_weight
 老莊	lau2 tzuang1
 老虎	lau2 hu2
 老譜	lau2 pu2
-老賴	lau2 la3
+老賴	lau2 le3
 老趼	lau2 cian2
 老路	lau2 lu3
 老輩	lau2 pe3
@@ -19799,7 +19799,7 @@ sort: by_weight
 耷拉	tah lah
 耽心	ton1 sin1
 耽憂	ton1 ieu1
-耿介	cin2 cia3
+耿介	cin2 cie3
 耿直	cin2 jeh
 耿耿	cin2 cin2
 耿餅	cin2 pin2
@@ -19808,7 +19808,7 @@ sort: by_weight
 聊城	liau1 zhen1
 聊天	liau1 thian1
 聊敘	liau1 ziu3
-聊賴	liau1 la3
+聊賴	liau1 le3
 聒噪	kuoh sau3
 聒耳	kuoh el2
 聖人	shen3 zhen1
@@ -19869,7 +19869,7 @@ sort: by_weight
 聲囊	shen1 nang1
 聲威	shen1 ue1
 聲學	shen1 yuk
-聲帶	shen1 ta3
+聲帶	shen1 te3
 聲息	shen1 sih
 聲旁	shen1 bang1
 聲明	shen1 min1
@@ -20005,7 +20005,7 @@ sort: by_weight
 肥膩	vi1 nyi3
 肥西	vi1 si1
 肥鄉	vi1 shiang1
-肩帶	cian1 ta3
+肩帶	cian1 te3
 肩扛	cian1 ciang1
 肩章	cian1 cang1
 肩胛	cian1 ciah
@@ -20050,7 +20050,7 @@ sort: by_weight
 胡亂	wu1 luon3
 胡人	wu1 zhen1
 胡佛	wu1 veh
-胡佳	wu1 cia1
+胡佳	wu1 cie1
 胡來	wu1 le1
 胡克	wu1 kheh
 胡同	wu1 dung1
@@ -20072,7 +20072,7 @@ sort: by_weight
 胡蜂	wu1 fung1
 胡話	wu1 wa3
 胡豆	wu1 deu3
-胡銓	wu1 tsian1
+胡銓	wu1 tsion1
 胡雁	wu1 yan3
 胡麻	wu1 ma1
 胭脂	ian1 cu1
@@ -20148,7 +20148,7 @@ sort: by_weight
 腫麼	cung2 mo2
 腰包	iau1 pau1
 腰子	iau1 tzy2
-腰帶	iau1 ta3
+腰帶	iau1 te3
 腰斬	iau1 tzan2
 腰板	iau1 pan2
 腰果	iau1 ko2
@@ -20193,7 +20193,7 @@ sort: by_weight
 腹哀	fuk e1
 腹地	fuk di3
 腹壁	fuk pih
-腹帶	fuk ta3
+腹帶	fuk te3
 腹水	fuk shue2
 腹痛	fuk thung3
 腹肌	fuk ci1
@@ -20250,7 +20250,7 @@ sort: by_weight
 臆想	ih siang2
 臆測	ih tseh
 臊子	sau1 tzy2
-臍帶	dzi1 ta3
+臍帶	dzi1 te3
 臍梗	dzi1 ken2
 臍輪	dzi1 len1
 臏刑	bin3 yin1
@@ -20304,7 +20304,7 @@ sort: by_weight
 自尊	dzy3 tzen1
 自導	dzy3 dau3
 自己	dzy3 ci2
-自帶	dzy3 ta3
+自帶	dzy3 te3
 自幼	dzy3 ieu3
 自序	dzy3 ziu3
 自強	dzy3 jiang1
@@ -20314,7 +20314,7 @@ sort: by_weight
 自恃	dzy3 zhu3
 自愛	dzy3 e3
 自慰	dzy3 ue3
-自戀	dzy3 lian3
+自戀	dzy3 lion3
 自我	dzy3 ngo2
 自戕	dzy3 dziang1
 自抑	dzy3 ih
@@ -20397,7 +20397,7 @@ sort: by_weight
 致殘	cu3 dzan1
 致病	cu3 bin3
 致詞	cu3 zy1
-致謝	cu3 zia3
+致謝	cu3 zi3
 致賀	cu3 gho3
 致辭	cu3 zy1
 致電	cu3 dian3
@@ -20414,7 +20414,7 @@ sort: by_weight
 臺西	de1 si1
 臺詞	de1 zy1
 臺諜	de1 diah
-臺階	de1 cia1
+臺階	de1 cie1
 臻至	tzin1 cu3
 臼窠	jieu3 kho1
 舅媽	jieu3 mu2
@@ -20646,10 +20646,10 @@ sort: by_weight
 芝麻	cu1 ma1
 芡實	jian3 zheh
 芡粉	jian3 fen2
-芥末	cia3 moh
-芥菜	cia3 tse3
-芥藍	cia3 lan1
-芥蘭	cia3 lan1
+芥末	cie3 moh
+芥菜	cie3 tse3
+芥藍	cie3 lan1
+芥蘭	cie3 lan1
 芫花	yon1 hua1
 芫荽	yon1 sue1
 芬園	fen1 yon1
@@ -20866,7 +20866,7 @@ sort: by_weight
 茶點	dza1 tian2
 荀子	sin1 tzy2
 荀彧	sin1 iuk
-荃灣	tsian1 uan1
+荃灣	tsion1 uan1
 荇菜	ghen3 tse3
 草包	tsau2 pau1
 草原	tsau2 yon1
@@ -20956,7 +20956,7 @@ sort: by_weight
 菊苣	ciuk jiu3
 菌子	jiun3 tzy2
 菌柄	jiun3 pin3
-菌界	jiun3 cia3
+菌界	jiun3 cie3
 菌絲	jiun3 sy1
 菌肥	jiun3 vi1
 菌苗	jiun3 miau1
@@ -21007,7 +21007,7 @@ sort: by_weight
 萬人	van3 zhen1
 萬代	van3 de3
 萬位	van3 we3
-萬全	van3 dzian1
+萬全	van3 dzion1
 萬千	van3 tsian1
 萬名	van3 min1
 萬國	van3 kuk
@@ -21173,10 +21173,10 @@ sort: by_weight
 蔗糖	ce3 dang1
 蔗農	ce3 nung1
 蔗露	ce3 lu3
-蔡倫	tsa3 len1
-蔡甸	tsa3 dian3
-蔡襄	tsa3 siang1
-蔡鍔	tsa3 nguk
+蔡倫	tse3 len1
+蔡甸	tse3 dian3
+蔡襄	tse3 siang1
+蔡鍔	tse3 nguk
 蔬果	su1 ko2
 蔬菜	su1 tse3
 蔭蔽	in3 pi3
@@ -21193,7 +21193,7 @@ sort: by_weight
 蕨菜	cioh tse3
 蕨類	cioh lue3
 蕪俚	vu1 li2
-蕪劣	vu1 liah
+蕪劣	vu1 lioh
 蕪湖	vu1 wu1
 蕪穢	vu1 ue3
 蕪菁	vu1 tzin1
@@ -21406,7 +21406,7 @@ sort: by_weight
 虎鯨	hu2 jin1
 虐待	yak de3
 虐心	yak sin1
-虐戀	yak lian3
+虐戀	yak lion3
 虔信	jian1 sin3
 虔敬	jian1 cin3
 虔誠	jian1 zhen1
@@ -21442,7 +21442,7 @@ sort: by_weight
 蛤蚌	koh bang3
 蛤蜊	koh li1
 蛤蟆	koh ma1
-蛤蟹	koh ya3
+蛤蟹	koh ye3
 蛤蠣	koh li3
 蜀國	zhuk kuk
 蜀山	zhuk san1
@@ -21503,7 +21503,7 @@ sort: by_weight
 融融	yung1 yung1
 融資	yung1 tzy1
 融通	yung1 thung1
-融雪	yung1 siah
+融雪	yung1 sioh
 螢幕	yung1 muk
 螢火	yung1 ho2
 螢焰	yung1 yan3
@@ -21512,7 +21512,7 @@ sort: by_weight
 螯蝦	ngau1 ya1
 螺刀	lo1 tau1
 螺帽	lo1 mau3
-螺拴	lo1 tsian1
+螺拴	lo1 tsion1
 螺栓	lo1 suon1
 螺槳	lo1 tziang2
 螺母	lo1 meu2
@@ -21534,10 +21534,10 @@ sort: by_weight
 蟬翼	zhon1 yih
 蟬鳴	zhon1 min1
 蟭蟟	tziau1 liau1
-蟹粉	ya3 fen2
-蟹肉	ya3 zhuk
-蟹醬	ya3 tziang3
-蟹黃	ya3 wang1
+蟹粉	ye3 fen2
+蟹肉	ye3 zhuk
+蟹醬	ye3 tziang3
+蟹黃	ye3 wang1
 蟻丘	yi2 chieu1
 蟻族	yi2 dzuk
 蟻酸	yi2 suon1
@@ -21681,13 +21681,13 @@ sort: by_weight
 表哥	piau2 ko1
 表報	piau2 pau3
 表妹	piau2 me3
-表姐	piau2 tzia2
+表姐	piau2 tzi2
 表姑	piau2 ku1
 表嫂	piau2 sau2
 表字	piau2 dzy3
 表尺	piau2 cheh
 表層	piau2 dzen1
-表帶	piau2 ta3
+表帶	piau2 te3
 表彰	piau2 cang1
 表情	piau2 dzin1
 表意	piau2 i3
@@ -21784,7 +21784,7 @@ sort: by_weight
 補體	pu2 thi2
 裝佯	tzuang1 yang1
 裝入	tzuang1 zheh
-裝卸	tzuang1 sia3
+裝卸	tzuang1 si3
 裝嫩	tzuang1 nen3
 裝成	tzuang1 zhen1
 裝扮	tzuang1 pan3
@@ -21834,7 +21834,7 @@ sort: by_weight
 複印	fuk in3
 複句	fuk ciu3
 複姓	fuk sin3
-複寫	fuk sia2
+複寫	fuk si2
 複式	fuk sheh
 複本	fuk pen2
 複社	fuk zhe3
@@ -21875,7 +21875,7 @@ sort: by_weight
 襟翼	cin1 yih
 襤褸	lan1 liu2
 襪子	vah tzy2
-襪帶	vah ta3
+襪帶	vah te3
 襯墊	tsin3 tian3
 襯線	tsin3 sian3
 襯衫	tsin3 san1
@@ -21962,7 +21962,7 @@ sort: by_weight
 規勸	kue1 chion3
 規定	kue1 din3
 規律	kue1 lih
-規戒	kue1 cia3
+規戒	kue1 cie3
 規整	kue1 cen2
 規條	kue1 diau1
 規模	kue1 mu1
@@ -21971,7 +21971,7 @@ sort: by_weight
 規章	kue1 cang1
 規管	kue1 kuon2
 規範	kue1 van3
-規誡	kue1 cia3
+規誡	kue1 cie3
 規誨	kue1 hue3
 規諫	kue1 cian3
 規避	kue1 bi3
@@ -22051,14 +22051,14 @@ sort: by_weight
 討海	thau2 he2
 討究	thau2 cieu3
 討米	thau2 mi2
-訓戒	shiun3 cia3
+訓戒	shiun3 cie3
 訓條	shiun3 diau1
 訓練	shiun3 lian3
 訓育	shiun3 yuk
 訓詁	shiun3 ku2
 訓詞	shiun3 zy1
 訓話	shiun3 wa3
-訓誡	shiun3 cia3
+訓誡	shiun3 cie3
 訓迪	shiun3 dih
 訓釋	shiun3 sheh
 託詞	thuk zy1
@@ -22224,7 +22224,7 @@ sort: by_weight
 詭詐	kue2 tza3
 詭譎	kue2 cioh
 詭辯	kue2 bian3
-詮釋	tsian1 sheh
+詮釋	tsion1 sheh
 詰問	chih ven3
 話亭	wa3 din1
 話別	wa3 biah
@@ -22241,7 +22241,7 @@ sort: by_weight
 該博	ke1 puk
 該死	ke1 sy2
 詹森	con1 sen1
-詼諧	khue1 ya1
+詼諧	khue1 ye1
 誅戮	cu1 luk
 誅殺	cu1 sah
 誅求	cu1 jieu1
@@ -22254,7 +22254,7 @@ sort: by_weight
 誌哀	cu3 e1
 誓師	zhu3 su1
 誓死	zhu3 sy2
-誓絕	zhu3 dziah
+誓絕	zhu3 dzioh
 誓言	zhu3 yan1
 誓詞	zhu3 zy1
 誕育	dan3 yuk
@@ -22281,15 +22281,15 @@ sort: by_weight
 誠然	zhen1 zhon1
 誠篤	zhen1 tuk
 誠聘	zhen1 phin3
-誡命	cia3 min3
+誡命	cie3 min3
 誣害	vu1 ghe3
 誣蔑	vu1 miah
 誣衊	vu1 miah
-誣賴	vu1 la3
+誣賴	vu1 le3
 誣陷	vu1 yan3
 誤信	wu3 sin3
 誤判	wu3 phon3
-誤寫	wu3 sia2
+誤寫	wu3 si2
 誤導	wu3 dau3
 誤工	wu3 kung1
 誤機	wu3 ci1
@@ -22326,13 +22326,13 @@ sort: by_weight
 諛辭	yu1 zy1
 諜報	diah pau3
 諠呼	shion1 hu1
-諧劇	ya1 jih
-諧婉	ya1 ion2
-諧波	ya1 po1
-諧美	ya1 me2
-諧談	ya1 dan1
-諧謔	ya1 shiak
-諧音	ya1 in1
+諧劇	ye1 jih
+諧婉	ye1 ion2
+諧波	ye1 po1
+諧美	ye1 me2
+諧談	ye1 dan1
+諧謔	ye1 shiak
+諧音	ye1 in1
 諫征	cian3 cen1
 諫言	cian3 yan1
 諫諍	cian3 tzen3
@@ -22378,7 +22378,7 @@ sort: by_weight
 謁訪	iah fang3
 謁陵	iah lin1
 謂詞	we3 zy1
-謄寫	den1 sia2
+謄寫	den1 si2
 謎團	mi3 duon1
 謎底	mi3 ti2
 謔劇	shiak jih
@@ -22413,27 +22413,27 @@ sort: by_weight
 講辭	ciang2 zy1
 講述	ciang2 zheh
 講道	ciang2 dau3
-謝儀	zia3 yi1
-謝卻	zia3 chiak
-謝媒	zia3 me1
-謝孝	zia3 shiau3
-謝客	zia3 kheh
-謝帖	zia3 thiah
-謝幕	zia3 muk
-謝忱	zia3 zhen1
-謝恩	zia3 en1
-謝意	zia3 i3
-謝拉	zia3 lah
-謝特	zia3 deh
-謝病	zia3 bin3
-謝禮	zia3 li2
-謝絕	zia3 dziah
-謝罪	zia3 dzue3
-謝詞	zia3 zy1
-謝謝	zia3 zia3
-謝赫	zia3 heh
-謝辛	zia3 sin1
-謝頂	zia3 tin2
+謝儀	zi3 yi1
+謝卻	zi3 chiak
+謝媒	zi3 me1
+謝孝	zi3 shiau3
+謝客	zi3 kheh
+謝帖	zi3 thiah
+謝幕	zi3 muk
+謝忱	zi3 zhen1
+謝恩	zi3 en1
+謝意	zi3 i3
+謝拉	zi3 lah
+謝特	zi3 deh
+謝病	zi3 bin3
+謝禮	zi3 li2
+謝絕	zi3 dzioh
+謝罪	zi3 dzue3
+謝詞	zi3 zy1
+謝謝	zi3 zi3
+謝赫	zi3 heh
+謝辛	zi3 sin1
+謝頂	zi3 tin2
 謠言	yau1 yan1
 謫戍	tzeh shu3
 謬獎	mieu3 tziang2
@@ -22466,8 +22466,8 @@ sort: by_weight
 譜係	pu2 ci3
 譜子	pu2 tzy2
 譜學	pu2 yuk
-譜寫	pu2 sia2
-譜帶	pu2 ta3
+譜寫	pu2 si2
+譜帶	pu2 te3
 譜曲	pu2 chiuk
 譜牒	pu2 diah
 譜系	pu2 yi3
@@ -22483,10 +22483,10 @@ sort: by_weight
 警徽	cin2 hue1
 警悟	cin2 wu3
 警惕	cin2 thih
-警戒	cin2 cia3
+警戒	cin2 cie3
 警探	cin2 thon1
 警服	cin2 vuk
-警械	cin2 ya3
+警械	cin2 ye3
 警棍	cin2 wen3
 警民	cin2 min1
 警犬	cin2 chion2
@@ -22494,7 +22494,7 @@ sort: by_weight
 警署	cin2 zhu3
 警花	cin2 hua1
 警訊	cin2 sin3
-警誡	cin2 cia3
+警誡	cin2 cie3
 警鈴	cin2 lin1
 警銜	cin2 yan1
 警鐘	cin2 cung1
@@ -22502,7 +22502,7 @@ sort: by_weight
 譬喻	phi3 yu3
 譯名	yih min1
 譯員	yih yun1
-譯寫	yih sia2
+譯寫	yih si2
 譯成	yih zhen1
 譯文	yih ven1
 譯本	yih pen2
@@ -22533,7 +22533,7 @@ sort: by_weight
 護軌	wu3 kue2
 護送	wu3 sung3
 讀報	duk pau3
-讀寫	duk sia2
+讀寫	duk si2
 讀懂	duk tung2
 讀書	duk shu1
 讀本	duk pen2
@@ -22701,7 +22701,7 @@ sort: by_weight
 豱公	uen1 kung1
 豹子	pau3 tzy2
 豹拳	pau3 jion1
-豺狼	dza1 lang1
+豺狼	dze1 lang1
 貂熊	tiau1 yung1
 貂皮	tiau1 be1
 貂蟬	tiau1 zhon1
@@ -22827,7 +22827,7 @@ sort: by_weight
 貪官	thon1 kuon1
 貪心	thon1 sin1
 貪慾	thon1 yuk
-貪戀	thon1 lian3
+貪戀	thon1 lion3
 貪杯	thon1 pe1
 貪求	thon1 jieu1
 貪瀆	thon1 duk
@@ -23005,13 +23005,13 @@ sort: by_weight
 賭資	tu2 tzy1
 賭鬭	tu2 teu3
 賭鬼	tu2 kue2
-賴以	la3 yi2
-賴婚	la3 huen1
-賴安	la3 on1
-賴床	la3 dzuang1
-賴斯	la3 sy1
-賴特	la3 deh
-賴皮	la3 be1
+賴以	le3 yi2
+賴婚	le3 huen1
+賴安	le3 on1
+賴床	le3 dzuang1
+賴斯	le3 sy1
+賴特	le3 deh
+賴皮	le3 be1
 購得	keu3 teh
 購物	keu3 veh
 購置	keu3 cu3
@@ -23150,10 +23150,10 @@ sort: by_weight
 超模	chau1 mu1
 超渡	chau1 du3
 超生	chau1 sen1
-超界	chau1 cia3
+超界	chau1 cie3
 超等	chau1 ten2
 超級	chau1 cih
-超絕	chau1 dziah
+超絕	chau1 dzioh
 超綱	chau1 kang1
 超聲	chau1 shen1
 超賣	chau1 ma3
@@ -23287,7 +23287,7 @@ sort: by_weight
 踏襲	thoh zih
 踏訪	thoh fang3
 踏進	thoh tzin3
-踏雪	thoh siah
+踏雪	thoh sioh
 踐踏	dzian3 thoh
 踝骨	wa3 kueh
 踟躇	ju1 ju1
@@ -23540,7 +23540,7 @@ sort: by_weight
 辭章	zy1 cang1
 辭職	zy1 ceh
 辭藻	zy1 tzau2
-辭謝	zy1 zia3
+辭謝	zy1 zi3
 辭退	zy1 thue3
 辮子	bian3 tzy2
 辯別	bian3 biah
@@ -23642,7 +23642,7 @@ sort: by_weight
 迷彩	mi1 tse2
 迷惑	mi1 ghuk
 迷惘	mi1 vang2
-迷戀	mi1 lian3
+迷戀	mi1 lion3
 迷暈	mi1 yun3
 迷津	mi1 tzin1
 迷漫	mi1 mon3
@@ -23904,7 +23904,7 @@ sort: by_weight
 逝者	zhu3 ce2
 逞強	chen2 jiang1
 速凍	suk tung3
-速寫	suk sia2
+速寫	suk si2
 速成	suk zhen1
 速效	suk yau3
 速記	suk ci3
@@ -23919,11 +23919,11 @@ sort: by_weight
 連夜	lian1 ya3
 連天	lian1 thian1
 連宵	lian1 siau1
-連寫	lian1 sia2
+連寫	lian1 si2
 連山	lian1 san1
 連州	lian1 ceu1
 連巹	lian1 cin2
-連帶	lian1 ta3
+連帶	lian1 te3
 連年	lian1 nyian1
 連忙	lian1 mang1
 連戰	lian1 con3
@@ -23999,7 +23999,7 @@ sort: by_weight
 進逼	tzin3 pih
 進門	tzin3 men1
 進關	tzin3 kuan1
-進階	tzin3 cia1
+進階	tzin3 cie1
 進項	tzin3 yang3
 進餐	tzin3 tsan1
 進香	tzin3 shiang1
@@ -24130,7 +24130,7 @@ sort: by_weight
 道義	dau3 yi3
 道臺	dau3 de1
 道袍	dau3 bau1
-道謝	dau3 zia3
+道謝	dau3 zi3
 道賀	dau3 gho3
 道路	dau3 lu3
 道里	dau3 li2
@@ -24239,7 +24239,7 @@ sort: by_weight
 邀集	iau1 dzih
 邁向	ma3 shiang3
 邁進	ma3 tzin3
-邂逅	ya3 gheu3
+邂逅	ye3 gheu3
 邃古	sue3 ku2
 邃宇	sue3 yu2
 邃密	sue3 mih
@@ -24260,7 +24260,7 @@ sort: by_weight
 邊民	pian1 min1
 邊沿	pian1 yon1
 邊牧	pian1 muk
-邊界	pian1 cia3
+邊界	pian1 cie3
 邊疆	pian1 ciang1
 邊線	pian1 sian3
 邊緣	pian1 yon1
@@ -24303,7 +24303,7 @@ sort: by_weight
 郎朗	lang1 lang2
 郎溪	lang1 chi1
 郭城	kuk zhen1
-郭泉	kuk dzian1
+郭泉	kuk dzion1
 郯城	dan1 zhen1
 郴州	chen1 ceu1
 郵亭	yeu1 din1
@@ -24365,7 +24365,7 @@ sort: by_weight
 鄙人	pe2 zhen1
 鄙俗	pe2 zuk
 鄙俚	pe2 li2
-鄙劣	pe2 liah
+鄙劣	pe2 lioh
 鄙吝	pe2 lin3
 鄙夷	pe2 yi1
 鄙斥	pe2 cheh
@@ -24459,7 +24459,7 @@ sort: by_weight
 酒櫃	tzieu2 gue3
 酒殽	tzieu2 yau1
 酒水	tzieu2 shue2
-酒泉	tzieu2 dzian1
+酒泉	tzieu2 dzion1
 酒渦	tzieu2 o1
 酒測	tzieu2 tseh
 酒漿	tzieu2 tziang1
@@ -24505,7 +24505,7 @@ sort: by_weight
 酬對	zheu1 tue3
 酬神	zheu1 zhen1
 酬答	zheu1 toh
-酬謝	zheu1 zia3
+酬謝	zheu1 zi3
 酬賞	zheu1 shang2
 酬酢	zheu1 dzuk
 酬金	zheu1 cin1
@@ -24659,7 +24659,7 @@ sort: by_weight
 金橘	cin1 ciuh
 金櫃	cin1 gue3
 金水	cin1 shue2
-金泉	cin1 dzian1
+金泉	cin1 dzion1
 金湖	cin1 wu1
 金溪	cin1 chi1
 金漆	cin1 tsih
@@ -24713,7 +24713,7 @@ sort: by_weight
 釦眼	kheu2 yan2
 釦襻	kheu2 phan3
 鈍角	den3 ciuk
-鈕帶	nyieu2 ta3
+鈕帶	nyieu2 te3
 鈕釦	nyieu2 kheu2
 鈞諭	ciun1 yu3
 鈴木	lin1 muk
@@ -24729,7 +24729,7 @@ sort: by_weight
 鉗工	jian1 kung1
 鉛字	yon1 dzy3
 鉛山	yon1 san1
-鉛帶	yon1 ta3
+鉛帶	yon1 te3
 鉛條	yon1 diau1
 鉛球	yon1 jieu1
 鉛礦	yon1 kuang2
@@ -24801,13 +24801,13 @@ sort: by_weight
 銑工	sian2 kung1
 銑床	sian2 dzuang1
 銑鐵	sian2 thiah
-銓衡	tsian1 ghen1
+銓衡	tsion1 ghen1
 銘刻	min1 kheh
 銘文	min1 ven1
-銘瑄	min1 sian1
+銘瑄	min1 sion1
 銘言	min1 yan1
 銘記	min1 ci3
-銘謝	min1 zia3
+銘謝	min1 zi3
 銜接	yan1 tziah
 銷勢	siau1 shu3
 銷售	siau1 zheu3
@@ -24933,8 +24933,8 @@ sort: by_weight
 鐘頭	cung1 deu1
 鐘點	cung1 tian2
 鐙骨	ten3 kueh
-鐫刻	tzian1 kheh
-鐫黜	tzian1 cheh
+鐫刻	tzion1 kheh
+鐫黜	tzion1 cheh
 鐮倉	lian1 tsang1
 鐮刀	lian1 tau1
 鐵人	thiah zhen1
@@ -25035,7 +25035,7 @@ sort: by_weight
 門鎖	men1 so2
 門閥	men1 vah
 門限	men1 yan3
-門階	men1 cia1
+門階	men1 cie1
 門面	men1 mian3
 門額	men1 gheh
 門類	men1 lue3
@@ -25081,7 +25081,7 @@ sort: by_weight
 開恩	khe1 en1
 開悟	khe1 wu3
 開懷	khe1 wa1
-開戒	khe1 cia3
+開戒	khe1 cie3
 開戰	khe1 con3
 開拍	khe1 pheh
 開掛	khe1 kua3
@@ -25143,7 +25143,7 @@ sort: by_weight
 開葷	khe1 shiun1
 開蒙	khe1 mung1
 開藥	khe1 yak
-開衩	khe1 tsa3
+開衩	khe1 tse3
 開裂	khe1 liah
 開襟	khe1 cin1
 開言	khe1 yan1
@@ -25178,7 +25178,7 @@ sort: by_weight
 開頭	khe1 deu1
 開顏	khe1 yan1
 開魯	khe1 lu2
-開齋	khe1 tza1
+開齋	khe1 tze1
 閑人	yan1 zhen1
 閑心	yan1 sin1
 閑暇	yan1 ya3
@@ -25291,7 +25291,7 @@ sort: by_weight
 關連	kuan1 lian1
 關金	kuan1 cin1
 關門	kuan1 men1
-關隘	kuan1 ia3
+關隘	kuan1 ie3
 關頭	kuan1 deu1
 關餉	kuan1 shang3
 闡揚	chon2 yang1
@@ -25312,7 +25312,7 @@ sort: by_weight
 阻抗	tzu2 khang3
 阻擋	tzu2 tang3
 阻礙	tzu2 nge3
-阻絕	tzu2 dziah
+阻絕	tzu2 dzioh
 阻遏	tzu2 oh
 阻隔	tzu2 keh
 阿丹	o1 tan1
@@ -25361,7 +25361,7 @@ sort: by_weight
 附子	vu3 tzy2
 附寄	vu3 ci3
 附小	vu3 siau2
-附帶	vu3 ta3
+附帶	vu3 te3
 附庸	vu3 yung1
 附欄	vu3 lan1
 附筆	vu3 pih
@@ -25508,7 +25508,7 @@ sort: by_weight
 陽東	yang1 tung1
 陽極	yang1 jih
 陽江	yang1 ciang1
-陽泉	yang1 dzian1
+陽泉	yang1 dzion1
 陽炎	yang1 yan1
 陽物	yang1 veh
 陽臺	yang1 de1
@@ -25539,18 +25539,18 @@ sort: by_weight
 隊形	due3 yin1
 隊旗	due3 ji1
 隊服	due3 vuk
-階地	cia1 di3
-階層	cia1 dzen1
-階梯	cia1 thi1
-階段	cia1 duon3
-階級	cia1 cih
+階地	cie1 di3
+階層	cie1 dzen1
+階梯	cie1 thi1
+階段	cie1 duon3
+階級	cie1 cih
 隔壁	keh pih
 隔夜	keh ya3
 隔天	keh thian1
 隔山	keh san1
 隔日	keh zheh
 隔熱	keh zhoh
-隔絕	keh dziah
+隔絕	keh dzioh
 隔都	keh tu1
 隔開	keh khe1
 隔間	keh cian3
@@ -25561,8 +25561,8 @@ sort: by_weight
 隕星	yun2 sin1
 隕石	yun2 zheh
 隕落	yun2 luk
-隘口	ia3 kheu2
-隘路	ia3 lu3
+隘口	ie3 kheu2
+隘路	ie3 lu3
 際遇	tzi3 yu3
 隧道	zue3 dau3
 隨之	zue1 cu1
@@ -25575,7 +25575,7 @@ sort: by_weight
 隨喜	zue1 shi2
 隨地	zue1 di3
 隨州	zue1 ceu1
-隨帶	zue1 ta3
+隨帶	zue1 te3
 隨心	zue1 sin1
 隨性	zue1 sin3
 隨意	zue1 i3
@@ -25588,7 +25588,7 @@ sort: by_weight
 隨訪	zue1 fang3
 隨身	zue1 shen1
 隨順	zue1 zhen3
-險些	shian2 sia1
+險些	shian2 si1
 險兆	shian2 jau3
 險境	shian2 cin2
 險峻	shian2 sin3
@@ -25695,12 +25695,12 @@ sort: by_weight
 集體	dzih thi2
 雉雞	ju3 ci1
 雉鶉	ju3 zhen1
-雋品	dzian3 phin2
-雋妙	dzian3 miau3
-雋敏	dzian3 min2
-雋材	dzian3 dze1
-雋永	dzian3 yung2
-雋茂	dzian3 meu3
+雋品	dzion3 phin2
+雋妙	dzion3 miau3
+雋敏	dzion3 min2
+雋材	dzion3 dze1
+雋永	dzion3 yung2
+雋茂	dzion3 meu3
 雌性	tsy1 sin3
 雌獅	tsy1 su1
 雌雄	tsy1 yung1
@@ -25716,8 +25716,8 @@ sort: by_weight
 雕琢	tiau1 tzuk
 雕花	tiau1 hua1
 雕落	tiau1 luk
-雕謝	tiau1 zia3
-雕鐫	tiau1 tzian1
+雕謝	tiau1 zi3
+雕鐫	tiau1 tzion1
 雕闌	tiau1 lan1
 雕飾	tiau1 sheh
 雖則	sue1 tzeh
@@ -25837,39 +25837,39 @@ sort: by_weight
 雞西	ci1 si1
 雞賊	ci1 dzeh
 雞雞	ci1 ci1
-雪亮	siah liang3
-雪人	siah zhen1
-雪克	siah kheh
-雪城	siah zhen1
-雪崩	siah pen1
-雪恥	siah chu2
-雪松	siah zung1
-雪板	siah pan2
-雪條	siah diau1
-雪梨	siah li1
-雪橇	siah chiau1
-雪櫃	siah gue3
-雪片	siah phian3
-雪球	siah jieu1
-雪白	siah beh
-雪碧	siah pih
-雪紡	siah fang2
-雪線	siah sian3
-雪耳	siah el2
-雪花	siah hua1
-雪菜	siah tse3
-雪葩	siah pha1
-雪蓮	siah lian1
-雪蟹	siah ya3
-雪豹	siah pau3
-雪貂	siah tiau1
-雪酪	siah luk
-雪雁	siah yan3
-雪頓	siah ten3
-雪鴞	siah yau1
-雪鴿	siah koh
-雪鵐	siah vu1
-雪鶉	siah zhen1
+雪亮	sioh liang3
+雪人	sioh zhen1
+雪克	sioh kheh
+雪城	sioh zhen1
+雪崩	sioh pen1
+雪恥	sioh chu2
+雪松	sioh zung1
+雪板	sioh pan2
+雪條	sioh diau1
+雪梨	sioh li1
+雪橇	sioh chiau1
+雪櫃	sioh gue3
+雪片	sioh phian3
+雪球	sioh jieu1
+雪白	sioh beh
+雪碧	sioh pih
+雪紡	sioh fang2
+雪線	sioh sian3
+雪耳	sioh el2
+雪花	sioh hua1
+雪菜	sioh tse3
+雪葩	sioh pha1
+雪蓮	sioh lian1
+雪蟹	sioh ye3
+雪豹	sioh pau3
+雪貂	sioh tiau1
+雪酪	sioh luk
+雪雁	sioh yan3
+雪頓	sioh ten3
+雪鴞	sioh yau1
+雪鴿	sioh koh
+雪鵐	sioh vu1
+雪鶉	sioh zhen1
 雲南	yun1 non1
 雲安	yun1 on1
 雲室	yun1 sheh
@@ -26019,7 +26019,7 @@ sort: by_weight
 震音	cen3 in1
 震響	cen3 shiang2
 震顫	cen3 con3
-震駭	cen3 ya3
+震駭	cen3 ye3
 震驚	cen3 cin1
 霍丘	huk chieu1
 霍亂	huk luon3
@@ -26042,7 +26042,7 @@ sort: by_weight
 霜災	suang1 tze1
 霜白	suang1 beh
 霜花	suang1 hua1
-霜雪	suang1 siah
+霜雪	suang1 sioh
 霜露	suang1 lu3
 霞光	ya1 kuang1
 霞山	ya1 san1
@@ -26113,7 +26113,7 @@ sort: by_weight
 靈渠	lin1 jiu1
 靈犀	lin1 si1
 靈璧	lin1 pih
-靈界	lin1 cia3
+靈界	lin1 cie3
 靈異	lin1 yi3
 靈石	lin1 zheh
 靈符	lin1 vu1
@@ -26186,7 +26186,7 @@ sort: by_weight
 面對	mian3 tue3
 面巾	mian3 cin1
 面市	mian3 zhu3
-面帶	mian3 ta3
+面帶	mian3 te3
 面形	mian3 yin1
 面影	mian3 in2
 面態	mian3 the3
@@ -26208,7 +26208,7 @@ sort: by_weight
 面談	mian3 dan1
 面諛	mian3 yu1
 面諭	mian3 yu3
-面謝	mian3 zia3
+面謝	mian3 zi3
 面議	mian3 yi3
 面貌	mian3 mau3
 面鏡	mian3 cin3
@@ -26225,7 +26225,7 @@ sort: by_weight
 革新	keh sin1
 革職	keh ceh
 革退	keh thue3
-靴子	shio1 tzy2
+靴子	shiu1 tzy2
 靶場	pa3 jang1
 靶子	pa3 tzy2
 靶心	pa3 sin1
@@ -26251,7 +26251,7 @@ sort: by_weight
 韋德	we1 teh
 韋科	we1 kho1
 韌勁	zhen3 cin3
-韌帶	zhen3 ta3
+韌帶	zhen3 te3
 韌性	zhen3 sin3
 韌體	zhen3 thi2
 韓亞	ghon1 ia3
@@ -26280,9 +26280,9 @@ sort: by_weight
 音名	in1 min1
 音域	in1 yuk
 音容	in1 yung1
-音帶	in1 ta3
+音帶	in1 te3
 音律	in1 lih
-音拴	in1 tsian1
+音拴	in1 tsion1
 音效	in1 yau3
 音步	in1 bu3
 音波	in1 po1
@@ -26301,7 +26301,7 @@ sort: by_weight
 音讀	in1 duk
 音變	in1 pian3
 音軌	in1 kue2
-音階	in1 cia1
+音階	in1 cie1
 音韻	in1 yun3
 音響	in1 shiang2
 音頻	in1 bin1
@@ -26357,7 +26357,7 @@ sort: by_weight
 頂芽	tin2 ya1
 頂補	tin2 pu2
 頂角	tin2 ciuk
-頂謝	tin2 zia3
+頂謝	tin2 zi3
 頂讓	tin2 zhang3
 頂輪	tin2 len1
 頂閥	tin2 vah
@@ -26379,7 +26379,7 @@ sort: by_weight
 順境	zhen3 cin2
 順子	zhen3 tzy2
 順導	zhen3 dau3
-順帶	zhen3 ta3
+順帶	zhen3 te3
 順序	zhen3 ziu3
 順式	zhen3 sheh
 順德	zhen3 teh
@@ -26442,7 +26442,7 @@ sort: by_weight
 預購	yu3 keu3
 預賽	yu3 se3
 預配	yu3 phe3
-頑劣	wan1 liah
+頑劣	wan1 lioh
 頑匪	wan1 fi2
 頑固	wan1 ku3
 頑強	wan1 jiang1
@@ -26469,7 +26469,7 @@ sort: by_weight
 領導	lin2 dau3
 領工	lin2 kung1
 領巾	lin2 cin1
-領帶	lin2 ta3
+領帶	lin2 te3
 領悟	lin2 wu3
 領情	lin2 dzin1
 領有	lin2 yeu2
@@ -26560,7 +26560,7 @@ sort: by_weight
 頸項	cin2 yang3
 頻仍	bin1 zhen1
 頻寬	bin1 khuon1
-頻帶	bin1 ta3
+頻帶	bin1 te3
 頻次	bin1 tsy3
 頻段	bin1 duon3
 頻譜	bin1 pu2
@@ -26591,7 +26591,7 @@ sort: by_weight
 類書	lue3 shu1
 類目	lue3 muk
 類篇	lue3 phian1
-顧全	ku3 dzian1
+顧全	ku3 dzion1
 顧及	ku3 jih
 顧問	ku3 ven3
 顧客	ku3 kheh
@@ -26678,7 +26678,7 @@ sort: by_weight
 飛逝	fi1 zhu3
 飛速	fi1 suk
 飛鏢	fi1 phiau1
-飛雪	fi1 siah
+飛雪	fi1 sioh
 飛馬	fi1 ma2
 飛馳	fi1 ju1
 飛魚	fi1 yu1
@@ -26702,7 +26702,7 @@ sort: by_weight
 飽餐	pau2 tsan1
 飾品	sheh phin2
 飾巾	sheh cin1
-飾帶	sheh ta3
+飾帶	sheh te3
 飾演	sheh yan2
 飾物	sheh veh
 飾詞	sheh zy1
@@ -26837,7 +26837,7 @@ sort: by_weight
 馬勒	ma2 leh
 馬匹	ma2 phih
 馬國	ma2 kuk
-馬太	ma2 tha3
+馬太	ma2 the3
 馬子	ma2 tzy2
 馬尾	ma2 vi2
 馬屁	ma2 phi3
@@ -26885,7 +26885,7 @@ sort: by_weight
 馬隊	ma2 due3
 馬雅	ma2 ya2
 馬面	ma2 mian3
-馬靴	ma2 shio1
+馬靴	ma2 shiu1
 馬鞭	ma2 pian1
 馬頭	ma2 deu1
 馬駒	ma2 ciu1
@@ -26946,9 +26946,9 @@ sort: by_weight
 駢儷	bian1 li3
 駢肩	bian1 cian1
 駢體	bian1 thi2
-駭人	ya3 zhen1
-駭客	ya3 kheh
-駭然	ya3 zhon1
+駭人	ye3 zhen1
+駭客	ye3 kheh
+駭然	ye3 zhon1
 駱馬	luk ma2
 駱駝	luk do1
 駿馬	tzin3 ma2
@@ -27031,7 +27031,7 @@ sort: by_weight
 驚顫	cin1 con3
 驚飛	cin1 fi1
 驚馬	cin1 ma2
-驚駭	cin1 ya3
+驚駭	cin1 ye3
 驚鳥	cin1 tiau2
 驛城	yih zhen1
 驛站	yih tzan3
@@ -27070,7 +27070,7 @@ sort: by_weight
 骨董	kueh tung2
 骨血	kueh shioh
 骨頭	kueh deu1
-骨骸	kueh ya1
+骨骸	kueh ye1
 骨骺	kueh gheu1
 骨骼	kueh keh
 骨髓	kueh sue2
@@ -27080,7 +27080,7 @@ sort: by_weight
 骰盅	deu1 jung1
 骰鍾	deu1 cung1
 骶骨	ti3 kueh
-骸骨	ya1 kueh
+骸骨	ye1 kueh
 髂骨	chia3 kueh
 髒亂	tzang2 luon3
 髒字	tzang2 dzy3
@@ -27145,7 +27145,7 @@ sort: by_weight
 髮小	fah siau2
 髮尾	fah vi2
 髮屋	fah uk
-髮帶	fah ta3
+髮帶	fah te3
 髮廊	fah lang1
 髮式	fah sheh
 髮梢	fah sau1
@@ -27157,7 +27157,7 @@ sort: by_weight
 髮菜	fah tse3
 髮蠟	fah lah
 髮辮	fah bian3
-髮釵	fah tsa1
+髮釵	fah tse1
 髮髻	fah ci3
 鬒髮	cen2 fah
 鬚子	siu1 tzy2
@@ -27225,7 +27225,7 @@ sort: by_weight
 魔怔	mo1 cen1
 魔性	mo1 sin3
 魔怪	mo1 kua3
-魔戒	mo1 cia3
+魔戒	mo1 cie3
 魔掌	mo1 cang2
 魔杖	mo1 jang3
 魔棒	mo1 bang3
@@ -27352,7 +27352,7 @@ sort: by_weight
 鳳慶	vung3 chin3
 鳳林	vung3 lin1
 鳳梨	vung3 li1
-鳳泉	vung3 dzian1
+鳳泉	vung3 dzion1
 鳳爪	vung3 tzau2
 鳳眼	vung3 yan2
 鳳翔	vung3 ziang1
@@ -27360,7 +27360,7 @@ sort: by_weight
 鳴叫	min1 ciau3
 鳴禽	min1 jin1
 鳴笛	min1 dih
-鳴謝	min1 zia3
+鳴謝	min1 zi3
 鳴金	min1 cin1
 鳴鐘	min1 cung1
 鳴鑼	min1 lo1
@@ -27435,7 +27435,7 @@ sort: by_weight
 鹹菜	yan1 tse3
 鹹魚	yan1 yu1
 鹿城	luk zhen1
-鹿泉	luk dzian1
+鹿泉	luk dzion1
 鹿港	luk ciang2
 鹿肉	luk zhuk
 鹿茸	luk zhung1
@@ -27531,7 +27531,7 @@ sort: by_weight
 黃毒	wang1 duk
 黃水	wang1 shue2
 黃河	wang1 gho1
-黃泉	wang1 dzian1
+黃泉	wang1 dzion1
 黃流	wang1 lieu1
 黃浦	wang1 phu2
 黃海	wang1 he2
@@ -27658,7 +27658,7 @@ sort: by_weight
 默劇	meh jih
 默哀	meh e1
 默字	meh dzy3
-默寫	meh sia2
+默寫	meh si2
 默念	meh nyian3
 默想	meh siang2
 默書	meh shu1
@@ -27782,12 +27782,12 @@ sort: by_weight
 鼻頭	bi3 deu1
 鼻飼	bi3 zy3
 鼻骨	bi3 kueh
-齋堂	tza1 dang1
-齋戒	tza1 cia3
-齋月	tza1 yoh
-齋期	tza1 ji1
-齋果	tza1 ko2
-齋藤	tza1 den1
+齋堂	tze1 dang1
+齋戒	tze1 cie3
+齋月	tze1 yoh
+齋期	tze1 ji1
+齋果	tze1 ko2
+齋藤	tze1 den1
 齏粉	tzi1 fen2
 齒及	chu2 jih
 齒孔	chu2 khung2
@@ -27822,7 +27822,7 @@ sort: by_weight
 龍床	lung1 dzuang1
 龍文	lung1 ven1
 龍江	lung1 ciang1
-龍泉	lung1 dzian1
+龍泉	lung1 dzion1
 龍海	lung1 he2
 龍湖	lung1 wu1
 龍灣	lung1 uan1
@@ -27970,7 +27970,7 @@ sort: by_weight
 上半年	zhang3 pon3 nyian1
 上半身	zhang3 pon3 shen1
 上坡路	zhang3 pho1 lu3
-上確界	zhang3 chiuk cia3
+上確界	zhang3 chiuk cie3
 上等兵	zhang3 ten2 pin1
 上輩子	zhang3 pe3 tzy2
 上邊兒	zhang3 pian1 el1
@@ -28179,7 +28179,7 @@ sort: by_weight
 亞松森	ia3 zung1 sen1
 亞洲杯	ia3 ceu1 pe1
 亞洲盃	ia3 ceu1 pe1
-亞熱帶	ia3 zhoh ta3
+亞熱帶	ia3 zhoh te3
 亞瑟士	ia3 sih dzu3
 亞硝胺	ia3 siau1 oh
 亞硝酸	ia3 siau1 suon1
@@ -28259,8 +28259,8 @@ sort: by_weight
 仇恨罪	jieu1 ghen3 dzue3
 今兒個	cin1 el1 ko3
 今古文	cin1 ku2 ven1
-介休市	cia3 shieu1 zhu3
-介係詞	cia3 ci3 zy1
+介休市	cie3 shieu1 zhu3
+介係詞	cie3 ci3 zy1
 他娘的	tho1 nyiang1 tih
 他媽的	tho1 mu2 tih
 他者化	tho1 ce2 hua3
@@ -28283,7 +28283,7 @@ sort: by_weight
 代銷店	de3 siau1 tian3
 以億計	yi2 ih ci3
 以利亞	yi2 li3 ia3
-以太網	yi2 tha3 vang2
+以太網	yi2 the3 vang2
 以弗所	yi2 feh su2
 以斯帖	yi2 sy1 thiah
 以此為	yi2 tsy2 we1
@@ -28330,7 +28330,7 @@ sort: by_weight
 佉盧文	chia1 lu1 ven1
 位元組	we3 yon1 tzu2
 低俗化	ti1 zuk hua3
-低壓帶	ti1 iah ta3
+低壓帶	ti1 iah te3
 低成本	ti1 zhen1 pen2
 低血壓	ti1 shioh iah
 低血糖	ti1 shioh dang1
@@ -28354,11 +28354,11 @@ sort: by_weight
 佛跳牆	veh diau1 dziang1
 佛香閣	veh shiang1 kuk
 佛骨塔	veh kueh thah
-佟佳江	dung1 cia1 ciang1
+佟佳江	dung1 cie1 ciang1
 佩洛西	be3 luk si1
-佳冬鄉	cia1 tung1 shiang1
-佳木斯	cia1 muk sy1
-佳潔士	cia1 ciah dzu3
+佳冬鄉	cie1 tung1 shiang1
+佳木斯	cie1 muk sy1
+佳潔士	cie1 ciah dzu3
 佼佼者	ciau2 ciau2 ce2
 來得及	le1 teh jih
 來火兒	le1 ho2 el1
@@ -28386,7 +28386,7 @@ sort: by_weight
 俏皮話	tsiau3 be1 wa3
 俗體字	zuk thi2 dzy3
 保修期	pau2 sieu1 ji1
-保全員	pau2 dzian1 yun1
+保全員	pau2 dzion1 yun1
 保力龍	pau2 lih lung1
 保安團	pau2 on1 duon1
 保安族	pau2 on1 dzuk
@@ -28503,7 +28503,7 @@ sort: by_weight
 元古代	yon1 ku2 de3
 元古宙	yon1 ku2 jeu3
 元器件	yon1 chi3 jian3
-元太祖	yon1 tha3 tzu2
+元太祖	yon1 the3 tzu2
 元宵節	yon1 siau1 tziah
 元寶山	yon1 pau2 san1
 元山市	yon1 san1 zhu3
@@ -28548,23 +28548,23 @@ sort: by_weight
 入海口	zheh he2 kheu2
 入罪化	zheh dzue3 hua3
 入風口	zheh fung1 kheu2
-全國性	dzian1 kuk sin3
-全家福	dzian1 cia1 fuk
-全局性	dzian1 jiuk sin3
-全州市	dzian1 ceu1 zhu3
-全斗煥	dzian1 teu2 huon3
-全新紀	dzian1 sin1 ci2
-全新統	dzian1 sin1 thung3
-全方位	dzian1 fang1 we3
-全日制	dzian1 zheh cu3
-全球化	dzian1 jieu1 hua3
-全球性	dzian1 jieu1 sin3
-全球通	dzian1 jieu1 thung1
-全穀物	dzian1 kuk veh
-全等形	dzian1 ten2 yin1
-全節流	dzian1 tziah lieu1
-全羅道	dzian1 lo1 dau3
-全身心	dzian1 shen1 sin1
+全國性	dzion1 kuk sin3
+全家福	dzion1 cia1 fuk
+全局性	dzion1 jiuk sin3
+全州市	dzion1 ceu1 zhu3
+全斗煥	dzion1 teu2 huon3
+全新紀	dzion1 sin1 ci2
+全新統	dzion1 sin1 thung3
+全方位	dzion1 fang1 we3
+全日制	dzion1 zheh cu3
+全球化	dzion1 jieu1 hua3
+全球性	dzion1 jieu1 sin3
+全球通	dzion1 jieu1 thung1
+全穀物	dzion1 kuk veh
+全等形	dzion1 ten2 yin1
+全節流	dzion1 tziah lieu1
+全羅道	dzion1 lo1 dau3
+全身心	dzion1 shen1 sin1
 八一五	pah ih wu2
 八二丹	pah el3 tan1
 八仙桌	pah sian1 tzuk
@@ -28585,7 +28585,7 @@ sort: by_weight
 八字腳	pah dzy3 ciak
 八寶丹	pah pau2 tan1
 八寶山	pah pau2 san1
-八帶魚	pah ta3 yu1
+八帶魚	pah te3 yu1
 八強賽	pah jiang1 se3
 八德市	pah teh zhu3
 八月份	pah yoh pin1
@@ -28830,7 +28830,7 @@ sort: by_weight
 動物園	dung3 veh yon1
 動物學	dung3 veh yuk
 動物性	dung3 veh sin3
-動物界	dung3 veh cia3
+動物界	dung3 veh cie3
 動肝火	dung3 kon1 ho2
 勘察加	khon3 tsah cia1
 勘誤表	khon3 wu3 piau2
@@ -28880,12 +28880,12 @@ sort: by_weight
 北噪鴉	puk sau3 ia1
 北威州	puk ue1 ceu1
 北安市	puk on1 zhu3
-北寒帶	puk ghon1 ta3
+北寒帶	puk ghon1 te3
 北山羊	puk san1 yang1
 北戴河	puk te3 gho1
 北斗星	puk teu2 sin1
 北朱雀	puk cu1 tziak
-北柴胡	puk dza1 wu1
+北柴胡	puk dze1 wu1
 北椋鳥	puk liang1 tiau2
 北極星	puk jih sin1
 北極熊	puk jih yung1
@@ -28893,7 +28893,7 @@ sort: by_weight
 北流市	puk lieu1 zhu3
 北海市	puk he2 zhu3
 北海道	puk he2 dau3
-北溫帶	puk uen1 ta3
+北溫帶	puk uen1 te3
 北竿鄉	puk kon1 shiang1
 北美洲	puk me2 ceu1
 北門鄉	puk men1 shiang1
@@ -28996,7 +28996,7 @@ sort: by_weight
 南極座	non1 jih dzo3
 南極洲	non1 jih ceu1
 南極海	non1 jih he2
-南極界	non1 jih cia3
+南極界	non1 jih cie3
 南浦市	non1 phu2 zhu3
 南海子	non1 he2 tzy2
 南瓜燈	non1 kua1 ten1
@@ -29040,7 +29040,7 @@ sort: by_weight
 即墨市	tzih meh zhu3
 即時制	tzih zhu1 cu3
 即期品	tzih ji1 phin2
-卸肩兒	sia3 cian1 el1
+卸肩兒	si3 cian1 el1
 厄什塔	eh zheh thah
 厄洛斯	eh luk sy1
 厄瓜多	eh kua1 to1
@@ -29100,7 +29100,7 @@ sort: by_weight
 古人類	ku2 zhen1 lue3
 古代史	ku2 de3 su2
 古典派	ku2 tian2 pha3
-古北界	ku2 puk cia3
+古北界	ku2 puk cie3
 古坑鄉	ku2 khen1 shiang1
 古希臘	ku2 shi1 lah
 古文明	ku2 ven1 min1
@@ -29146,7 +29146,7 @@ sort: by_weight
 史學家	su2 yuk cia1
 史密斯	su2 mih sy1
 史景遷	su2 cin2 tsian1
-史泰博	su2 tha3 puk
+史泰博	su2 the3 puk
 史特龍	su2 deh lung1
 史籀篇	su2 jeu3 phian1
 史詩性	su2 shu1 sin3
@@ -29177,10 +29177,10 @@ sort: by_weight
 吃館子	cih kuon3 tzy2
 吉他手	cih tho1 sheu2
 吉他譜	cih tho1 pu2
-吉佳利	cih cia1 li3
+吉佳利	cih cie1 li3
 吉利服	cih li3 vuk
 吉士粉	cih dzu3 fen2
-吉娃娃	cih ia1 ia1
+吉娃娃	cih ie1 ie1
 吉字節	cih dzy3 tziah
 吉安市	cih on1 zhu3
 吉安鄉	cih on1 shiang1
@@ -29205,7 +29205,7 @@ sort: by_weight
 同型性	dung1 yin1 sin3
 同字框	dung1 dzy3 khuang1
 同性愛	dung1 sin3 e3
-同性戀	dung1 sin3 lian3
+同性戀	dung1 sin3 lion3
 同情者	dung1 dzin1 ce2
 同文館	dung1 ven1 kuon3
 同時代	dung1 zhu1 de3
@@ -29354,10 +29354,10 @@ sort: by_weight
 唐僖宗	dang1 shi1 tzung1
 唐古拉	dang1 ku2 lah
 唐哀帝	dang1 e1 ti3
-唐太宗	dang1 tha3 tzung1
-唐宣宗	dang1 sian1 tzung1
+唐太宗	dang1 the3 tzung1
+唐宣宗	dang1 sion1 tzung1
 唐家山	dang1 cia1 san1
-唐家璇	dang1 cia1 zian1
+唐家璇	dang1 cia1 zion1
 唐山市	dang1 san1 zhu3
 唐德宗	dang1 teh tzung1
 唐憲宗	dang1 shian3 tzung1
@@ -29421,7 +29421,7 @@ sort: by_weight
 四強賽	sy3 jiang1 se3
 四日市	sy3 zheh zhu3
 四旬節	sy3 zin1 tziah
-四旬齋	sy3 zin1 tza1
+四旬齋	sy3 zin1 tze1
 四月份	sy3 yoh pin1
 四湖鄉	sy3 wu1 shiang1
 四環素	sy3 wan1 su3
@@ -29462,7 +29462,7 @@ sort: by_weight
 國會山	kuk we3 san1
 國有化	kuk yeu2 hua3
 國民黨	kuk min1 tang2
-國界線	kuk cia3 sian3
+國界線	kuk cie3 sian3
 國臺辦	kuk de1 ban3
 國際化	kuk tzi3 hua3
 國際性	kuk tzi3 sin3
@@ -29508,7 +29508,7 @@ sort: by_weight
 地震儀	di3 cen3 yi1
 地震學	di3 cen3 yuk
 地震局	di3 cen3 jiuk
-地震帶	di3 cen3 ta3
+地震帶	di3 cen3 te3
 地震波	di3 cen3 po1
 地面層	di3 mian3 dzen1
 地面水	di3 mian3 shue2
@@ -29562,7 +29562,7 @@ sort: by_weight
 基督徒	ci1 tuk du1
 基督教	ci1 tuk ciau3
 基西紐	ci1 si1 nyieu2
-基諧波	ci1 ya1 po1
+基諧波	ci1 ye1 po1
 基諾族	ci1 nuk dzuk
 基隆市	ci1 lung1 zhu3
 堅信禮	cian1 sin3 li2
@@ -29723,7 +29723,7 @@ sort: by_weight
 天舟座	thian1 ceu1 dzo3
 天花板	thian1 hua1 pan2
 天藍色	thian1 lan1 seh
-天蟹座	thian1 ya3 dzo3
+天蟹座	thian1 ye3 dzo3
 天蠍座	thian1 shiah dzo3
 天象儀	thian1 ziang3 yi1
 天門冬	thian1 men1 tung1
@@ -29738,45 +29738,45 @@ sort: by_weight
 天龍人	thian1 lung1 zhen1
 天龍國	thian1 lung1 kuk
 天龍座	thian1 lung1 dzo3
-太保市	tha3 pau2 zhu3
-太倉市	tha3 tsang1 zhu3
-太原市	tha3 yon1 zhu3
-太古代	tha3 ku2 de3
-太古宙	tha3 ku2 jeu3
-太史公	tha3 su2 kung1
-太夫人	tha3 fu1 zhen1
-太好了	tha3 hau2 liau2
-太子丹	tha3 tzy2 tan1
-太子港	tha3 tzy2 ciang2
-太子黨	tha3 tzy2 tang2
-太極圖	tha3 jih du1
-太極拳	tha3 jih jion1
-太白山	tha3 beh san1
-太白星	tha3 beh sin1
-太白粉	tha3 beh fen2
-太石村	tha3 zheh tsen1
-太空人	tha3 khung1 zhen1
-太空步	tha3 khung1 bu3
-太空遊	tha3 khung1 yeu1
-太陽光	tha3 yang1 kuang1
-太陽報	tha3 yang1 pau3
-太陽日	tha3 yang1 zheh
-太陽燈	tha3 yang1 ten1
-太陽神	tha3 yang1 zhen1
-太陽穴	tha3 yang1 yoh
-太陽系	tha3 yang1 yi3
-太陽翼	tha3 yang1 yih
-太陽花	tha3 yang1 hua1
-太陽輪	tha3 yang1 len1
-太陽鏡	tha3 yang1 cin3
-太陽餅	tha3 yang1 pin2
-太魯閣	tha3 lu2 kuk
-太麻里	tha3 ma1 li2
+太保市	the3 pau2 zhu3
+太倉市	the3 tsang1 zhu3
+太原市	the3 yon1 zhu3
+太古代	the3 ku2 de3
+太古宙	the3 ku2 jeu3
+太史公	the3 su2 kung1
+太夫人	the3 fu1 zhen1
+太好了	the3 hau2 liau2
+太子丹	the3 tzy2 tan1
+太子港	the3 tzy2 ciang2
+太子黨	the3 tzy2 tang2
+太極圖	the3 jih du1
+太極拳	the3 jih jion1
+太白山	the3 beh san1
+太白星	the3 beh sin1
+太白粉	the3 beh fen2
+太石村	the3 zheh tsen1
+太空人	the3 khung1 zhen1
+太空步	the3 khung1 bu3
+太空遊	the3 khung1 yeu1
+太陽光	the3 yang1 kuang1
+太陽報	the3 yang1 pau3
+太陽日	the3 yang1 zheh
+太陽燈	the3 yang1 ten1
+太陽神	the3 yang1 zhen1
+太陽穴	the3 yang1 yoh
+太陽系	the3 yang1 yi3
+太陽翼	the3 yang1 yih
+太陽花	the3 yang1 hua1
+太陽輪	the3 yang1 len1
+太陽鏡	the3 yang1 cin3
+太陽餅	the3 yang1 pin2
+太魯閣	the3 lu2 kuk
+太麻里	the3 ma1 li2
 失業者	sheh yah ce2
 失面子	sheh mian3 tzy2
 失體統	sheh thi2 thung3
 失體面	sheh thi2 mian3
-夾娃娃	ciah ia1 ia1
+夾娃娃	ciah ie1 ie1
 夾尾巴	ciah vi2 pa1
 夾山寺	ciah san1 zy3
 夾竹桃	ciah cuk dau1
@@ -29797,14 +29797,14 @@ sort: by_weight
 始新紀	shu2 sin1 ci2
 始新統	shu2 sin1 thung3
 始祖鳥	shu2 tzu2 tiau2
-姐妹花	tzia2 me3 hua1
+姐妹花	tzi2 me3 hua1
 姑姥姥	ku1 mu2 mu2
 姒文命	zy3 ven1 min3
 姚文元	yau1 ven1 yon1
-姜太公	ciang1 tha3 kung1
+姜太公	ciang1 the3 kung1
 姜子牙	ciang1 tzy2 ya1
 姜石年	ciang1 zheh nyian1
-姨太太	yi1 tha3 tha3
+姨太太	yi1 the3 the3
 姨姥姥	yi1 mu2 mu2
 姨媽巾	yi1 mu2 cin1
 威利斯	ue1 li3 sy1
@@ -29817,9 +29817,9 @@ sort: by_weight
 威爾遜	ue1 el2 sen3
 威而鋼	ue1 el1 kang1
 威靈頓	ue1 lin1 ten3
-娃娃兵	ia1 ia1 pin1
-娃娃菜	ia1 ia1 tse3
-娃娃魚	ia1 ia1 yu1
+娃娃兵	ie1 ie1 pin1
+娃娃菜	ie1 ie1 tse3
+娃娃魚	ie1 ie1 yu1
 娘娘廟	nyiang1 nyiang1 miau3
 娘娘腔	nyiang1 nyiang1 chiang1
 娘家姓	nyiang1 cia1 sin3
@@ -29827,7 +29827,7 @@ sort: by_weight
 婆羅洲	bo1 lo1 ceu1
 婆羅門	bo1 lo1 men1
 婚外情	huen1 we3 dzin1
-婚外戀	huen1 we3 lian3
+婚外戀	huen1 we3 lion3
 婚姻法	huen1 in1 fah
 婚神星	huen1 zhen1 sin1
 媽媽桑	mu2 mu2 sang1
@@ -29884,7 +29884,7 @@ sort: by_weight
 孵化場	fu1 hua3 jang1
 孵化期	fu1 hua3 ji1
 學前班	yuk dzian1 pan1
-學術界	yuk zheh cia3
+學術界	yuk zheh cie3
 它本身	tho1 pen2 shen1
 宇宙學	yu2 jeu3 yuk
 宇宙線	yu2 jeu3 sian3
@@ -29892,15 +29892,15 @@ sort: by_weight
 宇航局	yu2 ghang1 jiuk
 宇航服	yu2 ghang1 vuk
 安丘市	on1 chieu1 zhu3
-安全局	on1 dzian1 jiuk
-安全帶	on1 dzian1 ta3
-安全帽	on1 dzian1 mau3
-安全性	on1 dzian1 sin3
-安全感	on1 dzian1 kon2
-安全期	on1 dzian1 ji1
-安全燈	on1 dzian1 ten1
-安全網	on1 dzian1 vang2
-安全閥	on1 dzian1 vah
+安全局	on1 dzion1 jiuk
+安全帶	on1 dzion1 te3
+安全帽	on1 dzion1 mau3
+安全性	on1 dzion1 sin3
+安全感	on1 dzion1 kon2
+安全期	on1 dzion1 ji1
+安全燈	on1 dzion1 ten1
+安全網	on1 dzion1 vang2
+安全閥	on1 dzion1 vah
 安南子	on1 non1 tzy2
 安吉星	on1 cih sin1
 安吉爾	on1 cih el2
@@ -29909,7 +29909,7 @@ sort: by_weight
 安圭拉	on1 ci1 lah
 安地斯	on1 di3 sy1
 安多芬	on1 to1 fen1
-安太歲	on1 tha3 sue3
+安太歲	on1 the3 sue3
 安好心	on1 hau2 sin1
 安寧市	on1 nyin1 zhu3
 安寧片	on1 nyin1 phian3
@@ -29933,7 +29933,7 @@ sort: by_weight
 安陽市	on1 yang1 zhu3
 安順市	on1 zhen3 zhu3
 宋四家	sung3 sy3 cia1
-宋太祖	sung3 tha3 tzu2
+宋太祖	sung3 the3 tzu2
 宋干節	sung3 kon1 tziah
 宋徽宗	sung3 hue1 tzung1
 宋慶齡	sung3 chin3 lin1
@@ -29965,10 +29965,10 @@ sort: by_weight
 客家人	kheh cia1 zhen1
 客家話	kheh cia1 wa3
 客製化	kheh cu3 hua3
-宣城市	sian1 zhen1 zhu3
-宣威市	sian1 ue1 zhu3
-宣武門	sian1 vu2 men1
-宣誓書	sian1 zhu3 shu1
+宣城市	sion1 zhen1 zhu3
+宣威市	sion1 ue1 zhu3
+宣武門	sion1 vu2 men1
+宣誓書	sion1 zhu3 shu1
 宰牲節	tze2 sen1 tziah
 害月子	ghe3 yoh tzy2
 家八哥	cia1 pah ko1
@@ -30031,9 +30031,9 @@ sort: by_weight
 審判者	shen2 phon3 ce2
 審計員	shen2 ci3 yun1
 審計署	shen2 ci3 zhu3
-寫字板	sia2 dzy3 pan2
-寫字樓	sia2 dzy3 leu1
-寫字檯	sia2 dzy3 de1
+寫字板	si2 dzy3 pan2
+寫字樓	si2 dzy3 leu1
+寫字檯	si2 dzy3 de1
 寬影片	khuon1 in2 phian3
 寬心丸	khuon1 sin1 won1
 寬限期	khuon1 yan3 ji1
@@ -30092,10 +30092,10 @@ sort: by_weight
 小商販	siau2 shang1 fan3
 小夜曲	siau2 ya3 chiuk
 小天鵝	siau2 thian1 ngo1
-小太太	siau2 tha3 tha3
+小太太	siau2 the3 the3
 小妹妹	siau2 me3 me3
 小姨子	siau2 yi1 tzy2
-小娃娃	siau2 ia1 ia1
+小娃娃	siau2 ie1 ie1
 小孩兒	siau2 ghe1 el1
 小孩子	siau2 ghe1 tzy2
 小學生	siau2 yuk sen1
@@ -30250,7 +30250,7 @@ sort: by_weight
 工具欄	kung1 jiu3 lan1
 工具箱	kung1 jiu3 siang1
 工商業	kung1 shang1 yah
-工商界	kung1 shang1 cia3
+工商界	kung1 shang1 cie3
 工地秀	kung1 di3 sieu3
 工夫茶	kung1 fu1 dza1
 工字梁	kung1 dzy3 liang1
@@ -30272,7 +30272,7 @@ sort: by_weight
 巨爵座	jiu3 tziak dzo3
 巨牙鯊	jiu3 ya1 sa1
 巨石陣	jiu3 zheh jen3
-巨蟹座	jiu3 ya3 dzo3
+巨蟹座	jiu3 ye3 dzo3
 巨齒鯊	jiu3 chu2 sa1
 巫毒教	vu1 duk ciau3
 巴克斯	pa1 kheh sy1
@@ -30321,7 +30321,7 @@ sort: by_weight
 布哈拉	pu3 ngoh lah
 布哈林	pu3 ngoh lin1
 布坎南	pu3 khon2 non1
-布娃娃	pu3 ia1 ia1
+布娃娃	pu3 ie1 ie1
 布拉吉	pu3 lah cih
 布朗士	pu3 lang2 dzu3
 布朗尼	pu3 lang2 nyi1
@@ -30354,10 +30354,10 @@ sort: by_weight
 帕金森	mah cin1 sen1
 帕馬森	mah ma2 sen1
 席德尼	zih teh nyi1
-帶原者	ta3 yon1 ce2
-帶紅色	ta3 ghung1 seh
-帶菌者	ta3 jiun3 ce2
-帶路人	ta3 lu3 zhen1
+帶原者	te3 yon1 ce2
+帶紅色	te3 ghung1 seh
+帶菌者	te3 jiun3 ce2
+帶路人	te3 lu3 zhen1
 常寧市	zhang1 nyin1 zhu3
 常州市	zhang1 ceu1 zhu3
 常德市	zhang1 teh zhu3
@@ -30397,7 +30397,7 @@ sort: by_weight
 庫模塊	khu3 mu1 khue3
 庫爾勒	khu3 el2 leh
 庫爾德	khu3 el2 teh
-庫珀帶	khu3 pheh ta3
+庫珀帶	khu3 pheh te3
 庫魯病	khu3 lu2 bin3
 庵摩勒	on1 mo1 leh
 庶吉士	shu3 cih dzu3
@@ -30476,7 +30476,7 @@ sort: by_weight
 形聲字	yin1 shen1 dzy3
 彤管貽	dung1 kuon2 yi1
 彪個子	piau1 ko3 tzy2
-彭佳嶼	ben1 cia1 ziu3
+彭佳嶼	ben1 cie1 ziu3
 彭博社	ben1 puk zhe3
 彭州市	ben1 ceu1 zhu3
 彭德懷	ben1 teh wa1
@@ -30592,7 +30592,7 @@ sort: by_weight
 性接觸	sin3 tziah chuk
 性服務	sin3 vuk vu3
 性熟存	sin3 zhuk dzen1
-性物戀	sin3 veh lian3
+性物戀	sin3 veh lion3
 性疾病	sin3 dzih bin3
 性短訊	sin3 tuon2 sin3
 性蕾期	sin3 lue2 ji1
@@ -30702,7 +30702,7 @@ sort: by_weight
 懷疑者	wa1 yi1 ce2
 懷舊感	wa1 jieu3 kon2
 懸浮物	yon1 vu1 veh
-戀童犯	lian3 dung1 van3
+戀童犯	lion3 dung1 van3
 戊五醇	meu3 wu2 zhen1
 成交價	zhen1 ciau1 cia3
 成人向	zhen1 zhen1 shiang3
@@ -30716,7 +30716,7 @@ sort: by_weight
 成年者	zhen1 nyian1 ce2
 成文法	zhen1 ven1 fah
 成都市	zhen1 tu1 zhu3
-戒毒所	cia3 duk su2
+戒毒所	cie3 duk su2
 戰兢兢	con3 cin1 cin1
 戰利品	con3 li3 phin2
 戰國末	con3 kuk moh
@@ -30748,7 +30748,7 @@ sort: by_weight
 所發現	su2 fah yan3
 所羅門	su2 lo1 men1
 手動擋	sheu2 dung3 tang3
-手寫體	sheu2 sia2 thi2
+手寫體	sheu2 si2 thi2
 手工業	sheu2 kung1 yah
 手工檯	sheu2 kung1 de1
 手工藝	sheu2 kung1 yi3
@@ -30875,7 +30875,7 @@ sort: by_weight
 招呼站	cau1 hu1 tzan3
 招待員	cau1 de3 yun1
 招待所	cau1 de3 su2
-招潮蟹	cau1 jau1 ya3
+招潮蟹	cau1 jau1 ye3
 招聘者	cau1 phin3 ce2
 招股書	cau1 ku2 shu1
 拜天地	pa3 thian1 di3
@@ -31034,7 +31034,7 @@ sort: by_weight
 攀枝花	phan1 cu1 hua1
 攉煤機	huk me1 ci1
 攔路虎	lan1 lu3 hu2
-攜帶者	yi1 ta3 ce2
+攜帶者	yi1 te3 ce2
 支付寶	cu1 fu3 pau2
 支公司	cu1 kung1 sy1
 支努干	cu1 nu2 kon1
@@ -31126,7 +31126,7 @@ sort: by_weight
 斯巴魯	sy1 pa1 lu2
 斯捷潘	sy1 dziah phon1
 斯沃琪	sy1 uk ji1
-斯泰西	sy1 tha3 si1
+斯泰西	sy1 the3 si1
 斯特恩	sy1 deh en1
 斯考特	sy1 khau2 deh
 斯諾克	sy1 nuk kheh
@@ -31138,7 +31138,7 @@ sort: by_weight
 新加坡	sin1 cia1 pho1
 新化市	sin1 hua3 zhu3
 新北市	sin1 puk zhu3
-新北界	sin1 puk cia3
+新北界	sin1 puk cie3
 新古典	sin1 ku2 tian2
 新唐書	sin1 dang1 shu1
 新四軍	sin1 sy3 ciun1
@@ -31161,7 +31161,7 @@ sort: by_weight
 新時代	sin1 zhu1 de3
 新民市	sin1 min1 zhu3
 新沂市	sin1 yi1 zhu3
-新泰市	sin1 tha3 zhu3
+新泰市	sin1 the3 zhu3
 新澤西	sin1 dzeh si1
 新營市	sin1 yung1 zhu3
 新生代	sin1 sen1 de3
@@ -31176,7 +31176,7 @@ sort: by_weight
 新都橋	sin1 tu1 jiau1
 新鄉市	sin1 shiang1 zhu3
 新鄭市	sin1 jen3 zhu3
-新階段	sin1 cia1 duon3
+新階段	sin1 cie1 duon3
 新餘市	sin1 yu1 zhu3
 旁遮普	bang1 ce1 phu2
 旅程表	liu2 jen1 piau2
@@ -31222,9 +31222,9 @@ sort: by_weight
 明仁宗	min1 zhen1 tzung1
 明信片	min1 sin3 phian3
 明古魯	min1 ku2 lu2
-明太祖	min1 tha3 tzu2
+明太祖	min1 the3 tzu2
 明孝陵	min1 shiau3 lin1
-明宣宗	min1 sian1 tzung1
+明宣宗	min1 sion1 tzung1
 明成祖	min1 zhen1 tzu2
 明斯克	min1 sy1 kheh
 明晃晃	min1 wang3 wang3
@@ -31287,7 +31287,7 @@ sort: by_weight
 普陀山	phu2 do1 san1
 普魯士	phu2 lu2 dzu3
 普魯東	phu2 lu2 tung1
-景泰藍	cin2 tha3 lan1
+景泰藍	cin2 the3 lan1
 景洪市	cin2 ghung1 zhu3
 景福宮	cin2 fuk kung1
 晶狀體	tzin1 dzuang3 thi2
@@ -31304,8 +31304,8 @@ sort: by_weight
 暢銷書	chang3 siau1 shu1
 暫住證	dzan3 ju3 cen3
 暾欲穀	then1 yuk kuk
-曬太陽	sa3 tha3 yang1
-曬黑網	sa3 heh vang2
+曬太陽	se3 the3 yang1
+曬黑網	se3 heh vang2
 曲棍球	chiuk wen3 jieu1
 曲線圖	chiuk sian3 du1
 曲線鋸	chiuk sian3 ciu3
@@ -31318,7 +31318,7 @@ sort: by_weight
 書記官	shu1 ci3 kuon1
 曹剛川	dzau1 kang1 chuon1
 曹白魚	dzau1 beh yu1
-曹雪芹	dzau1 siah jin1
+曹雪芹	dzau1 sioh jin1
 曹餘章	dzau1 yu1 cang1
 替代品	thi3 de3 phin2
 替死鬼	thi3 sy2 kue2
@@ -31326,7 +31326,7 @@ sort: by_weight
 最低潮	tzue3 ti1 jau1
 最低音	tzue3 ti1 in1
 最低點	tzue3 ti1 tian2
-最佳化	tzue3 cia1 hua3
+最佳化	tzue3 cie1 hua3
 最優化	tzue3 ieu1 hua3
 最喜愛	tzue3 shi2 e3
 最小值	tzue3 siau2 ju3
@@ -31396,7 +31396,7 @@ sort: by_weight
 木乃伊	muk ne2 i1
 木子美	muk tzy2 me2
 木曜日	muk yau3 zheh
-木柴堆	muk dza1 tue1
+木柴堆	muk dze1 tue1
 木犀肉	muk si1 zhuk
 木目金	muk muk cin1
 木糖醇	muk dang1 zhen1
@@ -31498,7 +31498,7 @@ sort: by_weight
 李連杰	li2 lian1 jiah
 李鐵拐	li2 thiah kua2
 李隆基	li2 lung1 ci1
-李雪健	li2 siah jian3
+李雪健	li2 sioh jian3
 李雲娜	li2 yun1 no2
 李顯龍	li2 shian2 lung1
 杏仁核	ghen3 zhen1 gheh
@@ -31512,7 +31512,7 @@ sort: by_weight
 杜鵑科	du3 cion1 kho1
 杜鵑花	du3 cion1 hua1
 杜鵑鳥	du3 cion1 tiau2
-束線帶	shuk sian3 ta3
+束線帶	shuk sian3 te3
 杭州市	ghang1 ceu1 zhu3
 杭州灣	ghang1 ceu1 uan1
 杭錦旗	ghang1 cin2 ji1
@@ -31608,7 +31608,7 @@ sort: by_weight
 柳條邊	lieu2 diau1 pian1
 柳營鄉	lieu2 yung1 shiang1
 柳雷鳥	lieu2 lue1 tiau2
-柴魚片	dza1 yu1 phian3
+柴魚片	dze1 yu1 phian3
 栗耳鵐	lih el2 vu1
 株洲市	cu1 ceu1 zhu3
 核僵持	gheh ciang1 ju1
@@ -31769,12 +31769,12 @@ sort: by_weight
 機務段	ci1 vu3 duon3
 機器人	ci1 chi3 zhen1
 機密性	ci1 mih sin3
-機械化	ci1 ya3 hua3
-機械工	ci1 ya3 kung1
-機械師	ci1 ya3 su1
-機械性	ci1 ya3 sin3
-機械碼	ci1 ya3 ma2
-機械鐘	ci1 ya3 cung1
+機械化	ci1 ye3 hua3
+機械工	ci1 ye3 kung1
+機械師	ci1 ye3 su1
+機械性	ci1 ye3 sin3
+機械碼	ci1 ye3 ma2
+機械鐘	ci1 ye3 cung1
 機關報	ci1 kuan1 pau3
 機靈鬼	ci1 lin1 kue2
 機頂盒	ci1 tin2 ghoh
@@ -31872,7 +31872,7 @@ sort: by_weight
 殯儀館	pin3 yi1 kuon3
 殲擊機	tzian1 cih ci1
 段祺瑞	duon3 ji1 zhue3
-段荃法	duon3 tsian1 fah
+段荃法	duon3 tsion1 fah
 殺人案	sah zhen1 on3
 殺人犯	sah zhen1 van3
 殺人鯨	sah zhen1 jin1
@@ -31936,7 +31936,7 @@ sort: by_weight
 水煙袋	shue2 ian1 de3
 水球場	shue2 jieu1 jang1
 水瓶座	shue2 bin1 dzo3
-水田芥	shue2 dian1 cia3
+水田芥	shue2 dian1 cie3
 水管工	shue2 kuon2 kung1
 水管麵	shue2 kuon2 mian3
 水翼船	shue2 yih zhuon1
@@ -31953,7 +31953,7 @@ sort: by_weight
 水電工	shue2 dian3 kung1
 水電站	shue2 dian3 tzan3
 水靈靈	shue2 lin1 lin1
-水龍帶	shue2 lung1 ta3
+水龍帶	shue2 lung1 te3
 水龍頭	shue2 lung1 deu1
 永久性	yung2 cieu2 sin3
 永動機	yung2 dung3 ci1
@@ -32008,7 +32008,7 @@ sort: by_weight
 油麥菜	yeu1 meh tse3
 沼澤地	cau2 dzeh di3
 沿海州	yon1 he2 ceu1
-泉州市	dzian1 ceu1 zhu3
+泉州市	dzion1 ceu1 zhu3
 泊頭市	buk deu1 zhu3
 法勒斯	fah leh sy1
 法向力	fah shiang3 lih
@@ -32038,7 +32038,7 @@ sort: by_weight
 波來古	po1 le1 ku2
 波動性	po1 dung3 sin3
 波士頓	po1 dzu3 ten3
-波帶片	po1 ta3 phian3
+波帶片	po1 te3 phian3
 波德申	po1 teh shen1
 波斑鴇	po1 pan1 pau2
 波斯灣	po1 sy1 uan1
@@ -32057,17 +32057,17 @@ sort: by_weight
 注冊人	cu3 tseh zhen1
 注冊表	cu3 tseh piau2
 注意力	cu3 i3 lih
-泰加林	tha3 cia1 lin1
-泰安市	tha3 on1 zhu3
-泰安鄉	tha3 on1 shiang1
-泰山鄉	tha3 san1 shiang1
-泰州市	tha3 ceu1 zhu3
-泰戈爾	tha3 ko1 el2
-泰晤士	tha3 wu3 dzu3
-泰武鄉	tha3 vu2 shiang1
-泰米爾	tha3 mi2 el2
-泰迪熊	tha3 dih yung1
-泰雅族	tha3 ya2 dzuk
+泰加林	the3 cia1 lin1
+泰安市	the3 on1 zhu3
+泰安鄉	the3 on1 shiang1
+泰山鄉	the3 san1 shiang1
+泰州市	the3 ceu1 zhu3
+泰戈爾	the3 ko1 el2
+泰晤士	the3 wu3 dzu3
+泰武鄉	the3 vu2 shiang1
+泰米爾	the3 mi2 el2
+泰迪熊	the3 dih yung1
+泰雅族	the3 ya2 dzuk
 洋中脊	yang1 cung1 tzih
 洋山港	yang1 san1 ciang2
 洋琵琶	yang1 bi1 ba1
@@ -32096,7 +32096,7 @@ sort: by_weight
 洪江市	ghung1 ciang1 zhu3
 洪湖市	ghung1 wu1 zhu3
 洪澤湖	ghung1 dzeh wu1
-洪秀全	ghung1 sieu3 dzian1
+洪秀全	ghung1 sieu3 dzion1
 洪雅族	ghung1 ya2 dzuk
 流動性	lieu1 dung3 sin3
 流媒體	lieu1 me1 thi2
@@ -32210,8 +32210,8 @@ sort: by_weight
 添麻煩	thian1 ma1 van1
 清一色	tsin1 ih seh
 清史館	tsin1 su2 kuon3
-清太宗	tsin1 tha3 tzung1
-清太祖	tsin1 tha3 tzu2
+清太宗	tsin1 the3 tzung1
+清太祖	tsin1 the3 tzu2
 清州市	tsin1 ceu1 zhu3
 清政府	tsin1 cen3 fu2
 清明節	tsin1 min1 tziah
@@ -32268,7 +32268,7 @@ sort: by_weight
 溫州市	uen1 ceu1 zhu3
 溫布頓	uen1 pu3 ten3
 溫斯頓	uen1 sy1 ten3
-溫泉城	uen1 dzian1 zhen1
+溫泉城	uen1 dzion1 zhen1
 溫體肉	uen1 thi2 zhuk
 滁州市	ju1 ceu1 zhu3
 滅火器	miah ho2 chi3
@@ -32302,14 +32302,14 @@ sort: by_weight
 演奏者	yan2 tzeu3 ce2
 演播室	yan2 po3 sheh
 演繹法	yan2 yih fah
-演藝界	yan2 yi3 cia3
+演藝界	yan2 yi3 cie3
 演講家	yan2 ciang2 cia1
 漢元帝	hon3 yon1 ti3
 漢四郡	hon3 sy3 jiun3
 漢堡包	hon3 pau2 pau1
 漢學係	hon3 yuk ci3
 漢學家	hon3 yuk cia1
-漢宣帝	hon3 sian1 ti3
+漢宣帝	hon3 sion1 ti3
 漢川市	hon3 chuon1 zhu3
 漢文帝	hon3 ven1 ti3
 漢明帝	hon3 min1 ti3
@@ -32335,7 +32335,7 @@ sort: by_weight
 潤髮液	zhen3 fah yih
 潤髮露	zhen3 fah lu3
 潮州市	jau1 ceu1 zhu3
-潮間帶	jau1 cian3 ta3
+潮間帶	jau1 cian3 te3
 澱山湖	dian3 san1 wu1
 激光器	cih kuang1 chi3
 濁輔音	dzuk vu3 in1
@@ -32350,7 +32350,7 @@ sort: by_weight
 灌木林	kuon3 muk lin1
 火山口	ho2 san1 kheu2
 火山學	ho2 san1 yuk
-火山帶	ho2 san1 ta3
+火山帶	ho2 san1 te3
 火山灰	ho2 san1 hue1
 火山礫	ho2 san1 lih
 火山豆	ho2 san1 deu3
@@ -32442,7 +32442,7 @@ sort: by_weight
 無助感	vu1 dzu3 kon2
 無原則	vu1 yon1 tzeh
 無名指	vu1 min1 cu2
-無國界	vu1 kuk cia3
+無國界	vu1 kuk cie3
 無字碑	vu1 dzy3 pe1
 無尾熊	vu1 vi2 yung1
 無尾猿	vu1 vi2 yon1
@@ -32470,7 +32470,7 @@ sort: by_weight
 無結網	vu1 ciah vang2
 無線電	vu1 sian3 dian3
 無脊椎	vu1 tzih jue1
-無腳蟹	vu1 ciak ya3
+無腳蟹	vu1 ciak ye3
 無花果	vu1 hua1 ko2
 無菌性	vu1 jiun3 sin3
 無表情	vu1 piau2 dzin1
@@ -32515,7 +32515,7 @@ sort: by_weight
 熱力學	zhoh lih yuk
 熱呼呼	zhoh hu1 hu1
 熱對流	zhoh tue3 lieu1
-熱帶魚	zhoh ta3 yu1
+熱帶魚	zhoh te3 yu1
 熱得快	zhoh teh khua3
 熱心腸	zhoh sin1 jang1
 熱成層	zhoh zhen1 dzen1
@@ -32525,7 +32525,7 @@ sort: by_weight
 熱水瓶	zhoh shue2 bin1
 熱水袋	zhoh shue2 de3
 熱爾韋	zhoh el2 we1
-熱痙攣	zhoh jin3 lian1
+熱痙攣	zhoh jin3 lion1
 熱紅酒	zhoh ghung1 tzieu2
 熱縮管	zhoh suk kuon2
 熱賣品	zhoh ma3 phin2
@@ -32636,7 +32636,7 @@ sort: by_weight
 獅子鄉	su1 tzy2 shiang1
 獅子頭	su1 tzy2 deu1
 獅尾狒	su1 vi2 vi3
-獅泉河	su1 dzian1 gho1
+獅泉河	su1 dzion1 gho1
 獅虎獸	su1 hu2 sheu3
 獎學金	tziang2 yuk cin1
 獎得主	tziang2 teh cu2
@@ -32663,7 +32663,7 @@ sort: by_weight
 玉井鄉	yuk tzin2 shiang1
 玉川市	yuk chuon1 zhu3
 玉林市	yuk lin1 zhu3
-玉泉營	yuk dzian1 yung1
+玉泉營	yuk dzion1 yung1
 玉溪市	yuk chi1 zhu3
 玉皇頂	yuk wang1 tin2
 玉米片	yuk mi2 phian3
@@ -32723,7 +32723,7 @@ sort: by_weight
 現象學	yan3 ziang3 yuk
 現貨價	yan3 ho3 cia3
 現金流	yan3 cin1 lieu1
-現階段	yan3 cia1 duon3
+現階段	yan3 cie1 duon3
 球狀物	jieu1 dzuang3 veh
 球腔菌	jieu1 chiang1 jiun3
 琅威理	lang1 ue1 li2
@@ -32761,7 +32761,7 @@ sort: by_weight
 瓊山市	jiung1 san1 zhu3
 瓊斯頓	jiung1 sy1 ten3
 瓊海市	jiung1 he2 zhu3
-瓜娃子	kua1 ia1 tzy2
+瓜娃子	kua1 ie1 tzy2
 瓜皮帽	kua1 be1 mau3
 瓣鰓綱	ban3 se1 kang1
 甘丹寺	kon1 tan1 zy3
@@ -32802,9 +32802,9 @@ sort: by_weight
 畢節市	pih tziah zhu3
 異丙苯	yi3 pin2 pen2
 異丙醇	yi3 pin2 zhen1
-異地戀	yi3 di3 lian3
+異地戀	yi3 di3 lion3
 異形詞	yi3 yin1 zy1
-異性戀	yi3 sin3 lian3
+異性戀	yi3 sin3 lion3
 異構體	yi3 keu3 thi2
 異特龍	yi3 deh lung1
 異端者	yi3 tuon1 ce2
@@ -32831,8 +32831,8 @@ sort: by_weight
 瘦伶仃	seu3 lin1 tin1
 瘦巴巴	seu3 pa1 pa1
 瘧疾病	yak dzih bin3
-癩皮病	la3 be1 bin3
-癩蛤蟆	la3 koh ma1
+癩皮病	le3 be1 bin3
+癩蛤蟆	le3 koh ma1
 登山家	ten1 san1 cia1
 登徒子	ten1 du1 tzy2
 登機口	ten1 ci1 kheu2
@@ -32890,7 +32890,7 @@ sort: by_weight
 白山派	beh san1 pha3
 白崇禧	beh dzung1 shi1
 白帝城	beh ti3 zhen1
-白帶魚	beh ta3 yu1
+白帶魚	beh te3 yu1
 白斑病	beh pan1 bin3
 白斬雞	beh tzan2 ci1
 白木耳	beh muk el2
@@ -32914,7 +32914,7 @@ sort: by_weight
 白眉鶇	beh me1 tung1
 白眼狼	beh yan2 lang1
 白眼珠	beh yan2 cu1
-白矮星	beh ia2 sin1
+白矮星	beh ie2 sin1
 白砂糖	beh sa1 dang1
 白粉病	beh fen2 bin3
 白素貞	beh su3 cen1
@@ -32984,10 +32984,10 @@ sort: by_weight
 百靈鳥	peh lin1 tiau2
 百香果	peh shiang1 ko2
 的確良	tih chiuk liang1
-皇太子	wang1 tha3 tzy2
-皇太極	wang1 tha3 jih
+皇太子	wang1 the3 tzy2
+皇太極	wang1 the3 jih
 皇帝菜	wang1 ti3 tse3
-皇帶魚	wang1 ta3 yu1
+皇帶魚	wang1 te3 yu1
 皇甫嵩	wang1 fu2 sung1
 皇甫鎛	wang1 fu2 puk
 皮克斯	be1 kheh sy1
@@ -32995,7 +32995,7 @@ sort: by_weight
 皮埃爾	be1 e1 el2
 皮塔餅	be1 thah pin2
 皮層性	be1 dzen1 sin3
-皮帶釦	be1 ta3 kheu2
+皮帶釦	be1 te3 kheu2
 皮條客	be1 diau1 kheh
 皮爾森	be1 el2 sen1
 皮皮蝦	be1 be1 ya1
@@ -33016,7 +33016,7 @@ sort: by_weight
 盤陀路	bon1 do1 lu3
 盧森堡	lu1 sen1 pau2
 盧武鉉	lu1 vu2 yon3
-盧泰愚	lu1 tha3 yu1
+盧泰愚	lu1 the3 yu1
 盧浮宮	lu1 vu1 kung1
 盧溝橋	lu1 keu1 jiau1
 盧照鄰	lu1 cau3 lin1
@@ -33068,12 +33068,12 @@ sort: by_weight
 短衣幫	tuon2 i1 pang1
 短訓班	tuon2 shiun3 pan1
 短趾鵰	tuon2 cu2 tiau1
-矮地茶	ia2 di3 dza1
-矮墩墩	ia2 ten1 ten1
-矮壯素	ia2 tzuang3 su3
-矮楊梅	ia2 yang1 me1
-矮醜窮	ia2 cheu2 gung1
-矮黑人	ia2 heh zhen1
+矮地茶	ie2 di3 dza1
+矮墩墩	ie2 ten1 ten1
+矮壯素	ie2 tzuang3 su3
+矮楊梅	ie2 yang1 me1
+矮醜窮	ie2 cheu2 gung1
+矮黑人	ie2 heh zhen1
 矯直機	ciau2 jeh ci1
 石像鬼	zheh ziang3 kue2
 石刁柏	zheh tiau1 peh
@@ -33157,7 +33157,7 @@ sort: by_weight
 礙面子	nge3 mian3 tzy2
 礦務局	kuang2 vu3 jiuk
 礦油精	kuang2 yeu1 tzin1
-礦泉水	kuang2 dzian1 shue2
+礦泉水	kuang2 dzion1 shue2
 礦物學	kuang2 veh yuk
 社交舞	zhe3 ciau1 vu2
 社工人	zhe3 kung1 zhen1
@@ -33182,7 +33182,7 @@ sort: by_weight
 福布斯	fuk pu3 sy1
 福斯特	fuk sy1 deh
 福樓拜	fuk leu1 pa3
-福泉市	fuk dzian1 zhu3
+福泉市	fuk dzion1 zhu3
 福清市	fuk tsin1 zhu3
 福維克	fuk vi1 kheh
 福音書	fuk in1 shu1
@@ -33215,7 +33215,7 @@ sort: by_weight
 科倫坡	kho1 len1 pho1
 科威特	kho1 ue1 deh
 科學家	kho1 yuk cia1
-科學界	kho1 yuk cia3
+科學界	kho1 yuk cie3
 科布多	kho1 pu3 to1
 科摩洛	kho1 mo1 luk
 科摩羅	kho1 mo1 lo1
@@ -33274,7 +33274,7 @@ sort: by_weight
 窮二代	gung1 el3 de3
 窮忙族	gung1 mang1 dzuk
 窮棒子	gung1 bang3 tzy2
-窯姐兒	yau1 tzia2 el1
+窯姐兒	yau1 tzi2 el1
 竅門兒	chiau3 men1 el1
 竇娥冤	deu3 ngo1 ion1
 竊蠹甲	tsiah tu3 ciah
@@ -33289,7 +33289,7 @@ sort: by_weight
 站起來	tzan3 chi2 le1
 站軍姿	tzan3 ciun1 tzy1
 章丘市	cang1 chieu1 zhu3
-章太炎	cang1 tha3 yan1
+章太炎	cang1 the3 yan1
 章子怡	cang1 tzy2 yi1
 章孝嚴	cang1 shiau3 yan1
 章炳麟	cang1 pin2 lin1
@@ -33368,7 +33368,7 @@ sort: by_weight
 簡化字	cian2 hua3 dzy3
 簡帖兒	cian2 thiah el1
 簡言之	cian2 yan1 cu1
-簡諧波	cian2 ya1 po1
+簡諧波	cian2 ye1 po1
 簡陽市	cian2 yang1 zhu3
 簡體字	cian2 thi2 dzy3
 籃板球	lan1 pan2 jieu1
@@ -33377,7 +33377,7 @@ sort: by_weight
 米字旗	mi2 dzy3 ji1
 米底亞	mi2 ti2 ia3
 米歇爾	mi2 shiah el2
-米泉市	mi2 dzian1 zhu3
+米泉市	mi2 dzion1 zhu3
 米爾斯	mi2 el2 sy1
 米爾頓	mi2 el2 ten3
 米粉肉	mi2 fen2 zhuk
@@ -33440,7 +33440,7 @@ sort: by_weight
 紅珊瑚	ghung1 san1 wu1
 紅璧璽	ghung1 pih sy2
 紅眼病	ghung1 yan2 bin3
-紅矮星	ghung1 ia2 sin1
+紅矮星	ghung1 ie2 sin1
 紅籌股	ghung1 jeu1 ku2
 紅綠燈	ghung1 luk ten1
 紅羊劫	ghung1 yang1 ciah
@@ -33482,7 +33482,7 @@ sort: by_weight
 紐西蘭	nyieu2 si1 lan1
 紙尿布	cu2 nyiau3 pu3
 紙尿片	cu2 nyiau3 phian3
-紙火柴	cu2 ho2 dza1
+紙火柴	cu2 ho2 dze1
 紙火鍋	cu2 ho2 ko1
 紙老虎	cu2 lau2 hu2
 紙黃金	cu2 wang1 cin1
@@ -33503,7 +33503,7 @@ sort: by_weight
 紫金牛	tzy2 cin1 yeu1
 紫金鵑	tzy2 cin1 cion1
 紫錐花	tzy2 cue1 hua1
-紮線帶	tzah sian3 ta3
+紮線帶	tzah sian3 te3
 細明體	si3 min1 thi2
 終南山	cung1 non1 san1
 終端機	cung1 tuon1 ci1
@@ -33521,16 +33521,16 @@ sort: by_weight
 結構式	ciah keu3 sheh
 結構性	ciah keu3 sin3
 結腸炎	ciah jang1 yan1
-絕命書	dziah min3 shu1
-絕對值	dziah tue3 ju3
-絕對權	dziah tue3 jion1
-絕熱漆	dziah zhoh tsih
-絕緣體	dziah yon1 thi2
-絕門兒	dziah men1 el1
+絕命書	dzioh min3 shu1
+絕對值	dzioh tue3 ju3
+絕對權	dzioh tue3 jion1
+絕熱漆	dzioh zhoh tsih
+絕緣體	dzioh yon1 thi2
+絕門兒	dzioh men1 el1
 絞刑架	ciau2 yin1 cia3
 絞肉機	ciau2 zhuk ci1
 給面子	cih mian3 tzy2
-絨螯蟹	zhung1 ngau1 ya3
+絨螯蟹	zhung1 ngau1 ye3
 統一性	thung3 ih sin3
 統一碼	thung3 ih ma2
 統一體	thung3 ih thi2
@@ -33577,7 +33577,7 @@ sort: by_weight
 網絡層	vang2 luk dzen1
 網罟座	vang2 ku2 dzo3
 綺想曲	chi2 siang2 chiuk
-綺色佳	chi2 seh cia1
+綺色佳	chi2 seh cie1
 綿白糖	mian1 beh dang1
 綿竹市	mian1 cuk zhu3
 綿陽市	mian1 yang1 zhu3
@@ -33675,7 +33675,7 @@ sort: by_weight
 美智子	me2 cu3 tzy2
 美杜莎	me2 du3 so1
 美汁源	me2 ceh yon1
-美泉宮	me2 dzian1 kung1
+美泉宮	me2 dzion1 kung1
 美洲獅	me2 ceu1 su1
 美洲虎	me2 ceu1 hu2
 美洲豹	me2 ceu1 pau3
@@ -33721,9 +33721,9 @@ sort: by_weight
 老半天	lau2 pon3 thian1
 老古板	lau2 ku2 pan2
 老司機	lau2 sy1 ci1
-老太公	lau2 tha3 kung1
-老太太	lau2 tha3 tha3
-老太婆	lau2 tha3 bo1
+老太公	lau2 the3 kung1
+老太太	lau2 the3 the3
+老太婆	lau2 the3 bo1
 老好人	lau2 hau2 zhen1
 老婦人	lau2 vu3 zhen1
 老媽子	lau2 mu2 tzy2
@@ -33950,7 +33950,7 @@ sort: by_weight
 自然人	dzy3 zhon1 zhen1
 自然史	dzy3 zhon1 su2
 自然法	dzy3 zhon1 fah
-自然界	dzy3 zhon1 cia3
+自然界	dzy3 zhon1 cie3
 自然銅	dzy3 zhon1 dung1
 自營商	dzy3 yung1 shang1
 自由刑	dzy3 yeu1 yin1
@@ -34000,7 +34000,7 @@ sort: by_weight
 舍利子	she2 li3 tzy2
 舒喘靈	shu1 chuon2 lin1
 舒慶春	shu1 chin3 chen1
-舒膚佳	shu1 fu1 cia1
+舒膚佳	shu1 fu1 cie1
 舒芙蕾	shu1 vu1 lue2
 舒蘭市	shu1 lan1 zhu3
 舒馬赫	shu1 ma2 heh
@@ -34043,7 +34043,7 @@ sort: by_weight
 芝麻餅	cu1 ma1 pin2
 芫花素	yon1 hua1 su3
 芬園鄉	fen1 yon1 shiang1
-芬太尼	fen1 tha3 nyi1
+芬太尼	fen1 the3 nyi1
 芭芭拉	pa1 pa1 lah
 芭蕾舞	pa1 lue2 vu2
 花壇鄉	hua1 dan1 shiang1
@@ -34153,7 +34153,7 @@ sort: by_weight
 萬年曆	van3 nyian1 lih
 萬柏林	van3 peh lin1
 萬榮鄉	van3 yung1 shiang1
-萬泉河	van3 dzian1 gho1
+萬泉河	van3 dzion1 gho1
 萬洋山	van3 yang1 san1
 萬源市	van3 yon1 zhu3
 萬用表	van3 yung3 piau2
@@ -34195,11 +34195,11 @@ sort: by_weight
 蓄電池	chuk dian3 ju1
 蓮花白	lian1 hua1 beh
 蓮花落	lian1 hua1 luk
-蔡依林	tsa3 i1 lin1
-蔡國強	tsa3 kuk jiang1
-蔡志忠	tsa3 cu3 cung1
-蔡李彿	tsa3 li2 feh
-蔡英文	tsa3 in1 ven1
+蔡依林	tse3 i1 lin1
+蔡國強	tse3 kuk jiang1
+蔡志忠	tse3 cu3 cung1
+蔡李彿	tse3 li2 feh
+蔡英文	tse3 in1 ven1
 蕁麻疹	don1 ma1 cen2
 蕪湖市	vu1 wu1 zhu3
 蕭一山	siau1 ih san1
@@ -34212,7 +34212,7 @@ sort: by_weight
 薄熙來	buk shi1 le1
 薑黃色	ciang1 wang1 seh
 薛仁貴	siah zhen1 kue3
-薛寶釵	siah pau2 tsa1
+薛寶釵	siah pau2 tse1
 薛福成	siah fuk zhen1
 薦頭店	tzian3 deu1 tian3
 薩克斯	sah kheh sy1
@@ -34315,8 +34315,8 @@ sort: by_weight
 螺線管	lo1 sian3 kuon2
 螻蛄科	leu1 ku1 kho1
 蟈蟈兒	kuk kuk el1
-蟹爪蘭	ya3 tzau2 lan1
-蟹黃水	ya3 wang1 shue2
+蟹爪蘭	ye3 tzau2 lan1
+蟹黃水	ye3 wang1 shue2
 蠍虎座	shiah hu2 dzo3
 蠟像館	lah ziang3 kuon3
 蠶寶寶	dzon1 pau2 pau2
@@ -34339,7 +34339,7 @@ sort: by_weight
 衡水市	ghen1 shue2 zhu3
 衡陽市	ghen1 yang1 zhu3
 衢州市	jiu1 ceu1 zhu3
-表姐妹	piau2 tzia2 me3
+表姐妹	piau2 tzi2 me3
 表演賽	piau2 yan2 se3
 表現力	piau2 yan3 lih
 表現型	piau2 yan3 yin1
@@ -34360,7 +34360,7 @@ sort: by_weight
 補胎片	pu2 the1 phian3
 補足物	pu2 tzuk veh
 補足額	pu2 tzuk gheh
-裝卸工	tzuang1 sia3 kung1
+裝卸工	tzuang1 si3 kung1
 裝可愛	tzuang1 kho2 e3
 裝洋蒜	tzuang1 yang1 suon3
 裝置物	tzuang1 cu3 veh
@@ -34484,7 +34484,7 @@ sort: by_weight
 試驗間	shu3 yan3 cian3
 詭辯家	kue2 bian3 cia1
 詭辯術	kue2 bian3 zheh
-詮釋學	tsian1 sheh yuk
+詮釋學	tsion1 sheh yuk
 話務員	wa3 vu3 yun1
 話匣子	wa3 yah tzy2
 詹天佑	con1 thian1 yeu3
@@ -34499,9 +34499,9 @@ sort: by_weight
 諂媚者	chon2 me3 ce2
 談判桌	dan1 phon3 tzuk
 談得來	dan1 teh le1
-談戀愛	dan1 lian3 e3
+談戀愛	dan1 lion3 e3
 談朋友	dan1 ben1 yeu2
-諧音列	ya1 in1 liah
+諧音列	ye1 in1 liah
 諮詢員	tzy1 sin1 yun1
 諸侯國	cu1 gheu1 kuk
 諸葛亮	cu1 koh liang3
@@ -34512,10 +34512,10 @@ sort: by_weight
 謀殺罪	mu1 sah dzue3
 講習班	ciang2 zih pan1
 講閒話	ciang2 cian1 wa3
-謝家集	zia3 cia1 dzih
-謝肉節	zia3 zhuk tziah
-謝通門	zia3 thung1 men1
-謝靈運	zia3 lin1 yun3
+謝家集	zi3 cia1 dzih
+謝肉節	zi3 zhuk tziah
+謝通門	zi3 thung1 men1
+謝靈運	zi3 lin1 yun3
 證交所	cen3 ciau1 su2
 證人席	cen3 zhen1 zih
 證婚人	cen3 huen1 zhen1
@@ -34528,7 +34528,7 @@ sort: by_weight
 警察廳	cin2 tsah thin1
 警察署	cin2 tsah zhu3
 警惕性	cin2 thih sin3
-警戒線	cin2 cia3 sian3
+警戒線	cin2 cie3 sian3
 警政署	cin2 cen3 zhu3
 譯碼器	yih ma2 chi3
 護國戰	wu3 kuk con3
@@ -34589,12 +34589,12 @@ sort: by_weight
 象牙塔	ziang3 ya1 thah
 象聲詞	ziang3 shen1 zy1
 象鼻山	ziang3 bi3 san1
-豬八戒	cu1 pah cia3
+豬八戒	cu1 pah cie3
 豬婆龍	cu1 bo1 lung1
 豬尾巴	cu1 vi2 pa1
 豬拱菌	cu1 kung2 jiun3
 豬流感	cu1 lieu1 kon2
-豺狼座	dza1 lang1 dzo3
+豺狼座	dze1 lang1 dzo3
 貝克爾	pe3 kheh el2
 貝努力	pe3 nu2 lih
 貝多芬	pe3 to1 fen1
@@ -34658,8 +34658,8 @@ sort: by_weight
 賣面子	ma3 mian3 tzy2
 賣風流	ma3 fung1 lieu1
 賤骨頭	dzian3 kueh deu1
-賴昌星	la3 chang1 sin1
-賴聲川	la3 shen1 chuon1
+賴昌星	le3 chang1 sin1
+賴聲川	le3 shen1 chuon1
 購物袋	keu3 veh de3
 購買力	keu3 ma2 lih
 購買者	keu3 ma2 ce2
@@ -34759,7 +34759,7 @@ sort: by_weight
 跳樓價	diau1 leu1 cia3
 跳皮筋	diau1 be1 cin1
 跳跳糖	diau1 diau1 dang1
-踏雪板	thoh siah pan2
+踏雪板	thoh sioh pan2
 踢腳板	thih ciak pan2
 踢腳線	thih ciak sian3
 踢踏舞	thih thoh vu2
@@ -34794,7 +34794,7 @@ sort: by_weight
 軟耳朵	zhuon2 el2 to2
 軟脂酸	zhuon2 cu1 suon1
 軟腳蝦	zhuon2 ciak ya1
-軟腳蟹	zhuon2 ciak ya3
+軟腳蟹	zhuon2 ciak ye3
 軟骨病	zhuon2 kueh bin3
 軟骨魚	zhuon2 kueh yu1
 軟體業	zhuon2 thi2 yah
@@ -34950,8 +34950,8 @@ sort: by_weight
 邁赫迪	ma3 heh dih
 邁阿密	ma3 o1 mih
 邈冥冥	muk min1 min1
-邊界層	pian1 cia3 dzen1
-邊界線	pian1 cia3 sian3
+邊界層	pian1 cie3 dzen1
+邊界線	pian1 cie3 sian3
 邊緣人	pian1 yon1 zhen1
 邊緣化	pian1 yon1 hua3
 邊角科	pian1 ciuk kho1
@@ -35003,7 +35003,7 @@ sort: by_weight
 配電櫃	phe3 dian3 gue3
 配電站	phe3 dian3 tzan3
 酒店業	tzieu2 tian3 yah
-酒泉市	tzieu2 dzian1 zhu3
+酒泉市	tzieu2 dzion1 zhu3
 酒渣鼻	tzieu2 tza1 bi3
 酒石酸	tzieu2 zheh suon1
 酒精性	tzieu2 tzin1 sin3
@@ -35085,7 +35085,7 @@ sort: by_weight
 金蘭譜	cin1 lan1 pu2
 金融家	cin1 yung1 cia1
 金融業	cin1 yung1 yah
-金融界	cin1 yung1 cia3
+金融界	cin1 yung1 cie3
 金角灣	cin1 ciuk uan1
 金鈴子	cin1 lin1 tzy2
 金銀塊	cin1 yin1 khue3
@@ -35197,7 +35197,7 @@ sort: by_weight
 開爾文	khe1 el2 ven1
 開瓶器	khe1 bin1 chi3
 開發商	khe1 fah shang1
-開眼界	khe1 yan2 cia3
+開眼界	khe1 yan2 cie3
 開紅盤	khe1 ghung1 bon1
 開綠燈	khe1 luk ten1
 開胃菜	khe1 we3 tse3
@@ -35211,7 +35211,7 @@ sort: by_weight
 開闢者	khe1 bih ce2
 開麥拉	khe1 meh lah
 開黑店	khe1 heh tian3
-開齋節	khe1 tza1 tziah
+開齋節	khe1 tze1 tziah
 閑聊天	yan1 liau1 thian1
 間接稅	cian3 tziah shue3
 間諜網	cian3 diah vang2
@@ -35253,7 +35253,7 @@ sort: by_weight
 阿初佛	o1 tsu1 veh
 阿利藤	o1 li3 den1
 阿加維	o1 cia1 vi1
-阿勒泰	o1 leh tha3
+阿勒泰	o1 leh the3
 阿圖什	o1 du1 zheh
 阿堵物	o1 tu2 veh
 阿多諾	o1 to1 nuk
@@ -35279,7 +35279,7 @@ sort: by_weight
 阿波羅	o1 po1 lo1
 阿爾山	o1 el2 san1
 阿爾法	o1 el2 fah
-阿爾泰	o1 el2 tha3
+阿爾泰	o1 el2 the3
 阿物兒	o1 veh el1
 阿瑞斯	o1 zhue3 sy1
 阿皮亞	o1 be1 ia3
@@ -35308,7 +35308,7 @@ sort: by_weight
 附面層	vu3 mian3 dzen1
 陌路人	meh lu3 zhen1
 限時信	yan3 zhu1 sin3
-限界線	yan3 cia3 sian3
+限界線	yan3 cie3 sian3
 陝甘寧	shon2 kon1 nyin1
 陣亡者	jen3 vang1 ce2
 陪審員	be1 shen2 yun1
@@ -35319,7 +35319,7 @@ sort: by_weight
 陰道口	in1 dau3 kheu2
 陰道炎	in1 dau3 yan1
 陰陽家	in1 yang1 cia1
-陷落帶	yan3 luk ta3
+陷落帶	yan3 luk te3
 陸克文	luk kheh ven1
 陸均松	luk ciun1 zung1
 陸探微	luk thon1 vi1
@@ -35331,13 +35331,13 @@ sort: by_weight
 陽春市	yang1 chen1 zhu3
 陽春麵	yang1 chen1 mian3
 陽江市	yang1 ciang1 zhu3
-陽泉市	yang1 dzian1 zhu3
+陽泉市	yang1 dzion1 zhu3
 陽關道	yang1 kuan1 dau3
 陽電子	yang1 dian3 tzy2
 陽電極	yang1 dian3 jih
 隆隆聲	lung1 lung1 shen1
-階段性	cia1 duon3 sin3
-階級式	cia1 cih sheh
+階段性	cie1 duon3 sin3
+階級式	cie1 cih sheh
 隕石坑	yun2 zheh khen1
 隨州市	zue1 ceu1 zhu3
 隨機性	zue1 ci1 sin3
@@ -35392,7 +35392,7 @@ sort: by_weight
 雙子座	suang1 tzy2 dzo3
 雙學位	suang1 yuk we3
 雙層床	suang1 dzen1 dzuang1
-雙性戀	suang1 sin3 lian3
+雙性戀	suang1 sin3 lion3
 雙曲線	suang1 chiuk sian3
 雙曲面	suang1 chiuk mian3
 雙月刊	suang1 yoh khon1
@@ -35426,14 +35426,14 @@ sort: by_weight
 雞西市	ci1 si1 zhu3
 雞霍亂	ci1 huk luon3
 雞頭米	ci1 deu1 mi2
-雪佛蘭	siah veh lan1
-雪佛龍	siah veh lung1
-雪利酒	siah li3 tzieu2
-雪地靴	siah di3 shio1
-雪嶽山	siah yuk san1
-雪蘭莪	siah lan1 ngo1
-雪鐵龍	siah thiah lung1
-雪頓節	siah ten3 tziah
+雪佛蘭	sioh veh lan1
+雪佛龍	sioh veh lung1
+雪利酒	sioh li3 tzieu2
+雪地靴	sioh di3 shiu1
+雪嶽山	sioh yuk san1
+雪蘭莪	sioh lan1 ngo1
+雪鐵龍	sioh thiah lung1
+雪頓節	sioh ten3 tziah
 雲浮市	yun1 vu1 zhu3
 雲貴川	yun1 kue3 chuon1
 雷亞爾	lue1 ia3 el2
@@ -35476,7 +35476,7 @@ sort: by_weight
 電導體	dian3 dau3 thi2
 電弧焊	dian3 wu1 hon2
 電影獎	dian3 in2 tziang2
-電影界	dian3 in2 cia3
+電影界	dian3 in2 cie3
 電影節	dian3 in2 tziah
 電抗器	dian3 khang3 chi3
 電擊棒	dian3 cih bang3
@@ -35546,7 +35546,7 @@ sort: by_weight
 非利士	fi1 li3 dzu3
 非同步	fi1 dung1 bu3
 非吸煙	fi1 shih ian1
-非寫實	fi1 sia2 zheh
+非寫實	fi1 si2 zheh
 非導體	fi1 dau3 thi2
 非層巖	fi1 dzen1 yan1
 非層狀	fi1 dzen1 dzuang3
@@ -35557,7 +35557,7 @@ sort: by_weight
 非核化	fi1 gheh hua3
 非模態	fi1 mu1 the3
 非洲人	fi1 ceu1 zhen1
-非洲界	fi1 ceu1 cia3
+非洲界	fi1 ceu1 cie3
 非營利	fi1 yung1 li3
 非獨立	fi1 duk lih
 非盈利	fi1 yin1 li3
@@ -35572,9 +35572,9 @@ sort: by_weight
 革命性	keh min3 sin3
 革蘭陽	keh lan1 yang1
 革製品	keh cu3 phin2
-靴掖子	shio1 yih tzy2
-靴籬鶯	shio1 li1 in1
-靴隼鵰	shio1 sin2 tiau1
+靴掖子	shiu1 yih tzy2
+靴籬鶯	shiu1 li1 in1
+靴隼鵰	shiu1 sin2 tiau1
 鞏義市	kung2 yi3 zhu3
 鞭毛綱	pian1 mau1 kang1
 韋慕庭	we1 mu3 din1
@@ -35699,7 +35699,7 @@ sort: by_weight
 馬可尼	ma2 kho2 nyi1
 馬哈迪	ma2 ngoh dih
 馬天尼	ma2 thian1 nyi1
-馬太溝	ma2 tha3 keu1
+馬太溝	ma2 the3 keu1
 馬家軍	ma2 cia1 ciun1
 馬尼拉	ma2 nyi1 lah
 馬尾松	ma2 vi2 zung1
@@ -35742,7 +35742,7 @@ sort: by_weight
 馬賽曲	ma2 se3 chiuk
 馬路口	ma2 lu3 kheu2
 馬蹄形	ma2 di1 yin1
-馬蹄蟹	ma2 di1 ya3
+馬蹄蟹	ma2 di1 ye3
 馬蹄鐵	ma2 di1 thiah
 馬連良	ma2 lian1 liang1
 馬里蘭	ma2 li2 lan1
@@ -35782,7 +35782,7 @@ sort: by_weight
 體溫計	thi2 uen1 ci3
 體育場	thi2 yuk jang1
 體育渣	thi2 yuk tza1
-體育界	thi2 yuk cia3
+體育界	thi2 yuk cie3
 體育系	thi2 yuk yi3
 體育館	thi2 yuk kuon3
 髮型師	fah yin1 su1
@@ -35887,9 +35887,9 @@ sort: by_weight
 鹹絲絲	yan1 sy1 sy1
 鹹豬手	yan1 cu1 sheu2
 鹹酥雞	yan1 su1 ci1
-鹿泉市	luk dzian1 zhu3
+鹿泉市	luk dzion1 zhu3
 鹿特丹	luk deh tan1
-鹿皮靴	luk be1 shio1
+鹿皮靴	luk be1 shiu1
 鹿苑寺	luk ion2 zy3
 鹿草鄉	luk tsau2 shiang1
 鹿豹座	luk pau3 dzo3
@@ -35943,7 +35943,7 @@ sort: by_weight
 黃帝族	wang1 ti3 dzuk
 黃庭堅	wang1 din1 cian1
 黃建南	wang1 cian3 non1
-黃昏戀	wang1 huen1 lian3
+黃昏戀	wang1 huen1 lion3
 黃水晶	wang1 shue2 tzin1
 黃浦江	wang1 phu2 ciang1
 黃海道	wang1 he2 dau3
@@ -36016,7 +36016,7 @@ sort: by_weight
 黑皮諾	heh be1 nuk
 黑眼珠	heh yan2 cu1
 黑瞎子	heh shiah tzy2
-黑矮星	heh ia2 sin1
+黑矮星	heh ie2 sin1
 黑箱子	heh siang1 tzy2
 黑糊糊	heh wu1 wu1
 黑翅鳶	heh shu3 yon1
@@ -36047,7 +36047,7 @@ sort: by_weight
 黨主席	tang2 cu2 zih
 黨八股	tang2 pah ku2
 黨項族	tang2 yang3 dzuk
-鼎泰豐	tin2 tha3 fung1
+鼎泰豐	tin2 the3 fung1
 鼠尾草	shu2 vi2 tsau2
 鼠得克	shu2 teh kheh
 鼠海豚	shu2 he2 den1
@@ -36074,8 +36074,8 @@ sort: by_weight
 龍安寺	lung1 on1 zy3
 龍宮貝	lung1 kung1 pe3
 龍形拳	lung1 yin1 jion1
-龍泉市	lung1 dzian1 zhu3
-龍泉驛	lung1 dzian1 yih
+龍泉市	lung1 dzion1 zhu3
+龍泉驛	lung1 dzion1 yih
 龍海市	lung1 he2 zhu3
 龍羊峽	lung1 yang1 yah
 龍膽紫	lung1 tan2 tzy2
@@ -36121,7 +36121,7 @@ sort: by_weight
 一展身手	ih con2 shen1 sheu2
 一帆風順	ih van1 fung1 zhen3
 一席之地	ih zih cu1 di3
-一帶一路	ih ta3 ih lu3
+一帶一路	ih te3 ih lu3
 一年到頭	ih nyian1 tau3 deu1
 一年半載	ih nyian1 pon3 tze2
 一年四季	ih nyian1 sy3 kue3
@@ -36175,7 +36175,7 @@ sort: by_weight
 一無所長	ih vu1 su2 jang1
 一犯再犯	ih van3 tze3 van3
 一琴一鶴	ih jin1 ih ghuk
-一瘸一拐	ih jio1 ih kua2
+一瘸一拐	ih jiu1 ih kua2
 一目了然	ih muk liau2 zhon1
 一目十行	ih muk zheh ghang1
 一直以來	ih jeh yi2 le1
@@ -36244,7 +36244,7 @@ sort: by_weight
 七旬老人	tsih zin1 lau2 zhen1
 七竅生煙	tsih chiau3 sen1 ian1
 七老八十	tsih lau2 pah zheh
-七聲音階	tsih shen1 in1 cia1
+七聲音階	tsih shen1 in1 cie1
 七葷八素	tsih shiun1 pah su3
 七言律詩	tsih yan1 lih shu1
 七零八碎	tsih lin1 pah sue3
@@ -36265,12 +36265,12 @@ sort: by_weight
 三次曲線	san1 tsy3 chiuk sian3
 三生有幸	san1 sen1 yeu2 yin3
 三藩叛亂	san1 fan1 bon3 luon3
-三角戀愛	san1 ciuk lian3 e3
+三角戀愛	san1 ciuk lion3 e3
 三貞九烈	san1 cen1 cieu2 liah
 三足金烏	san1 tzuk cin1 u1
 三軍用命	san1 ciun1 yung3 min3
 三馬同槽	san1 ma2 dung1 dzau1
-三點全露	san1 tian2 dzian1 lu3
+三點全露	san1 tian2 dzion1 lu3
 上天入地	zhang3 thian1 zheh di3
 上流社會	zhang3 lieu1 zhe3 we3
 上陣殺敵	zhang3 jen3 sah dih
@@ -36312,7 +36312,7 @@ sort: by_weight
 亂臣賊子	luon3 zhen1 dzeh tzy2
 了卻此生	liau2 chiak tsy2 sen1
 了無新意	liau2 vu1 sin1 i3
-二八佳人	el3 pah cia1 zhen1
+二八佳人	el3 pah cie1 zhen1
 二十一條	el3 zheh ih diau1
 二十一點	el3 zheh ih tian2
 二十五史	el3 zheh wu2 su2
@@ -36336,7 +36336,7 @@ sort: by_weight
 五七一代	wu2 tsih ih de3
 五代十國	wu2 de3 zheh kuk
 五口通商	wu2 kheu2 thung1 shang1
-五味俱全	wu2 vi3 ciu1 dzian1
+五味俱全	wu2 vi3 ciu1 dzion1
 五四運動	wu2 sy3 yun3 dung3
 五家渠市	wu2 cia1 jiu1 zhu3
 五彩繽紛	wu2 tse2 phin1 fen1
@@ -36350,7 +36350,7 @@ sort: by_weight
 五筆字型	wu2 pih dzy3 yin1
 五筆字形	wu2 pih dzy3 yin1
 五級士官	wu2 cih dzu3 kuon1
-五聲音階	wu2 shen1 in1 cia1
+五聲音階	wu2 shen1 in1 cie1
 五色繽紛	wu2 seh phin1 fen1
 五花八門	wu2 hua1 pah men1
 五顏六色	wu2 yan1 luk seh
@@ -36389,14 +36389,14 @@ sort: by_weight
 京杭運河	cin1 ghang1 yun3 gho1
 京郊日報	cin1 ciau1 zheh pau3
 亭亭玉立	din1 din1 yuk lih
-亭臺樓榭	din1 de1 leu1 zia3
+亭臺樓榭	din1 de1 leu1 zi3
 亭臺樓閣	din1 de1 leu1 kuk
 人中龍鳳	zhen1 cung1 lung1 vung3
 人之常情	zhen1 cu1 zhang1 dzin1
 人云亦云	zhen1 yun1 yih yun1
 人五人六	zhen1 wu2 zhen1 luk
 人人有責	zhen1 zhen1 yeu2 tzeh
-人人皆知	zhen1 zhen1 cia1 cu1
+人人皆知	zhen1 zhen1 cie1 cu1
 人傑地靈	zhen1 jiah di3 lin1
 人力資源	zhen1 lih tzy1 yon1
 人口稠密	zhen1 kheu2 jeu1 mih
@@ -36416,7 +36416,7 @@ sort: by_weight
 人文主義	zhen1 ven1 cu2 yi3
 人文社科	zhen1 ven1 zhe3 kho1
 人機工程	zhen1 ci1 kung1 jen1
-人機界面	zhen1 ci1 cia3 mian3
+人機界面	zhen1 ci1 cie3 mian3
 人權鬥士	zhen1 jion1 teu3 dzu3
 人民代表	zhen1 min1 de3 piau2
 人民公敵	zhen1 min1 kung1 dih
@@ -36432,7 +36432,7 @@ sort: by_weight
 人流手術	zhen1 lieu1 sheu2 zheh
 人滿為患	zhen1 mon2 we1 wan3
 人無完人	zhen1 vu1 won1 zhen1
-人物描寫	zhen1 veh miau1 sia2
+人物描寫	zhen1 veh miau1 si2
 人琴俱亡	zhen1 jin1 ciu1 vang1
 人窮志短	zhen1 gung1 cu3 tuon2
 人老珠黃	zhen1 lau2 cu1 wang1
@@ -36442,7 +36442,7 @@ sort: by_weight
 人證物證	zhen1 cen3 veh cen3
 人財兩空	zhen1 dze1 liang2 khung1
 人贓俱獲	zhen1 tzang1 ciu1 ghuk
-人身安全	zhen1 shen1 on1 dzian1
+人身安全	zhen1 shen1 on1 dzion1
 人道主義	zhen1 dau3 cu2 yi3
 人間佛教	zhen1 cian3 veh ciau3
 人間喜劇	zhen1 cian3 shi2 jih
@@ -36456,7 +36456,7 @@ sort: by_weight
 人類起源	zhen1 lue3 chi2 yon1
 人體器官	zhen1 thi2 chi3 kuon1
 人體工學	zhen1 thi2 kung1 yuk
-人魚小姐	zhen1 yu1 siau2 tzia2
+人魚小姐	zhen1 yu1 siau2 tzi2
 什錦果盤	zheh cin2 ko2 bon1
 仁人君子	zhen1 zhen1 ciun1 tzy2
 仁人志士	zhen1 zhen1 cu3 dzu3
@@ -36483,8 +36483,8 @@ sort: by_weight
 以人廢言	yi2 zhen1 fi3 yan1
 以人為本	yi2 zhen1 we1 pen2
 以利亞敬	yi2 li3 ia3 cin3
-以太網絡	yi2 tha3 vang2 luk
-以太網路	yi2 tha3 vang2 lu3
+以太網絡	yi2 the3 vang2 luk
+以太網路	yi2 the3 vang2 lu3
 以夷制夷	yi2 yi1 cu3 yi1
 以弗所書	yi2 feh su2 shu1
 以強凌弱	yi2 jiang1 lin1 zhak
@@ -36550,8 +36550,8 @@ sort: by_weight
 佛羅倫薩	veh lo1 len1 sah
 佛蒙特州	veh mung1 deh ceu1
 佩皮尼昂	be3 be1 nyi1 ngang1
-佳人才子	cia1 zhen1 dze1 tzy2
-佳木斯市	cia1 muk sy1 zhu3
+佳人才子	cie1 zhen1 dze1 tzy2
+佳木斯市	cie1 muk sy1 zhu3
 來電答鈴	le1 dian3 toh lin1
 侏儒倉鼠	cu1 zhu1 tsang1 shu2
 依然故我	i1 zhon1 ku3 ngo2
@@ -36591,13 +36591,13 @@ sort: by_weight
 信貸危機	sin3 the3 we1 ci1
 修昔底德	sieu1 sih ti2 teh
 俯拾即是	fu2 zheh tzih zhu3
-俯拾皆是	fu2 zheh cia1 zhu3
+俯拾皆是	fu2 zheh cie1 zhu3
 倉皇失措	tsang1 wang1 sheh tsu3
 個人主義	ko3 zhen1 cu2 yi3
 個人儲蓄	ko3 zhen1 ju1 chuk
 個人崇拜	ko3 zhen1 dzung1 pa3
 個人電腦	ko3 zhen1 dian3 nau2
-值得信賴	ju3 teh sin3 la3
+值得信賴	ju3 teh sin3 le3
 值得品味	ju3 teh phin2 vi3
 值得敬佩	ju3 teh cin3 be3
 值得注意	ju3 teh cu3 i3
@@ -36660,25 +36660,25 @@ sort: by_weight
 入情入理	zheh dzin1 zheh li2
 入鄉隨俗	zheh shiang1 zue1 zuk
 入門課程	zheh men1 kho3 jen1
-全力以赴	dzian1 lih yi2 fu3
-全國各地	dzian1 kuk kuk di3
-全場一致	dzian1 jang1 ih cu3
-全局模塊	dzian1 jiuk mu1 khue3
-全心全意	dzian1 sin1 dzian1 i3
-全權代表	dzian1 jion1 de3 piau2
-全民健保	dzian1 min1 jian3 pau2
-全民皆兵	dzian1 min1 cia1 pin1
-全民英檢	dzian1 min1 in1 cian2
-全球暖化	dzian1 jieu1 nuon2 hua3
-全球變暖	dzian1 jieu1 pian3 nuon2
-全神灌注	dzian1 zhen1 kuon3 cu3
-全等圖形	dzian1 ten2 du1 yin1
-全羅北道	dzian1 lo1 puk dau3
-全羅南道	dzian1 lo1 non1 dau3
-全身而退	dzian1 shen1 el1 thue3
-全身麻醉	dzian1 shen1 ma1 tzue3
-全體人員	dzian1 thi2 zhen1 yun1
-全黨全軍	dzian1 tang2 dzian1 ciun1
+全力以赴	dzion1 lih yi2 fu3
+全國各地	dzion1 kuk kuk di3
+全場一致	dzion1 jang1 ih cu3
+全局模塊	dzion1 jiuk mu1 khue3
+全心全意	dzion1 sin1 dzion1 i3
+全權代表	dzion1 jion1 de3 piau2
+全民健保	dzion1 min1 jian3 pau2
+全民皆兵	dzion1 min1 cie1 pin1
+全民英檢	dzion1 min1 in1 cian2
+全球暖化	dzion1 jieu1 nuon2 hua3
+全球變暖	dzion1 jieu1 pian3 nuon2
+全神灌注	dzion1 zhen1 kuon3 cu3
+全等圖形	dzion1 ten2 du1 yin1
+全羅北道	dzion1 lo1 puk dau3
+全羅南道	dzion1 lo1 non1 dau3
+全身而退	dzion1 shen1 el1 thue3
+全身麻醉	dzion1 shen1 ma1 tzue3
+全體人員	dzion1 thi2 zhen1 yun1
+全黨全軍	dzion1 tang2 dzion1 ciun1
 八國集團	pah kuk dzih duon1
 八塊腹肌	pah khue3 fuk ci1
 八字命理	pah dzy3 min3 li2
@@ -36735,7 +36735,7 @@ sort: by_weight
 冤家對頭	ion1 cia1 tue3 deu1
 冤家路窄	ion1 cia1 lu3 tzeh
 冰壺秋月	pin1 wu1 tsieu1 yoh
-冰天雪地	pin1 thian1 siah di3
+冰天雪地	pin1 thian1 sioh di3
 冰河時代	pin1 gho1 zhu1 de3
 冰河時期	pin1 gho1 zhu1 ji1
 冰清玉潔	pin1 tsin1 yuk ciah
@@ -36819,14 +36819,14 @@ sort: by_weight
 加強管制	cia1 jiang1 kuon2 cu3
 加德滿都	cia1 teh mon2 tu1
 加拉加斯	cia1 lah cia1 sy1
-加拉太書	cia1 lah tha3 shu1
+加拉太書	cia1 lah the3 shu1
 加油添醋	cia1 yeu1 thian1 tsu3
 加深印象	cia1 shen1 in3 ziang3
 加爾各答	cia1 el2 kuk toh
 加足馬力	cia1 tzuk ma2 lih
 加里波第	cia1 li2 po1 di3
 加里肋亞	cia1 li2 leh ia3
-劣跡斑斑	liah tzih pan1 pan1
+劣跡斑斑	lioh tzih pan1 pan1
 助學貸款	dzu3 yuk the3 khuon2
 助紂為虐	dzu3 jeu3 we1 yak
 助記方法	dzu3 ci3 fang1 fah
@@ -36904,7 +36904,7 @@ sort: by_weight
 十二邊形	zheh el3 pian1 yin1
 十二面體	zheh el3 mian3 thi2
 十億位元	zheh ih we3 yon1
-十全十美	zheh dzian1 zheh me2
+十全十美	zheh dzion1 zheh me2
 十六位元	zheh luk we3 yon1
 十六字訣	zheh luk dzy3 cioh
 十六進制	zheh luk tzin3 cu3
@@ -36977,7 +36977,7 @@ sort: by_weight
 博士學位	puk dzu3 yuk we3
 博士買驢	puk dzu3 ma2 liu1
 博學多才	puk yuk to1 dze1
-博客寫手	puk kheh sia2 sheu2
+博客寫手	puk kheh si2 sheu2
 博客話劇	puk kheh wa3 jih
 博斯騰湖	puk sy1 den1 wu1
 博洛尼亞	puk luk nyi1 ia3
@@ -37061,7 +37061,7 @@ sort: by_weight
 各執一詞	kuk ceh ih zy1
 各就各位	kuk dzieu3 kuk we3
 各有千秋	kuk yeu2 tsian1 tsieu1
-各界人士	kuk cia3 zhen1 dzu3
+各界人士	kuk cie3 zhen1 dzu3
 各自為政	kuk dzy3 we1 cen3
 吉卜賽人	cih puk se3 zhen1
 吉普斯夸	cih phu2 sy1 khua1
@@ -37072,16 +37072,16 @@ sort: by_weight
 吉蘭丹州	cih lan1 tan1 ceu1
 吉蘭丹河	cih lan1 tan1 gho1
 吉里巴斯	cih li2 pa1 sy1
-同儕團體	dung1 dza1 duon1 thi2
-同儕壓力	dung1 dza1 iah lih
-同儕扶持	dung1 dza1 vu1 ju1
-同儕諮商	dung1 dza1 tzy1 shang1
+同儕團體	dung1 dze1 duon1 thi2
+同儕壓力	dung1 dze1 iah lih
+同儕扶持	dung1 dze1 vu1 ju1
+同儕諮商	dung1 dze1 tzy1 shang1
 同名同姓	dung1 min1 dung1 sin3
 同型配子	dung1 yin1 phe3 tzy2
 同工同酬	dung1 kung1 dung1 zheu1
 同心協力	dung1 sin1 yah lih
 同心同德	dung1 sin1 dung1 teh
-同性戀者	dung1 sin3 lian3 ce2
+同性戀者	dung1 sin3 lion3 ce2
 同班同學	dung1 pan1 dung1 yuk
 同聲一哭	dung1 shen1 ih khuk
 同聲翻譯	dung1 shen1 fan1 yih
@@ -37101,7 +37101,7 @@ sort: by_weight
 君主政體	ciun1 cu2 cen3 thi2
 君子之交	ciun1 tzy2 cu1 ciau1
 含含糊糊	ghon1 ghon1 wu1 wu1
-含味雋永	ghon1 vi3 dzian3 yung2
+含味雋永	ghon1 vi3 dzion3 yung2
 含垢忍辱	ghon1 keu2 zhen2 zhuk
 含忍恥辱	ghon1 zhen2 chu2 zhuk
 吱吱嘎嘎	chi3 chi3 ciah ciah
@@ -37115,8 +37115,8 @@ sort: by_weight
 呼吸系統	hu1 shih yi3 thung3
 呼牛呼馬	hu1 yeu1 hu1 ma2
 命名系統	min3 min1 yi3 thung3
-命歸黃泉	min3 kue1 wang1 dzian1
-命赴黃泉	min3 fu3 wang1 dzian1
+命歸黃泉	min3 kue1 wang1 dzion1
+命赴黃泉	min3 fu3 wang1 dzion1
 命途多舛	min3 du1 to1 chuon2
 咸鏡北道	yan1 cin3 puk dau3
 咸鏡南道	yan1 cin3 non1 dau3
@@ -37126,7 +37126,7 @@ sort: by_weight
 哈利路亞	ngoh li3 lu3 ia3
 哈利迪亞	ngoh li3 dih ia3
 哈姆雷特	ngoh meu3 lue1 deh
-哈巴雪山	ngoh pa1 siah san1
+哈巴雪山	ngoh pa1 sioh san1
 哈布斯堡	ngoh pu3 sy1 pau2
 哈德遜河	ngoh teh sen3 gho1
 哈爾斯塔	ngoh el2 sy1 thah
@@ -37178,14 +37178,14 @@ sort: by_weight
 嗤之以鼻	chu1 cu1 yi2 bi3
 嗷嗷待哺	ngau1 ngau1 de3 bu3
 嘉柏隆里	cia1 peh lung1 li2
-嘎嘎小姐	ciah ciah siau2 tzia2
+嘎嘎小姐	ciah ciah siau2 tzi2
 嘮嘮叨叨	tsau1 tsau1 thau1 thau1
 嘰嘰嘎嘎	ci1 ci1 ciah ciah
 器宇軒昂	chi3 yu2 shian1 ngang1
 器官移殖	chi3 kuon1 yi1 zheh
 嚴以律己	yan1 yi2 lih ci2
 嚴嚴實實	yan1 yan1 zheh zheh
-四個全面	sy3 ko3 dzian1 mian3
+四個全面	sy3 ko3 dzion1 mian3
 四壁蕭然	sy3 pih siau1 zhon1
 四季豆腐	sy3 kue3 deu3 vu3
 四川日報	sy3 chuon1 zheh pau3
@@ -37193,11 +37193,11 @@ sort: by_weight
 四川柳鶯	sy3 chuon1 lieu2 in1
 四川盆地	sy3 chuon1 ben1 di3
 四川雉鶉	sy3 chuon1 ju3 zhen1
-四庫全書	sy3 khu3 dzian1 shu1
+四庫全書	sy3 khu3 dzion1 shu1
 四捨五入	sy3 she2 wu2 zheh
 四日市市	sy3 zheh zhu3 zhu3
 四海為家	sy3 he2 we1 cia1
-四海皆准	sy3 he2 cia1 cen2
+四海皆准	sy3 he2 cie1 cen2
 四清運動	sy3 tsin1 yun3 dung3
 四眼田雞	sy3 yan2 dian1 ci1
 四級士官	sy3 cih dzu3 kuon1
@@ -37229,7 +37229,7 @@ sort: by_weight
 國家主義	kuk cia1 cu2 yi3
 國家代碼	kuk cia1 de3 ma2
 國家公園	kuk cia1 kung1 yon1
-國家安全	kuk cia1 on1 dzian1
+國家安全	kuk cia1 on1 dzion1
 國家政策	kuk cia1 cen3 tseh
 國家漢辦	kuk cia1 hon3 ban3
 國富兵強	kuk fu3 pin1 jiang1
@@ -37238,8 +37238,8 @@ sort: by_weight
 國有公司	kuk yeu2 kung1 sy1
 國民小學	kuk min1 siau2 yuk
 國民政府	kuk min1 cen3 fu2
-國泰民安	kuk tha3 min1 on1
-國泰航空	kuk tha3 ghang1 khung1
+國泰民安	kuk the3 min1 on1
+國泰航空	kuk the3 ghang1 khung1
 國破家亡	kuk pho3 cia1 vang1
 國美電器	kuk me2 dian3 chi3
 國色天香	kuk seh thian1 shiang1
@@ -37256,12 +37256,12 @@ sort: by_weight
 國際電話	kuk tzi3 dian3 wa3
 圓形劇場	yon1 yin1 jih jang1
 圓錐曲線	yon1 cue1 chiuk sian3
-圖形界面	du1 yin1 cia3 mian3
+圖形界面	du1 yin1 cie3 mian3
 圖書館員	du1 shu1 kuon3 yun1
 圖木舒克	du1 muk shu1 kheh
 圖財害命	du1 dze1 ghe3 min3
 地主家庭	di3 cu2 cia1 din1
-地主階級	di3 cu2 cia1 cih
+地主階級	di3 cu2 cie1 cih
 地動山搖	di3 dung3 san1 yau1
 地勤人員	di3 jin1 zhen1 yun1
 地地道道	di3 di3 dau3 dau3
@@ -37325,8 +37325,8 @@ sort: by_weight
 堆案盈几	tue1 on3 yin1 ci2
 堆龍德慶	tue1 lung1 teh chin3
 堪薩斯州	khon1 sah sy1 ceu1
-報仇雪恥	pau3 jieu1 siah chu2
-報仇雪恨	pau3 jieu1 siah ghen3
+報仇雪恥	pau3 jieu1 sioh chu2
+報仇雪恨	pau3 jieu1 sioh ghen3
 報紙報導	pau3 cu2 pau3 dau3
 塔吉克人	thah cih kheh zhen1
 塔吉克族	thah cih kheh dzuk
@@ -37360,7 +37360,7 @@ sort: by_weight
 外掛程式	we3 kua3 jen1 sheh
 外搭程式	we3 thah jen1 sheh
 外貌主義	we3 mau3 cu2 yi3
-夙夜匪懈	suk ya3 fi2 cia3
+夙夜匪懈	suk ya3 fi2 cie3
 多元宇宙	to1 yon1 yu2 jeu3
 多力多滋	to1 lih to1 tzy1
 多勞多得	to1 lau1 to1 teh
@@ -37430,14 +37430,14 @@ sort: by_weight
 天體主義	thian1 thi2 cu2 yi3
 天體力學	thian1 thi2 lih yuk
 天體物理	thian1 thi2 veh li2
-太公兵法	tha3 kung1 pin1 fah
-太子太保	tha3 tzy2 tha3 pau2
-太空舞步	tha3 khung1 vu2 bu3
-太陽眼鏡	tha3 yang1 yan2 cin3
-太陽電池	tha3 yang1 dian3 ju1
-太陽黑子	tha3 yang1 heh tzy2
-太魯閣族	tha3 lu2 kuk dzuk
-太麻里鄉	tha3 ma1 li2 shiang1
+太公兵法	the3 kung1 pin1 fah
+太子太保	the3 tzy2 the3 pau2
+太空舞步	the3 khung1 vu2 bu3
+太陽眼鏡	the3 yang1 yan2 cin3
+太陽電池	the3 yang1 dian3 ju1
+太陽黑子	the3 yang1 heh tzy2
+太魯閣族	the3 lu2 kuk dzuk
+太麻里鄉	the3 ma1 li2 shiang1
 失之交臂	sheh cu1 ciau1 pi3
 失效日期	sheh yau3 zheh ji1
 失物招領	sheh veh cau1 lin2
@@ -37477,7 +37477,7 @@ sort: by_weight
 婆羅門教	bo1 lo1 men1 ciau3
 婦人之仁	vu3 zhen1 cu1 zhen1
 婦姑勃谿	vu3 ku1 beh chi1
-婦孺皆知	vu3 zhu3 cia1 cu1
+婦孺皆知	vu3 zhu3 cie1 cu1
 婦道人家	vu3 dau3 zhen1 cia1
 媒體自由	me1 thi2 dzy3 yeu1
 嫁雞隨雞	cia3 ci1 zue1 ci1
@@ -37521,12 +37521,12 @@ sort: by_weight
 學術自由	yuk zheh dzy3 yeu1
 宇宙飛船	yu2 jeu3 fi1 zhuon1
 宇普西龍	yu2 phu2 si1 lung1
-安全無恙	on1 dzian1 vu1 yang3
-安全無虞	on1 dzian1 vu1 yu1
-安全眼罩	on1 dzian1 yan2 tzau3
-安全考慮	on1 dzian1 khau2 liu3
+安全無恙	on1 dzion1 vu1 yang3
+安全無虞	on1 dzion1 vu1 yu1
+安全眼罩	on1 dzion1 yan2 tzau3
+安全考慮	on1 dzion1 khau2 liu3
 安史之亂	on1 su2 cu1 luon3
-安如泰山	on1 zhu1 tha3 san1
+安如泰山	on1 zhu1 the3 san1
 安如磐石	on1 zhu1 bon1 zheh
 安家立業	on1 cia1 lih yah
 安富尊榮	on1 fu3 tzen1 yung1
@@ -37544,10 +37544,10 @@ sort: by_weight
 安閑隨意	on1 yan1 zue1 i3
 安非他命	on1 fi1 tho1 min3
 安非他明	on1 fi1 tho1 min1
-完全懂得	won1 dzian1 tung2 teh
+完全懂得	won1 dzion1 tung2 teh
 完好如初	won1 hau2 zhu1 tsu1
 完好無損	won1 hau2 vu1 sen2
-完完全全	won1 won1 dzian1 dzian1
+完完全全	won1 won1 dzion1 dzion1
 完形測驗	won1 yin1 tseh yan3
 完璧之身	won1 pih cu1 shen1
 完璧歸趙	won1 pih kue1 jau3
@@ -37562,8 +37562,8 @@ sort: by_weight
 官宦人家	kuon1 wan3 zhen1 cia1
 官廳水庫	kuon1 thin1 shue2 khu3
 官渡之戰	kuon1 du3 cu1 con3
-宣誓就職	sian1 zhu3 dzieu3 ceh
-宣誓證言	sian1 zhu3 cen3 yan1
+宣誓就職	sion1 zhu3 dzieu3 ceh
+宣誓證言	sion1 zhu3 cen3 yan1
 室邇人遐	sheh el2 zhen1 ya1
 宮澤喜一	kung1 dzeh shi2 ih
 宰予晝寢	tze2 yu1 ceu3 tsin2
@@ -37592,7 +37592,7 @@ sort: by_weight
 富國安民	fu3 kuk on1 min1
 富國強兵	fu3 kuk jiang1 pin1
 富富有餘	fu3 fu3 yeu2 yu1
-富布賴特	fu3 pu3 la3 deh
+富布賴特	fu3 pu3 le3 deh
 富拉爾基	fu3 lah el2 ci1
 富蘭克林	fu3 lan1 kheh lin1
 察察為明	tsah tsah we1 min1
@@ -37646,7 +37646,7 @@ sort: by_weight
 小兩口兒	siau2 liang2 kheu2 el1
 小型巴士	siau2 yin1 pa1 dzu3
 小家碧玉	siau2 cia1 pih yuk
-小寫字母	siau2 sia2 dzy3 meu2
+小寫字母	siau2 si2 dzy3 meu2
 小山包包	siau2 san1 pau1 pau1
 小心翼翼	siau2 sin1 yih yih
 小手小腳	siau2 sheu2 siau2 ciak
@@ -37700,12 +37700,12 @@ sort: by_weight
 巍然屹立	we1 zhon1 yih lih
 川端康成	chuon1 tuon1 khang1 zhen1
 工人日報	kung1 zhen1 zheh pau3
-工人階級	kung1 zhen1 cia1 cih
+工人階級	kung1 zhen1 cie1 cih
 工業設計	kung1 yah shoh ci3
 工業革命	kung1 yah keh min3
 工礦用地	kung1 kuang2 yung3 di3
 工程圖學	kung1 jen1 du1 yuk
-工薪階層	kung1 sin1 cia1 dzen1
+工薪階層	kung1 sin1 cie1 dzen1
 工藝美術	kung1 yi3 me2 zheh
 巫蠱之禍	vu1 ku2 cu1 gho3
 己型肝炎	ci2 yin1 kon1 yan1
@@ -37766,8 +37766,8 @@ sort: by_weight
 帝國主義	ti3 kuk cu2 yi3
 席凡寧根	zih van1 nyin1 ken1
 席地而睡	zih di3 el1 zhue3
-帶牛佩犢	ta3 yeu1 be3 duk
-帶電粒子	ta3 dian3 lih tzy2
+帶牛佩犢	te3 yeu1 be3 duk
+帶電粒子	te3 dian3 lih tzy2
 常來常往	zhang1 le1 zhang1 wang2
 常德絲弦	zhang1 teh sy1 yan1
 常規武器	zhang1 kue1 vu2 chi3
@@ -37864,7 +37864,7 @@ sort: by_weight
 得意忘形	teh i3 vang3 yin1
 得意揚揚	teh i3 yang1 yang1
 得道多助	teh dau3 to1 dzu3
-得魚忘筌	teh yu1 vang3 tsian1
+得魚忘筌	teh yu1 vang3 tsion1
 循循善誘	zin1 zin1 zhon3 yeu2
 循環系統	zin1 wan1 yi3 thung3
 循規蹈矩	zin1 kue1 dau3 ciu2
@@ -37935,7 +37935,7 @@ sort: by_weight
 忍無可忍	zhen2 vu1 kho2 zhen2
 忍痛割愛	zhen2 thung3 koh e3
 忍辱含垢	zhen2 zhuk ghon1 keu2
-忍辱求全	zhen2 zhuk jieu1 dzian1
+忍辱求全	zhen2 zhuk jieu1 dzion1
 志士仁人	cu3 dzu3 zhen1 zhen1
 志得意滿	cu3 teh i3 mon2
 忘乎所以	vang3 wu1 su2 yi2
@@ -37972,7 +37972,7 @@ sort: by_weight
 恩斯赫德	en1 sy1 heh teh
 恬愉之安	dian1 yu1 cu1 on1
 恭喜發財	kung1 shi2 fah dze1
-恭賀佳節	kung1 gho3 cia1 tziah
+恭賀佳節	kung1 gho3 cie1 tziah
 恭賀新禧	kung1 gho3 sin1 shi1
 恰帕斯州	chiah mah sy1 ceu1
 悄無聲息	tsiau2 vu1 shen1 sih
@@ -38057,8 +38057,8 @@ sort: by_weight
 懷俄明州	wa1 ngo1 min1 ceu1
 懷恨在心	wa1 ghen3 dze3 sin1
 懸浮微粒	yon1 vu1 vi1 lih
-戀母情結	lian3 meu2 dzin1 ciah
-戀舊情結	lian3 jieu3 dzin1 ciah
+戀母情結	lion3 meu2 dzin1 ciah
+戀舊情結	lion3 jieu3 dzin1 ciah
 戇頭戇腦	tzuang3 deu1 tzuang3 nau2
 戈德斯通	ko1 teh sy1 thung1
 戈斯拉爾	ko1 sy1 lah el2
@@ -38074,9 +38074,9 @@ sort: by_weight
 成考移民	zhen1 khau2 yi1 min1
 成雙成對	zhen1 suang1 zhen1 tue3
 我醉欲眠	ngo2 tzue3 yuk mian1
-戒備森嚴	cia3 be3 sen1 yan1
-戒奢崇儉	cia3 she1 dzung1 jian3
-戒驕戒躁	cia3 ciau1 cia3 tzau3
+戒備森嚴	cie3 be3 sen1 yan1
+戒奢崇儉	cie3 she1 dzung1 jian3
+戒驕戒躁	cie3 ciau1 cie3 tzau3
 戛然而止	ciah zhon1 el1 cu2
 戮力同心	luk lih dung1 sin1
 戰國七雄	con3 kuk tsih yung1
@@ -38100,8 +38100,8 @@ sort: by_weight
 手足口病	sheu2 tzuk kheu2 bin3
 手足無措	sheu2 tzuk vu1 tsu3
 手頭現金	sheu2 deu1 yan3 cin1
-才子佳人	dze1 tzy2 cia1 zhen1
-才貌雙全	dze1 mau3 suang1 dzian1
+才子佳人	dze1 tzy2 cie1 zhen1
+才貌雙全	dze1 mau3 suang1 dzion1
 扎扎實實	tzah tzah zheh zheh
 扎賚特旗	tzah le3 deh ji1
 扎魯特旗	tzah lu2 deh ji1
@@ -38136,7 +38136,7 @@ sort: by_weight
 拉克替醇	lah kheh thi3 zhen1
 拉卜楞寺	lah puk len1 zy3
 拉姆安拉	lah meu3 on1 lah
-拉家帶口	lah cia1 ta3 kheu2
+拉家帶口	lah cia1 te3 kheu2
 拉布拉多	lah pu3 lah to1
 拉斯穆森	lah sy1 muk sen1
 拉普拉斯	lah phu2 lah sy1
@@ -38147,10 +38147,10 @@ sort: by_weight
 拉開架勢	lah khe1 cia3 shu3
 拉馬特甘	lah ma2 deh kon1
 拋頭露面	phau1 deu1 lu3 mian3
-拍案叫絕	pheh on3 ciau3 dziah
+拍案叫絕	pheh on3 ciau3 dzioh
 拍案而起	pheh on3 el1 chi2
 拒之門外	jiu3 cu1 men1 we3
-拖家帶口	tho3 cia1 ta3 kheu2
+拖家帶口	tho3 cia1 te3 kheu2
 拖拖拉拉	tho3 tho3 lah lah
 拖拖沓沓	tho3 tho3 doh doh
 招人喜歡	cau1 zhen1 shi2 huon1
@@ -38168,7 +38168,7 @@ sort: by_weight
 拼花地板	pin1 hua1 di3 pan2
 拼音字母	pin1 in1 dzy3 meu2
 拼音文字	pin1 in1 ven1 dzy3
-拼音階段	pin1 in1 cia1 duon3
+拼音階段	pin1 in1 cie1 duon3
 拾人牙慧	zheh zhen1 ya1 yi3
 持續時間	ju1 zuk zhu1 cian3
 指指點點	cu2 cu2 tian2 tian2
@@ -38180,7 +38180,7 @@ sort: by_weight
 按照字面	on3 cau3 dzy3 mian3
 按照法律	on3 cau3 fah lih
 按部就班	on3 bu3 dzieu3 pan1
-捋臂揎拳	luoh pi3 sian1 jion1
+捋臂揎拳	luoh pi3 sion1 jion1
 捐贈盈餘	yon1 dzen3 yin1 yu1
 捕風捉影	bu3 fung1 tzuk in2
 捨己救人	she2 ci2 cieu3 zhen1
@@ -38240,8 +38240,8 @@ sort: by_weight
 攀誣陷害	phan1 vu1 yan3 ghe3
 攀附權貴	phan1 vu3 jion1 kue3
 攀龍附鳳	phan1 lung1 vu3 vung3
-攜家帶口	yi1 cia1 ta3 kheu2
-攜家帶眷	yi1 cia1 ta3 cion3
+攜家帶口	yi1 cia1 te3 kheu2
+攜家帶眷	yi1 cia1 te3 cion3
 攜手並肩	yi1 sheu2 bin3 cian1
 支付得起	cu1 fu3 teh chi2
 改善通訊	ke2 zhon3 thung1 sin3
@@ -38277,7 +38277,7 @@ sort: by_weight
 文學巨匠	ven1 yuk jiu3 dziang3
 文明小史	ven1 min1 siau2 su2
 文武百官	ven1 vu2 peh kuon1
-文武雙全	ven1 vu2 suang1 dzian1
+文武雙全	ven1 vu2 suang1 dzion1
 文江學海	ven1 ciang1 yuk he2
 文牘主義	ven1 duk cu2 yi3
 文責自負	ven1 tzeh dzy3 vu3
@@ -38316,11 +38316,11 @@ sort: by_weight
 新愁舊恨	sin1 dzeu1 jieu3 ghen3
 新慕道團	sin1 mu3 dau3 duon1
 新新人類	sin1 sin1 zhen1 lue3
-新春佳節	sin1 chen1 cia1 tziah
+新春佳節	sin1 chen1 cie1 tziah
 新殖民化	sin1 zheh min1 hua3
 新民晚報	sin1 min1 van2 pau3
 新澤西州	sin1 dzeh si1 ceu1
-新熱帶界	sin1 zhoh ta3 cia3
+新熱帶界	sin1 zhoh te3 cie3
 新瓶舊酒	sin1 bin1 jieu3 tzieu2
 新義州市	sin1 yi3 ceu1 zhu3
 旁遮普邦	bang1 ce1 phu2 pang1
@@ -38430,7 +38430,7 @@ sort: by_weight
 暗灰鵑鶪	on3 hue1 cion1 ciuk
 暗無天日	on3 vu1 thian1 zheh
 暗綠柳鶯	on3 luk lieu2 in1
-暗腹雪雞	on3 fuk siah ci1
+暗腹雪雞	on3 fuk sioh ci1
 暗色鴉雀	on3 seh ia1 tziak
 暗送秋波	on3 sung3 tsieu1 po1
 暢所欲言	chang3 su2 yuk yan1
@@ -38449,14 +38449,14 @@ sort: by_weight
 替罪羔羊	thi3 dzue3 kau1 yang1
 替補隊員	thi3 pu2 due3 yun1
 替身演員	thi3 shen1 yan2 yun1
-最佳利益	tzue3 cia1 li3 ih
+最佳利益	tzue3 cie1 li3 ih
 最終幻想	tzue3 cung1 wan3 siang2
 有備無患	yeu2 be3 vu1 wan3
 有備而來	yeu2 be3 el1 le1
 有利可圖	yeu2 li3 kho2 du1
 有勇無謀	yeu2 yung2 vu1 mu1
 有口無心	yeu2 kheu2 vu1 sin1
-有口皆碑	yeu2 kheu2 cia1 pe1
+有口皆碑	yeu2 kheu2 cie1 pe1
 有史以來	yeu2 su2 yi2 le1
 有同情心	yeu2 dung1 dzin1 sin1
 有名亡實	yeu2 min1 vang1 zheh
@@ -38607,7 +38607,7 @@ sort: by_weight
 桑給巴爾	sang1 cih pa1 el2
 梅斯梅爾	me1 sy1 me1 el2
 梅河口市	me1 gho1 kheu2 zhu3
-梅里雪山	me1 li2 siah san1
+梅里雪山	me1 li2 sioh san1
 條斑竊蠹	diau1 pan1 tsiah tu3
 條條框框	diau1 diau1 khuang1 khuang1
 條紋噪鶥	diau1 ven1 sau3 me1
@@ -38633,10 +38633,10 @@ sort: by_weight
 機器人學	ci1 chi3 zhen1 yuk
 機器翻譯	ci1 chi3 fan1 yih
 機密文件	ci1 mih ven1 jian3
-機械工人	ci1 ya3 kung1 zhen1
-機械工程	ci1 ya3 kung1 jen1
-機械戰警	ci1 ya3 con3 cin2
-機械翻譯	ci1 ya3 fan1 yih
+機械工人	ci1 ye3 kung1 zhen1
+機械工程	ci1 ye3 kung1 jen1
+機械戰警	ci1 ye3 con3 cin2
+機械翻譯	ci1 ye3 fan1 yih
 機關布景	ci1 kuan1 pu3 cin2
 檔案建立	tang1 on3 cian3 lih
 檔案服務	tang1 on3 vuk vu3
@@ -38693,7 +38693,7 @@ sort: by_weight
 歸根到底	kue1 ken1 tau3 ti2
 歸根結底	kue1 ken1 ciah ti2
 死中求生	sy2 cung1 jieu1 sen1
-死乞白賴	sy2 chih beh la3
+死乞白賴	sy2 chih beh le3
 死亡筆記	sy2 vang1 pih ci3
 死心踏地	sy2 sin1 thoh di3
 死有餘辜	sy2 yeu2 yu1 ku1
@@ -38745,7 +38745,7 @@ sort: by_weight
 永無寧日	yung2 vu1 nyin1 zheh
 永無止境	yung2 vu1 cu2 cin2
 永貞革新	yung2 cen1 keh sin1
-求全責備	jieu1 dzian1 tzeh be3
+求全責備	jieu1 dzion1 tzeh be3
 求同存異	jieu1 dung1 dzen1 yi3
 求田問舍	jieu1 dian1 ven3 she2
 江南水鄉	ciang1 non1 shue2 shiang1
@@ -38753,7 +38753,7 @@ sort: by_weight
 江淮官話	ciang1 wa1 kuon1 wa3
 江湖藝人	ciang1 wu1 yi3 zhen1
 江酌之喜	ciang1 cak cu1 shi2
-汰舊換新	tha3 jieu3 won3 sin1
+汰舊換新	the3 jieu3 won3 sin1
 沁人心脾	tsin3 zhen1 sin1 bi1
 沃爾芬森	uk el2 fen1 sen1
 沅江九肋	yon1 ciang1 cieu2 leh
@@ -38771,7 +38771,7 @@ sort: by_weight
 沸沸揚揚	fi3 fi3 yang1 yang1
 油然而生	yeu1 zhon1 el1 sen1
 治國理政	ju1 kuk li2 cen3
-沼澤地帶	cau2 dzeh di3 ta3
+沼澤地帶	cau2 dzeh di3 te3
 沼澤山雀	cau2 dzeh san1 tziak
 法利賽人	fah li3 se3 zhen1
 法制日報	fah cu3 zheh pau3
@@ -38802,9 +38802,9 @@ sort: by_weight
 波西米亞	po1 si1 mi2 ia3
 注音一式	cu3 in1 ih sheh
 注音字母	cu3 in1 dzy3 meu2
-泰山北斗	tha3 san1 puk teu2
-泰晤士報	tha3 wu3 dzu3 pau3
-泰晤士河	tha3 wu3 dzu3 gho1
+泰山北斗	the3 san1 puk teu2
+泰晤士報	the3 wu3 dzu3 pau3
+泰晤士河	the3 wu3 dzu3 gho1
 洋洋自得	yang1 yang1 dzy3 teh
 洛克西德	luk kheh si1 teh
 洛陽紙貴	luk yang1 cu2 kue3
@@ -38874,7 +38874,7 @@ sort: by_weight
 清風兩袖	tsin1 fung1 liang2 zieu3
 清點帳目	tsin1 tian2 cang3 muk
 減壓程序	cian2 iah jen1 ziu3
-渤澥桑田	beh ya3 sang1 dian1
+渤澥桑田	beh ye3 sang1 dian1
 港英政府	ciang2 in1 cen3 fu2
 游客止步	yeu1 kheh cu2 bu3
 渺渺茫茫	miau2 miau2 mang1 mang1
@@ -38893,11 +38893,11 @@ sort: by_weight
 溫文爾雅	uen1 ven1 el2 ya2
 溫特圖爾	uen1 deh du1 el2
 溫良忍讓	uen1 liang1 zhen2 zhang3
-滅絕人性	miah dziah zhen1 sin3
+滅絕人性	miah dzioh zhen1 sin3
 滬寧鐵路	wu3 nyin1 thiah lu3
 滴里耷拉	tih li2 tah lah
 滿口應承	mon2 kheu2 in3 zhen1
-滿口胡柴	mon2 kheu2 wu1 dza1
+滿口胡柴	mon2 kheu2 wu1 dze1
 滿口胡言	mon2 kheu2 wu1 yan1
 滿口髒話	mon2 kheu2 tzang2 wa3
 滿園春色	mon2 yon1 chen1 seh
@@ -38905,7 +38905,7 @@ sort: by_weight
 滿洲里市	mon2 ceu1 li2 zhu3
 滿清政府	mon2 tsin1 cen3 fu2
 滿滿登登	mon2 mon2 ten1 ten1
-滿漢全席	mon2 hon3 dzian1 zih
+滿漢全席	mon2 hon3 dzion1 zih
 滿目琳琅	mon2 muk lin1 lang1
 滿腔熱忱	mon2 chiang1 zhoh zhen1
 滿腹牢騷	mon2 fuk lau1 sau1
@@ -38933,7 +38933,7 @@ sort: by_weight
 潔淨無瑕	ciah dzin3 vu1 ya1
 潔身自好	ciah shen1 dzy3 hau3
 潘塔納爾	phon1 thah noh el2
-潘太克斯	phon1 tha3 kheh sy1
+潘太克斯	phon1 the3 kheh sy1
 潮汐電站	jau1 zih dian3 tzan3
 澡身浴德	tzau2 shen1 yuk teh
 激濁揚清	cih dzuk yang1 tsin1
@@ -38960,7 +38960,7 @@ sort: by_weight
 灰腹噪鶥	hue1 fuk sau3 me1
 灰腹地鶯	hue1 fuk di3 in1
 灰腹角雉	hue1 fuk ciuk ju3
-灰色地帶	hue1 seh di3 ta3
+灰色地帶	hue1 seh di3 te3
 灰藍山雀	hue1 lan1 san1 tziak
 灰頭柳鶯	hue1 deu1 lieu2 in1
 灰頭椋鳥	hue1 deu1 liang1 tiau2
@@ -39021,7 +39021,7 @@ sort: by_weight
 無影無蹤	vu1 in2 vu1 tzung1
 無情無義	vu1 dzin1 vu1 yi3
 無憂無慮	vu1 ieu1 vu1 liu3
-無懈可擊	vu1 cia3 kho2 cih
+無懈可擊	vu1 cie3 kho2 cih
 無所用心	vu1 su2 yung3 sin1
 無所畏忌	vu1 su2 ue3 ji3
 無拘無束	vu1 ciu1 vu1 shuk
@@ -39058,7 +39058,7 @@ sort: by_weight
 煙花粉黛	ian1 hua1 fen2 de3
 煢煢孑立	jiung1 jiung1 ciah lih
 煥然一新	huon3 zhon1 ih sin1
-照本宣科	cau3 pen2 sian1 kho1
+照本宣科	cau3 pen2 sion1 kho1
 照片底版	cau3 phian3 ti2 pan2
 熙熙壤壤	shi1 shi1 zhang2 zhang2
 熟門熟路	zhuk men1 zhuk lu3
@@ -39109,7 +39109,7 @@ sort: by_weight
 特克斯河	deh kheh sy1 gho1
 特別客串	deh biah kheh kuan3
 特別待遇	deh biah de3 yu3
-特別感謝	deh biah kon2 zia3
+特別感謝	deh biah kon2 zi3
 特別護理	deh biah wu3 li2
 特技演員	deh ji3 yan2 yun1
 特技跳傘	deh ji3 diau1 san2
@@ -39149,7 +39149,7 @@ sort: by_weight
 獨夫民賊	duk fu1 min1 dzeh
 獨尊儒術	duk tzen1 zhu1 zheh
 獨攬市場	duk lan2 zhu3 jang1
-獨立宣言	duk lih sian1 yan1
+獨立宣言	duk lih sion1 yan1
 獨立戰爭	duk lih con3 tzen1
 獨立自主	duk lih dzy3 cu2
 獨膽英雄	duk tan2 in1 yung1
@@ -39158,13 +39158,13 @@ sort: by_weight
 玄之又玄	yon1 cu1 yeu3 yon1
 玉山噪鶥	yuk san1 sau3 me1
 玉山雀鶥	yuk san1 tziak me1
-玉帶海鵰	yuk ta3 he2 tiau1
+玉帶海鵰	yuk te3 he2 tiau1
 玉普西隆	yuk phu2 si1 lung1
 玉潔冰清	yuk ciah pin1 tsin1
 玉石俱焚	yuk zheh ciu1 ven1
 玉米澱粉	yuk mi2 dian3 fen2
 玉米糖漿	yuk mi2 dang1 tziang1
-玉龍雪山	yuk lung1 siah san1
+玉龍雪山	yuk lung1 sioh san1
 玩弄詞藻	won3 lung3 zy1 tzau2
 玩火自焚	won3 ho2 dzy3 ven1
 玻利維亞	pho1 li3 vi1 ia3
@@ -39266,7 +39266,7 @@ sort: by_weight
 病理學家	bin3 li2 yuk cia1
 病病殃殃	bin3 bin3 iang1 iang1
 痛快淋漓	thung3 khua3 lin1 li1
-痛性痙攣	thung3 sin3 jin3 lian1
+痛性痙攣	thung3 sin3 jin3 lion1
 痛改前非	thung3 ke2 dzian1 fi1
 痛痛快快	thung3 thung3 khua3 khua3
 痴人痴福	chu1 zhen1 chu1 fuk
@@ -39323,7 +39323,7 @@ sort: by_weight
 白腰文鳥	beh iau1 ven1 tiau2
 白腰濱鷸	beh iau1 pin1 yuh
 白腰草鷸	beh iau1 tsau2 yuh
-白腰雪雀	beh iau1 siah tziak
+白腰雪雀	beh iau1 sioh tziak
 白腹幽鶥	beh fuk ieu1 me1
 白腹海鵰	beh fuk he2 tiau1
 白腹錦雞	beh fuk cin2 ci1
@@ -39333,8 +39333,8 @@ sort: by_weight
 白跑一趟	beh phau2 ih tzen3
 白金漢宮	beh cin1 hon3 kung1
 白金漢郡	beh cin1 hon3 jiun3
-白雪公主	beh siah kung1 cu2
-白雪皚皚	beh siah nge1 nge1
+白雪公主	beh sioh kung1 cu2
+白雪皚皚	beh sioh nge1 nge1
 白雲機場	beh yun1 ci1 jang1
 白面書生	beh mian3 shu1 sen1
 白頂玄鷗	beh tin2 yon1 eu1
@@ -39342,13 +39342,13 @@ sort: by_weight
 白領八哥	beh lin2 pah ko1
 白領翡翠	beh lin2 vi3 tsue3
 白領鳳鶥	beh lin2 vung3 me1
-白頭偕老	beh deu1 cia1 lau2
+白頭偕老	beh deu1 cie1 lau2
 白頭到老	beh deu1 tau3 lau2
 白頭鶪鶥	beh deu1 ciuk me1
 白頰噪鶥	beh ciah sau3 me1
 白頰黑雁	beh ciah heh yan3
 白香詞譜	beh shiang1 zy1 pu2
-白馬雪山	beh ma2 siah san1
+白馬雪山	beh ma2 sioh san1
 白點噪鶥	beh tian2 sau3 me1
 百依百順	peh i1 peh zhen3
 百利甜酒	peh li3 dian1 tzieu2
@@ -39362,7 +39362,7 @@ sort: by_weight
 百日維新	peh zheh vi1 sin1
 百歲老人	peh sue3 lau2 zhen1
 百無一失	peh vu1 ih sheh
-百無聊賴	peh vu1 liau1 la3
+百無聊賴	peh vu1 liau1 le3
 百眼巨人	peh yan2 jiu3 zhen1
 百端待舉	peh tuon1 de3 ciu2
 百花運動	peh hua1 yun3 dung3
@@ -39386,7 +39386,7 @@ sort: by_weight
 目中無人	muk cung1 vu1 zhen1
 目光所及	muk kuang1 su2 jih
 目光短淺	muk kuang1 tuon2 tsian2
-目無全牛	muk vu1 dzian1 yeu1
+目無全牛	muk vu1 dzion1 yeu1
 目無法紀	muk vu1 fah ci2
 目空四海	muk khung1 sy3 he2
 目迷五色	muk mi1 wu2 seh
@@ -39430,7 +39430,7 @@ sort: by_weight
 短時儲存	tuon2 zhu1 ju1 dzen1
 短期融資	tuon2 ji1 yung1 tzy1
 短腿獵犬	tuon2 thue2 liah chion2
-矮腳羅傘	ia2 ciak lo1 san2
+矮腳羅傘	ie2 ciak lo1 san2
 石器時代	zheh chi3 zhu1 de3
 石家莊市	zheh cia1 tzuang1 zhu3
 石河子市	zheh gho1 tzy2 zhu3
@@ -39461,7 +39461,7 @@ sort: by_weight
 祈福禳災	ji1 fuk zhang1 tze1
 祖祖輩輩	tzu2 tzu2 pe3 pe3
 神勞形瘁	zhen1 lau1 yin1 dzue3
-神妙雋美	zhen1 miau3 dzian3 me2
+神妙雋美	zhen1 miau3 dzion3 me2
 神工鬼斧	zhen1 kung1 kue2 fu2
 神志昏迷	zhen1 cu3 huen1 mi1
 神成為人	zhen1 zhen1 we1 zhen1
@@ -39506,21 +39506,21 @@ sort: by_weight
 秩序井然	jeh ziu3 tzin2 zhon1
 移動設備	yi1 dung3 shoh be3
 移動電話	yi1 dung3 dian3 wa3
-移情別戀	yi1 dzin1 biah lian3
+移情別戀	yi1 dzin1 biah lion3
 移花接木	yi1 hua1 tziah muk
 移送法辦	yi1 sung3 fah ban3
 稀有元素	shi1 yeu2 yon1 su3
 稀稀拉拉	shi1 shi1 lah lah
 稀裏糊塗	shi1 li2 wu1 du1
 程序設計	jen1 ziu3 shoh ci3
-程門立雪	jen1 men1 lih siah
+程門立雪	jen1 men1 lih sioh
 稍安勿躁	sau3 on1 veh tzau3
 稍安毋躁	sau3 on1 vu1 tzau3
 稻田葦鶯	dau3 dian1 we2 in1
 穆巴拉克	muk pa1 lah kheh
-穩如泰山	uen2 zhu1 tha3 san1
+穩如泰山	uen2 zhu1 the3 san1
 穩態理論	uen2 the3 li2 len3
-空中小姐	khung1 cung1 siau2 tzia2
+空中小姐	khung1 cung1 siau2 tzi2
 空中樓閣	khung1 cung1 leu1 kuk
 空中花園	khung1 cung1 hua1 yon1
 空中飛人	khung1 cung1 fi1 zhen1
@@ -39582,16 +39582,16 @@ sort: by_weight
 篝火狐鳴	keu1 ho2 wu1 min1
 篳路藍縷	pih lu3 lan1 liu2
 篳門閨竇	pih men1 ci1 deu3
-簡短介紹	cian2 tuon2 cia3 zhau3
+簡短介紹	cian2 tuon2 cie3 zhau3
 簡而言之	cian2 el1 yan1 cu1
-簡諧運動	cian2 ya1 yun3 dung3
+簡諧運動	cian2 ye1 yun3 dung3
 米利班德	mi2 li3 pan1 teh
 米納爾迪	mi2 noh el2 dih
 粉墨登場	fen2 meh ten1 jang1
 粉紅椋鳥	fen2 ghung1 liang1 tiau2
 粉身碎骨	fen2 shen1 sue3 kueh
 粒子物理	lih tzy2 veh li2
-粘皮帶骨	nyian1 be1 ta3 kueh
+粘皮帶骨	nyian1 be1 te3 kueh
 精益求精	tzin1 ih jieu1 tzin1
 精神奕奕	tzin1 zhen1 yih yih
 精神崩潰	tzin1 zhen1 pen1 we3
@@ -39678,11 +39678,11 @@ sort: by_weight
 結結巴巴	ciah ciah pa1 pa1
 結草銜環	ciah tsau2 yan1 wan1
 結黨營私	ciah tang2 yung1 sy1
-絕代佳人	dziah de3 cia1 zhen1
-絕密文件	dziah mih ven1 jian3
-絕對地址	dziah tue3 di3 cu2
-絕對連續	dziah tue3 lian1 zuk
-絕無僅有	dziah vu1 jin3 yeu2
+絕代佳人	dzioh de3 cie1 zhen1
+絕密文件	dzioh mih ven1 jian3
+絕對地址	dzioh tue3 di3 cu2
+絕對連續	dzioh tue3 lian1 zuk
+絕無僅有	dzioh vu1 jin3 yeu2
 統一口徑	thung3 ih kheu2 cin3
 統一戰線	thung3 ih con3 sian3
 統一新羅	thung3 ih sin1 lo1
@@ -39830,7 +39830,7 @@ sort: by_weight
 耶穌基督	ya1 su1 ci1 tuk
 聊以自慰	liau1 yi2 dzy3 ue3
 聊表寸心	liau1 piau2 tsen3 sin1
-聊齋志異	liau1 tza1 cu3 yi3
+聊齋志異	liau1 tze1 cu3 yi3
 聖佛明節	shen3 veh min1 tziah
 聖克魯斯	shen3 kheh lu2 sy1
 聖凱瑟琳	shen3 khe2 sih lin1
@@ -39840,7 +39840,7 @@ sort: by_weight
 聖多明哥	shen3 to1 min1 ko1
 聖安德魯	shen3 on1 teh lu2
 聖彼得堡	shen3 pe2 teh pau2
-聖德太子	shen3 teh tha3 tzy2
+聖德太子	shen3 teh the3 tzy2
 聖盧西亞	shen3 lu1 si1 ia3
 聖誕前夕	shen3 dan3 dzian1 zih
 聖誕老人	shen3 dan3 lau2 zhen1
@@ -39851,7 +39851,7 @@ sort: by_weight
 聲東擊西	shen1 tung1 cih si1
 聲色場所	shen1 seh jang1 su2
 聲類系統	shen1 lue3 yi3 thung3
-聶姆曹娃	nyiah meu3 dzau1 ia1
+聶姆曹娃	nyiah meu3 dzau1 ie1
 肄業證書	yi3 yah cen3 shu1
 肅然起敬	suk zhon1 chi2 cin3
 肆意妄為	sy3 i3 vang3 we1
@@ -39917,7 +39917,7 @@ sort: by_weight
 自強運動	dzy3 jiang1 yun3 dung3
 自慚形穢	dzy3 dzan1 yin1 ue3
 自成一家	dzy3 zhen1 ih cia1
-自我介紹	dzy3 ngo2 cia3 zhau3
+自我介紹	dzy3 ngo2 cie3 zhau3
 自我催眠	dzy3 ngo2 tsue1 mian1
 自我安慰	dzy3 ngo2 on1 ue3
 自我實現	dzy3 ngo2 zheh yan3
@@ -39993,7 +39993,7 @@ sort: by_weight
 芝焚蕙歎	cu1 ven1 yi3 than3
 芝蘭之室	cu1 lan1 cu1 sheh
 芝麻綠豆	cu1 ma1 luk deu3
-芥蘭牛肉	cia3 lan1 yeu1 zhuk
+芥蘭牛肉	cie3 lan1 yeu1 zhuk
 芭拉芭拉	pa1 lah pa1 lah
 花團錦簇	hua1 duon1 cin2 tsuk
 花天酒地	hua1 thian1 tzieu2 di3
@@ -40029,7 +40029,7 @@ sort: by_weight
 草原巨蜥	tsau2 yon1 jiu3 sih
 草原百靈	tsau2 yon1 peh lin1
 草字頭兒	tsau2 dzy3 deu1 el1
-草木皆兵	tsau2 muk cia1 pin1
+草木皆兵	tsau2 muk cie1 pin1
 草木鳥獸	tsau2 muk tiau2 sheu3
 草根網民	tsau2 ken1 vang2 min1
 草滿囹圄	tsau2 mon2 lin1 yu2
@@ -40037,8 +40037,8 @@ sort: by_weight
 草菅人命	tsau2 cian1 zhen1 min3
 荒淫無恥	huang1 yin1 vu1 chu2
 荒無人煙	huang1 vu1 zhen1 ian1
-荒謬絕倫	huang1 mieu3 dziah len1
-莎拉波娃	so1 lah po1 ia1
+荒謬絕倫	huang1 mieu3 dzioh len1
+莎拉波娃	so1 lah po1 ie1
 莘莘學子	sin1 sin1 yuk tzy2
 莫傑斯特	muk jiah sy1 deh
 莫克姆灣	muk kheh meu3 uan1
@@ -40056,8 +40056,8 @@ sort: by_weight
 萬水千山	van3 shue2 tsian1 san1
 萬無一失	van3 vu1 ih sheh
 萬目睽睽	van3 muk chi1 chi1
-萬籟俱寂	van3 la3 ciu1 dzih
-萬籟無聲	van3 la3 vu1 shen1
+萬籟俱寂	van3 le3 ciu1 dzih
+萬籟無聲	van3 le3 vu1 shen1
 萬紫千紅	van3 tzy2 tsian1 ghung1
 萬里江山	van3 li2 ciang1 san1
 落入法網	luk zheh fah vang2
@@ -40078,7 +40078,7 @@ sort: by_weight
 蓖麻毒素	pi1 ma1 duk su3
 蓬頭垢面	bung1 deu1 keu2 mian3
 蓽門圭竇	pih men1 ci1 deu3
-蔡司公司	tsa3 sy1 kung1 sy1
+蔡司公司	tse3 sy1 kung1 sy1
 蕪菁甘藍	vu1 tzin1 kon1 lan1
 蕭規曹隨	siau1 kue1 dzau1 zue1
 蕾絲花邊	lue2 sy1 hua1 pian1
@@ -40101,7 +40101,7 @@ sort: by_weight
 藍翅希鶥	lan1 shu3 shi1 me1
 藍耳翠鳥	lan1 el2 tsue3 tiau2
 藍顏知己	lan1 yan1 cu1 ci2
-藍飾帶花	lan1 sheh ta3 hua1
+藍飾帶花	lan1 sheh te3 hua1
 藥物學家	yak veh yuk cia1
 藥用價值	yak yung3 cia3 ju3
 蘅塘退士	ghen1 dang1 thue3 dzu3
@@ -40134,7 +40134,7 @@ sort: by_weight
 融為一體	yung1 we1 ih thi2
 螺母螺栓	lo1 meu2 lo1 suon1
 螺絲起子	lo1 sy1 chi2 tzy2
-蟹狀星雲	ya3 dzuang3 sin1 yun1
+蟹狀星雲	ye3 dzuang3 sin1 yun1
 蠟筆小新	lah pih siau2 sin1
 蠢蠢欲動	chen2 chen2 yuk dung3
 蠱惑人心	ku2 ghuk zhen1 sin1
@@ -40165,7 +40165,7 @@ sort: by_weight
 裝點門面	tzuang1 tian2 men1 mian3
 裸體主義	lo2 thi2 cu2 yi3
 褐山鷦鶯	ghoh san1 tziau1 in1
-褐翅雪雀	ghoh shu3 siah tziak
+褐翅雪雀	ghoh shu3 sioh tziak
 褐翅鴉雀	ghoh shu3 ia1 tziak
 褐翅鴉鵑	ghoh shu3 ia1 cion1
 褐頂雀鶥	ghoh tin2 tziak me1
@@ -40243,8 +40243,8 @@ sort: by_weight
 諾美克斯	nuk me2 kheh sy1
 諾貝爾獎	nuk pe3 el2 tziang2
 謀財害命	mu1 dze1 ghe3 min3
-謝天謝地	zia3 thian1 zia3 di3
-謝爾巴人	zia3 el2 pa1 zhen1
+謝天謝地	zi3 thian1 zi3 di3
+謝爾巴人	zi3 el2 pa1 zhen1
 證明完畢	cen3 min1 won1 pih
 證明文件	cen3 min1 ven1 jian3
 護國戰爭	wu3 kuk con3 tzen1
@@ -40272,7 +40272,7 @@ sort: by_weight
 豪情壯志	ghau1 dzin1 tzuang3 cu3
 豬朋狗友	cu1 ben1 keu2 yeu2
 豬水泡病	cu1 shue2 phau1 bin3
-豺狼虎豹	dza1 lang1 hu2 pau3
+豺狼虎豹	dze1 lang1 hu2 pau3
 貂裘換酒	tiau1 jieu1 won3 tzieu2
 貝克勒爾	pe3 kheh leh el2
 貝克漢姆	pe3 kheh hon3 meu3
@@ -40295,7 +40295,7 @@ sort: by_weight
 貪天之功	thon1 thian1 cu1 kung1
 貪賄無藝	thon1 hue2 vu1 yi3
 貪贓枉法	thon1 tzang1 uang2 fah
-責備求全	tzeh be3 jieu1 dzian1
+責備求全	tzeh be3 jieu1 dzion1
 責有攸歸	tzeh yeu2 yeu1 kue1
 責無旁貸	tzeh vu1 bang1 the3
 貴人多忘	kue3 zhen1 to1 vang3
@@ -40363,7 +40363,7 @@ sort: by_weight
 跑來跑去	phau2 le1 phau2 chiu3
 距狀皮層	jiu3 dzuang3 be1 dzen1
 距翅麥雞	jiu3 shu3 meh ci1
-路人皆知	lu3 zhen1 cia1 cu1
+路人皆知	lu3 zhen1 cie1 cu1
 路加福音	lu3 cia1 fuk in1
 路德維希	lu3 teh vi1 shi1
 路德雀鶥	lu3 teh tziak me1
@@ -40373,7 +40373,7 @@ sort: by_weight
 跳集體舞	diau1 dzih thi2 vu2
 踏破門檻	thoh pho3 men1 yan3
 踏踏實實	thoh thoh zheh zheh
-踏雪尋梅	thoh siah zin1 me1
+踏雪尋梅	thoh sioh zin1 me1
 蹈常襲故	dau3 zhang1 zih ku3
 躊躇滿志	jeu1 ju1 mon2 cu3
 躍躍欲試	yak yak yuk shu3
@@ -40409,9 +40409,9 @@ sort: by_weight
 辦公地址	ban3 kung1 di3 cu2
 辦公時間	ban3 kung1 zhu1 cian3
 農曆新年	nung1 lih sin1 nyian1
-農業機械	nung1 yah ci1 ya3
+農業機械	nung1 yah ci1 ye3
 農民起義	nung1 min1 chi2 yi3
-農民階級	nung1 min1 cia1 cih
+農民階級	nung1 min1 cie1 cih
 農貿市場	nung1 meu3 zhu3 jang1
 迄今為止	shih cin1 we1 cu2
 迪斯雷利	dih sy1 lue1 li3
@@ -40451,15 +40451,15 @@ sort: by_weight
 通貨緊縮	thung1 ho3 cin2 suk
 通關文牒	thung1 kuan1 ven1 diah
 逢凶化吉	vung1 shiung1 hua3 cih
-連拖帶拉	lian1 tho3 ta3 lah
-連本帶利	lian1 pen2 ta3 li3
+連拖帶拉	lian1 tho3 te3 lah
+連本帶利	lian1 pen2 te3 li3
 連結主義	lian1 ciah cu2 yi3
 連鎖商店	lian1 so2 shang1 tian3
 連鑣並軫	lian1 piau1 bin3 cen2
 進了天堂	tzin3 liau2 thian1 dang1
 進接服務	tzin3 tziah vuk vu3
 進步主義	tzin3 bu3 cu2 yi3
-進身之階	tzin3 shen1 cu1 cia1
+進身之階	tzin3 shen1 cu1 cie1
 進退失據	tzin3 thue3 sheh ciu3
 進退有常	tzin3 thue3 yeu2 zhang1
 進退無路	tzin3 thue3 vu1 lu3
@@ -40471,7 +40471,7 @@ sort: by_weight
 運籌帷幄	yun3 jeu1 we1 iuk
 遍地開花	pian3 di3 khe1 hua1
 遐邇一體	ya1 el2 ih thi2
-遐邇皆知	ya1 el2 cia1 cu1
+遐邇皆知	ya1 el2 cie1 cu1
 道山學海	dau3 san1 yuk he2
 道德困境	dau3 teh khuen3 cin2
 道貌岸然	dau3 mau3 ngon3 zhon1
@@ -40483,7 +40483,7 @@ sort: by_weight
 違強陵弱	we1 jiang1 lin1 zhak
 違心之言	we1 sin1 cu1 yan1
 違恩負義	we1 en1 vu3 yi3
-違時絕俗	we1 zhu1 dziah zuk
+違時絕俗	we1 zhu1 dzioh zuk
 違法亂紀	we1 fah luon3 ci2
 遙遙無期	yau1 yau1 vu1 ji1
 遮天蔽日	ce1 thian1 pi3 zheh
@@ -40519,7 +40519,7 @@ sort: by_weight
 醫學檢驗	i1 yuk cian2 yan3
 醫療保健	i1 liau3 pau2 jian3
 醫療保險	i1 liau3 pau2 shian2
-醫療器械	i1 liau3 chi3 ya3
+醫療器械	i1 liau3 chi3 ye3
 醫療護理	i1 liau3 wu3 li2
 醫藥商店	i1 yak shang1 tian3
 醫護人員	i1 wu3 zhen1 yun1
@@ -40581,8 +40581,8 @@ sort: by_weight
 鏡像站點	cin3 ziang3 tzan3 tian2
 鏡花水月	cin3 hua1 shue2 yoh
 鐘樓怪人	cung1 leu1 kua3 zhen1
-鐫心銘骨	tzian1 sin1 min1 kueh
-鐫骨銘心	tzian1 kueh min1 sin1
+鐫心銘骨	tzion1 sin1 min1 kueh
+鐫骨銘心	tzion1 kueh min1 sin1
 鐮倉幕府	lian1 tsang1 muk fu2
 鐮刀斧頭	lian1 tau1 fu2 deu1
 鐵人三項	thiah zhen1 san1 yang3
@@ -40635,7 +40635,7 @@ sort: by_weight
 阿克賽欽	o1 kheh se3 chin1
 阿利坎特	o1 li3 khon2 deh
 阿加迪爾	o1 cia1 dih el2
-阿勒泰市	o1 leh tha3 zhu3
+阿勒泰市	o1 leh the3 zhu3
 阿卜杜拉	o1 puk du3 lah
 阿司匹林	o1 sy1 phih lin1
 阿圖什市	o1 du1 zheh zhu3
@@ -40671,7 +40671,7 @@ sort: by_weight
 阿爾卑斯	o1 el2 pi1 sy1
 阿爾及爾	o1 el2 jih el2
 阿爾山市	o1 el2 san1 zhu3
-阿爾泰山	o1 el2 tha3 san1
+阿爾泰山	o1 el2 the3 san1
 阿爾薩斯	o1 el2 sah sy1
 阿特拉斯	o1 deh lah sy1
 阿特金斯	o1 deh cin1 sy1
@@ -40692,23 +40692,23 @@ sort: by_weight
 阿非利加	o1 fi1 li3 cia1
 阿鼻地獄	o1 bi3 di3 yuk
 附加元件	vu3 cia1 yon1 jian3
-附帶損害	vu3 ta3 sen2 ghe3
+附帶損害	vu3 te3 sen2 ghe3
 附贅懸疣	vu3 cue3 yon1 yeu1
 陝飛集團	shon2 fi1 dzih duon1
-陪唱小姐	be1 chang3 siau2 tzia2
+陪唱小姐	be1 chang3 siau2 tzi2
 陰曹地府	in1 dzau1 di3 fu2
 陰謀詭計	in1 mu1 kue2 ci3
 陸陸續續	luk luk zuk zuk
 陽光普照	yang1 kuang1 phu2 cau3
 陽奉陰違	yang1 vung3 in1 we1
-陽春白雪	yang1 chen1 beh siah
+陽春白雪	yang1 chen1 beh sioh
 隆乳手術	lung1 zhu2 sheu2 zheh
-階梯計價	cia1 thi1 ci3 cia3
-階級鬥爭	cia1 cih teu3 tzen1
+階梯計價	cie1 thi1 ci3 cia3
+階級鬥爭	cie1 cih teu3 tzen1
 隔壁有耳	keh pih yeu2 el2
 隔年皇曆	keh nyian1 wang1 lih
 隔牆有耳	keh dziang1 yeu2 el2
-隔靴搔癢	keh shio1 sau1 yang2
+隔靴搔癢	keh shiu1 sau1 yang2
 隨叫隨到	zue1 ciau3 zue1 tau3
 隨堂測驗	zue1 dang1 tseh yan3
 隨心所欲	zue1 sin1 su2 yuk
@@ -40726,7 +40726,7 @@ sort: by_weight
 雄心勃勃	yung1 sin1 beh beh
 雅丹地貌	ya2 tan1 di3 mau3
 雅拉神山	ya2 lah zhen1 san1
-雅拉雪山	ya2 lah siah san1
+雅拉雪山	ya2 lah sioh san1
 集恩廣益	dzih en1 kuang2 ih
 集成電路	dzih zhen1 dian3 lu3
 集腋成裘	dzih yih zhen1 jieu1
@@ -40757,10 +40757,10 @@ sort: by_weight
 雞同鴨講	ci1 dung1 iah ciang2
 雞犬升天	ci1 chion2 shen1 thian1
 雞鳴狗盜	ci1 min1 keu2 dau3
-雪上加霜	siah zhang3 cia1 suang1
-雪中送炭	siah cung1 sung3 than3
-雪山太子	siah san1 tha3 tzy2
-雪山獅子	siah san1 su1 tzy2
+雪上加霜	sioh zhang3 cia1 suang1
+雪中送炭	sioh cung1 sung3 than3
+雪山太子	sioh san1 the3 tzy2
+雪山獅子	sioh san1 su1 tzy2
 雲南柳鶯	yun1 non1 lieu2 in1
 雲岡石窟	yun1 kang1 zheh khueh
 雲石斑鴨	yun1 zheh pan1 iah
@@ -40830,23 +40830,23 @@ sort: by_weight
 非同小可	fi1 dung1 siau2 kho2
 非富則貴	fi1 fu3 tzeh kue3
 非富即貴	fi1 fu3 tzih kue3
-非常感謝	fi1 zhang1 kon2 zia3
+非常感謝	fi1 zhang1 kon2 zi3
 非常手段	fi1 zhang1 sheu2 duon3
 非核國家	fi1 gheh kuk cia1
-非核地帶	fi1 gheh di3 ta3
+非核地帶	fi1 gheh di3 te3
 非此即彼	fi1 tsy2 tzih pe2
 非誠勿擾	fi1 zhen1 veh zhiau2
 非阿貝爾	fi1 o1 pe3 el2
 非驢非馬	fi1 liu1 fi1 ma2
 非黨人士	fi1 tang2 zhen1 dzu3
 靡靡之音	me2 me2 cu1 in1
-面帶愁容	mian3 ta3 dzeu1 yung1
-面帶病容	mian3 ta3 bin3 yung1
+面帶愁容	mian3 te3 dzeu1 yung1
+面帶病容	mian3 te3 bin3 yung1
 面授機宜	mian3 zheu3 ci1 yi1
 面有菜色	mian3 yeu2 tse3 seh
 面無人色	mian3 vu1 zhen1 seh
 面目一新	mian3 muk ih sin1
-面目全非	mian3 muk dzian1 fi1
+面目全非	mian3 muk dzion1 fi1
 面目可憎	mian3 muk kho2 tzen1
 面紅耳赤	mian3 ghung1 el2 cheh
 面部表情	mian3 bu3 piau2 dzin1
@@ -40923,7 +40923,7 @@ sort: by_weight
 馬到成功	ma2 tau3 zhen1 kung1
 馬可波羅	ma2 kho2 po1 lo1
 馬可福音	ma2 kho2 fuk in1
-馬太福音	ma2 tha3 fuk in1
+馬太福音	ma2 the3 fuk in1
 馬失前蹄	ma2 sheh dzian1 di1
 馬尾軍港	ma2 vi2 ciun1 ciang2
 馬工枚速	ma2 kung1 me1 suk
@@ -40967,7 +40967,7 @@ sort: by_weight
 驚慌失色	cin1 huang2 sheh seh
 驢年馬月	liu1 nyian1 ma2 yoh
 骨幹網路	kueh kon3 vang2 lu3
-骨瘦如豺	kueh seu3 zhu1 dza1
+骨瘦如豺	kueh seu3 zhu1 dze1
 骨關節炎	kueh kuan1 tziah yan1
 骨頭架子	kueh deu1 cia3 tzy2
 骨頭節兒	kueh deu1 tziah el1
@@ -41073,7 +41073,7 @@ sort: by_weight
 黃額鴉雀	wang1 gheh ia1 tziak
 黑喉噪鶥	heh gheu1 sau3 me1
 黑喉山雀	heh gheu1 san1 tziak
-黑喉雪雀	heh gheu1 siah tziak
+黑喉雪雀	heh gheu1 sioh tziak
 黑喉鴉雀	heh gheu1 ia1 tziak
 黑天半夜	heh thian1 pon3 ya3
 黑客帝國	heh kheh ti3 kuk
@@ -41146,7 +41146,7 @@ sort: by_weight
 一退六二五	ih thue3 luk el3 wu2
 一遍又一遍	ih pian3 yeu3 ih pian3
 一項一項地	ih yang3 ih yang3 di3
-七帶石斑魚	tsih ta3 zheh pan1 yu1
+七帶石斑魚	tsih te3 zheh pan1 yu1
 中國氣象局	cung1 kuk chi3 ziang3 jiuk
 中國法學會	cung1 kuk fah yuk we3
 中國航海日	cung1 kuk ghang1 he2 zheh
@@ -41199,12 +41199,12 @@ sort: by_weight
 克里姆林宮	kheh li2 meu3 lin1 kung1
 克里木戰爭	kheh li2 muk con3 tzen1
 兜老底兜鍪	teu1 lau2 ti2 teu1 mu1
-全球資訊網	dzian1 jieu1 tzy1 sin3 vang2
-全端工程師	dzian1 tuon1 kung1 jen1 su1
-全鬚全尾兒	dzian1 siu1 dzian1 vi2 el1
+全球資訊網	dzion1 jieu1 tzy1 sin3 vang2
+全端工程師	dzion1 tuon1 kung1 jen1 su1
+全鬚全尾兒	dzion1 siu1 dzion1 vi2 el1
 八一建軍節	pah ih cian3 ciun1 tziah
 八級工資制	pah cih kung1 tzy1 cu3
-公共安全罪	kung1 gung3 on1 dzian1 dzue3
+公共安全罪	kung1 gung3 on1 dzion1 dzue3
 六二五戰爭	luk el3 wu2 con3 tzen1
 六十四位元	luk zheh sy3 we3 yon1
 典型登革熱	tian2 yin1 ten1 keh zhoh
@@ -41217,7 +41217,7 @@ sort: by_weight
 加值型網路	cia1 ju3 yin1 vang2 lu3
 加利福尼亞	cia1 li3 fuk nyi1 ia3
 加拉巴哥斯	cia1 lah pa1 ko1 sy1
-加泰羅尼亞	cia1 tha3 lo1 nyi1 ia3
+加泰羅尼亞	cia1 the3 lo1 nyi1 ia3
 加里肋亞海	cia1 li2 leh ia3 he2
 助一臂之力	dzu3 ih pi3 cu1 lih
 努庫阿洛法	nu2 khu3 o1 luk fah
@@ -41246,7 +41246,7 @@ sort: by_weight
 古生物學家	ku2 sen1 veh yuk cia1
 可持續發展	kho2 ju1 zuk fah con2
 史前古器物	su2 dzian1 ku2 chi3 veh
-司馬遼太郎	sy1 ma2 liau1 tha3 lang1
+司馬遼太郎	sy1 ma2 liau1 the3 lang1
 吃角子老虎	cih ciuk tzy2 lau2 hu2
 各拉丹冬山	kuk lah tan1 tung1 san1
 吉爾吉斯人	cih el2 cih sy1 zhen1
@@ -41273,7 +41273,7 @@ sort: by_weight
 因斯布魯克	in1 sy1 pu3 lu2 kheh
 國家圖書館	kuk cia1 du1 shu1 kuon3
 國家地震局	kuk cia1 di3 cen3 jiuk
-國家安全局	kuk cia1 on1 dzian1 jiuk
+國家安全局	kuk cia1 on1 dzion1 jiuk
 國家文物局	kuk cia1 ven1 veh jiuk
 國家海洋局	kuk cia1 he2 yang1 jiuk
 國家統計局	kuk cia1 thung3 ci3 jiuk
@@ -41316,12 +41316,12 @@ sort: by_weight
 天安門開了	thian1 on1 men1 khe1 liau2
 天體演化學	thian1 thi2 yan2 hua3 yuk
 天體物理學	thian1 thi2 veh li2 yuk
-太陽電池板	tha3 yang1 dian3 ju1 pan2
-太陽黑子周	tha3 yang1 heh tzy2 ceu1
+太陽電池板	the3 yang1 dian3 ju1 pan2
+太陽黑子周	the3 yang1 heh tzy2 ceu1
 失血性貧血	sheh shioh sin3 bin1 shioh
 威尼斯商人	ue1 nyi1 sy1 shang1 zhen1
 威斯康星州	ue1 sy1 khang1 sin1 ceu1
-婚姻介紹所	huen1 in1 cia3 zhau3 su2
+婚姻介紹所	huen1 in1 cie3 zhau3 su2
 媽了個巴子	mu2 liau2 ko3 pa1 tzy2
 媽拉個巴子	mu2 lah ko3 pa1 tzy2
 字根通用碼	dzy3 ken1 thung1 yung3 ma2
@@ -41341,7 +41341,7 @@ sort: by_weight
 小團體主義	siau2 duon1 thi2 cu2 yi3
 小型核武器	siau2 yin1 gheh vu2 chi3
 小灰山椒鳥	siau2 hue1 san1 tziau1 tiau2
-小百科全書	siau2 peh kho1 dzian1 shu1
+小百科全書	siau2 peh kho1 dzion1 shu1
 小黑領噪鶥	siau2 heh lin2 sau3 me1
 尤克里里琴	yeu1 kheh li2 li2 jin1
 尼安德塔人	nyi1 on1 teh thah zhen1
@@ -41365,7 +41365,7 @@ sort: by_weight
 布加勒斯特	pu3 cia1 leh sy1 deh
 布尼亞病毒	pu3 nyi1 ia3 bin3 duk
 布拉德福德	pu3 lah teh fuk teh
-布拉柴維爾	pu3 lah dza1 vi1 el2
+布拉柴維爾	pu3 lah dze1 vi1 el2
 布熱津斯基	pu3 zhoh tzin1 sy1 ci1
 布爾什維克	pu3 el2 zheh vi1 kheh
 希斯羅機場	shi1 sy1 lo1 ci1 jang1
@@ -41410,7 +41410,7 @@ sort: by_weight
 文件服務器	ven1 jian3 vuk vu3 chi3
 斑翅鳳頭鵑	pan1 shu3 vung3 deu1 cion1
 斯普特尼克	sy1 phu2 deh nyi1 kheh
-斯泰恩謝爾	sy1 tha3 en1 zia3 el2
+斯泰恩謝爾	sy1 the3 en1 zi3 el2
 斯洛文尼亞	sy1 luk ven1 nyi1 ia3
 斯洛維尼亞	sy1 luk vi1 nyi1 ia3
 斯特拉斯堡	sy1 deh lah sy1 pau2
@@ -41452,7 +41452,7 @@ sort: by_weight
 梅西耶星表	me1 si1 ya1 sin1 piau2
 極北朱頂雀	jih puk cu1 tin2 tziak
 橋式整流器	jiau1 sheh cen2 lieu1 chi3
-橋本龍太郎	jiau1 pen2 lung1 tha3 lang1
+橋本龍太郎	jiau1 pen2 lung1 the3 lang1
 檸檬酸循環	nen2 mung1 suon1 zin1 wan1
 次亞硫酸鈉	tsy3 ia3 lieu1 suon1 zhue3
 歷來最低點	lih le1 tzue3 ti1 tian2
@@ -41476,7 +41476,7 @@ sort: by_weight
 波斯普魯斯	po1 sy1 phu2 lu2 sy1
 波粒二象性	po1 lih el3 ziang3 sin3
 波美拉尼亞	po1 me2 lah nyi1 ia3
-泰米爾納德	tha3 mi2 el2 noh teh
+泰米爾納德	the3 mi2 el2 noh teh
 洛杉磯時報	luk san1 ci1 zhu1 pau3
 洛杉磯湖人	luk san1 ci1 wu1 zhen1
 派拉蒙影業	pha3 lah mung1 in2 yah
@@ -41493,7 +41493,7 @@ sort: by_weight
 滴漏計時器	tih leu3 ci3 zhu1 chi3
 漢城特別市	hon3 zhen1 deh biah zhu3
 潘多拉魔盒	phon1 to1 lah mo1 ghoh
-火尾太陽鳥	ho2 vi2 tha3 yang1 tiau2
+火尾太陽鳥	ho2 vi2 the3 yang1 tiau2
 火山碎屑流	ho2 san1 sue3 siah lieu1
 灰喉山椒鳥	hue1 gheu1 san1 tziau1 tiau2
 灰白喉林鶯	hue1 beh gheu1 lin1 in1
@@ -41509,7 +41509,7 @@ sort: by_weight
 烏蘭察布市	u1 lan1 tsah pu3 zhu3
 無名戰士墓	vu1 min1 con3 dzu3 mu3
 無名烈士墓	vu1 min1 liah dzu3 mu3
-無國界記者	vu1 kuk cia3 ci3 ce2
+無國界記者	vu1 kuk cie3 ci3 ce2
 無政府主義	vu1 cen3 fu2 cu2 yi3
 無紙化辦公	vu1 cu2 hua3 ban3 kung1
 無線電廣播	vu1 sian3 dian3 kuang2 po3
@@ -41534,7 +41534,7 @@ sort: by_weight
 環節動物門	wan1 tziah dung3 veh men1
 甲基苯丙胺	ciah ci1 pen2 pin2 oh
 異性性接觸	yi3 sin3 sin3 tziah chuk
-異性戀主義	yi3 sin3 lian3 cu2 yi3
+異性戀主義	yi3 sin3 lion3 cu2 yi3
 異源多倍體	yi3 yon1 to1 be3 thi2
 病急亂投醫	bin3 cih luon3 deu1 i1
 病毒式營銷	bin3 duk sheh yung1 siau1
@@ -41545,7 +41545,7 @@ sort: by_weight
 白喉短翅鶇	beh gheu1 tuon2 shu3 tung1
 白喉紅臀鵯	beh gheu1 ghung1 den1 pi1
 白斑尾柳鶯	beh pan1 vi2 lieu2 in1
-白斑翅雪雀	beh pan1 shu3 siah tziak
+白斑翅雪雀	beh pan1 shu3 sioh tziak
 白斑軍艦鳥	beh pan1 ciun1 yan3 tiau2
 白眉山鷓鴣	beh me1 san1 ce3 ku1
 白眶斑翅鶥	beh khuang1 pan1 shu3 me1
@@ -41561,7 +41561,7 @@ sort: by_weight
 直落布蘭雅	jeh luk pu3 lan1 ya2
 眼紋黃山雀	yan2 ven1 wang1 san1 tziak
 短尾信天翁	tuon2 vi2 sin3 thian1 ung1
-短尾矮袋鼠	tuon2 vi2 ia2 de3 shu2
+短尾矮袋鼠	tuon2 vi2 ie2 de3 shu2
 石英鹵素燈	zheh in1 lu2 su3 ten1
 硫代硫酸鈉	lieu1 de3 lieu1 suon1 zhue3
 神學研究所	zhen1 yuk yan3 cieu3 su2
@@ -41596,7 +41596,7 @@ sort: by_weight
 紋頭斑翅鶥	ven1 deu1 pan1 shu3 me1
 紫色花蜜鳥	tzy2 seh hua1 mih tiau2
 結婚紀念日	ciah huen1 ci2 nyian3 zheh
-綠喉太陽鳥	luk gheu1 tha3 yang1 tiau2
+綠喉太陽鳥	luk gheu1 the3 yang1 tiau2
 綠翅短腳鵯	luk shu3 tuon2 ciak pi1
 綠腳山鷓鴣	luk ciak san1 ce3 ku1
 維吉尼亞州	vi1 cih nyi1 ia3 ceu1
@@ -41639,7 +41639,7 @@ sort: by_weight
 舉賢良對策	ciu2 yan1 liang1 tue3 tseh
 舊石器時代	jieu3 zheh chi3 zhu1 de3
 航空航天局	ghang1 khung1 ghang1 thian1 jiuk
-色香味俱全	seh shiang1 vi3 ciu1 dzian1
+色香味俱全	seh shiang1 vi3 ciu1 dzion1
 花無百日紅	hua1 vu1 peh zheh ghung1
 英吉利海峽	in1 cih li3 he2 yah
 英式橄欖球	in1 sheh kon2 lan2 jieu1
@@ -41652,7 +41652,7 @@ sort: by_weight
 薩拉森帝國	sah lah sen1 ti3 kuk
 薩爾普斯堡	sah el2 phu2 sy1 pau2
 薩爾滸之戰	sah el2 hu2 cu1 con3
-藍喉太陽鳥	lan1 gheu1 tha3 yang1 tiau2
+藍喉太陽鳥	lan1 gheu1 the3 yang1 tiau2
 藍翅八色鶇	lan1 shu3 pah seh tung1
 藍色小精靈	lan1 seh siau2 tzin1 lin1
 藍鬚夜蜂虎	lan1 siu1 ya3 fung1 hu2
@@ -41660,7 +41660,7 @@ sort: by_weight
 蘇伊士運河	su1 i1 dzu3 yun3 gho1
 蘇必利爾湖	su1 pih li3 el2 wu1
 蘇維埃俄國	su1 vi1 e1 ngo1 kuk
-表意符階段	piau2 i3 vu1 cia1 duon3
+表意符階段	piau2 i3 vu1 cie1 duon3
 裂變同位素	liah pian3 dung1 we3 su3
 裸體主義者	lo2 thi2 cu2 yi3 ce2
 西孟加拉邦	si1 men3 cia1 lah pang1
@@ -41674,7 +41674,7 @@ sort: by_weight
 計算機工業	ci3 suon2 ci1 kung1 yah
 計算機模式	ci3 suon2 ci1 mu1 sheh
 計算機模擬	ci3 suon2 ci1 mu1 yi2
-記者無國界	ci3 ce2 vu1 kuk cia3
+記者無國界	ci3 ce2 vu1 kuk cie3
 變焦距鏡頭	pian3 tziau1 jiu3 cin3 deu1
 豆腐渣工程	deu3 vu3 tza1 kung1 jen1
 豬流感病毒	cu1 lieu1 kon2 bin3 duk
@@ -41730,7 +41730,7 @@ sort: by_weight
 阿爾巴尼亞	o1 el2 pa1 nyi1 ia3
 阿爾梅里亞	o1 el2 me1 li2 ia3
 阿爾法粒子	o1 el2 fah lih tzy2
-阿爾泰雪雞	o1 el2 tha3 siah ci1
+阿爾泰雪雞	o1 el2 the3 sioh ci1
 阿爾茨海默	o1 el2 dzy1 he2 meh
 阿米巴痢疾	o1 mi2 pa1 li3 dzih
 阿耳忒彌斯	o1 el2 theh mi1 sy1
@@ -41739,15 +41739,15 @@ sort: by_weight
 阿里斯託芳	o1 li2 sy1 thuk fang1
 阿非利加洲	o1 fi1 li3 cia1 ceu1
 阿魯科爾沁	o1 lu2 kho1 el2 tsin3
-雅典的泰門	ya2 tian2 tih tha3 men1
+雅典的泰門	ya2 tian2 tih the3 men1
 雌雄同體人	tsy1 yung1 dung1 thi2 zhen1
 雌雄同體性	tsy1 yung1 dung1 thi2 sin3
 雙斑綠柳鶯	suang1 pan1 luk lieu2 in1
 雙曲拋物面	suang1 chiuk phau1 veh mian3
 雙曲線正弦	suang1 chiuk sian3 cen3 yan1
 雙辮八色鶇	suang1 bian3 pah seh tung1
-雪佛龍公司	siah veh lung1 kung1 sy1
-雪山獅子旗	siah san1 su1 tzy2 ji1
+雪佛龍公司	sioh veh lung1 kung1 sy1
+雪山獅子旗	sioh san1 su1 tzy2 ji1
 雷克雅未克	lue1 kheh ya2 vi3 kheh
 雷克雅維克	lue1 kheh ya2 vi1 kheh
 電子化營業	dian3 tzy2 hua3 yung1 yah
@@ -41782,7 +41782,7 @@ sort: by_weight
 麥克德莫特	meh kheh teh muk deh
 麥克白夫人	meh kheh beh fu1 zhen1
 麥金塔電腦	meh cin1 thah dian3 nau2
-黃腰太陽鳥	wang1 iau1 tha3 yang1 tiau2
+黃腰太陽鳥	wang1 iau1 the3 yang1 tiau2
 黃腰響蜜鴷	wang1 iau1 shiang2 mih liah
 黃腹花蜜鳥	wang1 fuk hua1 mih tiau2
 黃花崗起義	wang1 hua1 kang1 chi2 yi3
@@ -41810,18 +41810,18 @@ sort: by_weight
 亞洲漠地林鶯	ia3 ceu1 muk di3 lin1 in1
 亞洲短趾百靈	ia3 ceu1 tuon2 cu2 peh lin1
 亞的斯亞貝巴	ia3 tih sy1 ia3 pe3 pa1
-交換以太網絡	ciau1 won3 yi2 tha3 vang2 luk
+交換以太網絡	ciau1 won3 yi2 the3 vang2 luk
 人文社會學科	zhen1 ven1 zhe3 we3 yuk kho1
 人民基本權利	zhen1 min1 ci1 pen2 jion1 li3
 人民民主專政	zhen1 min1 min1 cu2 cuon1 cen3
 人類乳突病毒	zhen1 lue3 zhu2 deh bin3 duk
-以太網絡端口	yi2 tha3 vang2 luk tuon1 kheu2
+以太網絡端口	yi2 the3 vang2 luk tuon1 kheu2
 伊斯蘭馬巴德	i1 sy1 lan1 ma2 pa1 teh
 伽利略探測器	jia1 li3 liak thon1 tseh chi3
 俄底浦斯情結	ngo1 ti2 phu2 sy1 dzin1 ciah
 修昔底德陷阱	sieu1 sih ti2 teh yan3 dzin3
-全民健康保險	dzian1 min1 jian3 khang1 pau2 shian2
-全美廣播公司	dzian1 me2 kuang2 po3 kung1 sy1
+全民健康保險	dzion1 min1 jian3 khang1 pau2 shian2
+全美廣播公司	dzion1 me2 kuang2 po3 kung1 sy1
 加利福尼亞州	cia1 li3 fuk nyi1 ia3 ceu1
 化學武器儲備	hua3 yuk vu2 chi3 ju1 be3
 化干戈為玉帛	hua3 kon1 ko1 we1 yuk beh
@@ -41859,7 +41859,7 @@ sort: by_weight
 多元文化主義	to1 yon1 ven1 hua3 cu2 yi3
 多發性骨髓瘤	to1 fah sin3 kueh sue2 lieu3
 多項式方程組	to1 yang3 sheh fang1 jen1 tzu2
-天無絕人之路	thian1 vu1 dziah zhen1 cu1 lu3
+天無絕人之路	thian1 vu1 dzioh zhen1 cu1 lu3
 天體物理學家	thian1 thi2 veh li2 yuk cia1
 妙妙熊歷險記	miau3 miau3 yung1 lih shian2 ci3
 客西馬尼花園	kheh si1 ma2 nyi1 hua1 yon1
@@ -41874,7 +41874,7 @@ sort: by_weight
 弗雷德里克頓	feh lue1 teh li2 kheh ten3
 彼一時此一時	pe2 ih zhu1 tsy2 ih zhu1
 德雷福斯案件	teh lue1 fuk sy1 on3 jian3
-快速以太網絡	khua3 suk yi2 tha3 vang2 luk
+快速以太網絡	khua3 suk yi2 the3 vang2 luk
 懸羊頭賣狗肉	yon1 yang1 deu1 ma3 keu2 zhuk
 拉斯帕爾馬斯	lah sy1 mah el2 ma2 sy1
 捷克斯洛伐克	dziah kheh sy1 luk vah kheh
@@ -41895,7 +41895,7 @@ sort: by_weight
 普雷克斯流程	phu2 lue1 kheh sy1 lieu1 jen1
 有一搭無一搭	yeu2 ih thah vu1 ih thah
 有統計學意義	yeu2 thung3 ci3 yuk i3 yi3
-本地管理界面	pen2 di3 kuon2 li2 cia3 mian3
+本地管理界面	pen2 di3 kuon2 li2 cie3 mian3
 東烏珠穆沁旗	tung1 u1 cu1 muk tsin3 ji1
 板門店停戰村	pan2 men1 tian3 din1 con3 tsen1
 梁唐晉漢周書	liang1 dang1 tzin3 hon3 ceu1 shu1
@@ -41904,7 +41904,7 @@ sort: by_weight
 民族主義情緒	min1 dzuk cu2 yi3 dzin1 ziu3
 法蘭克福學派	fah lan1 kheh fuk yuk pha3
 法蘭西體育場	fah lan1 si1 thi2 yuk jang1
-泰米爾納德邦	tha3 mi2 el2 noh teh pang1
+泰米爾納德邦	the3 mi2 el2 noh teh pang1
 消息靈通人士	siau1 sih lin1 thung1 zhen1 dzu3
 滿口之乎者也	mon2 kheu2 cu1 wu1 ce2 ya2
 烏滋別克斯坦	u1 tzy1 biah kheh sy1 than2
@@ -41912,7 +41912,7 @@ sort: by_weight
 特拉法加廣場	deh lah fah cia1 kuang2 jang1
 甲基安非他命	ciah ci1 on1 fi1 tho1 min3
 登機手續櫃檯	ten1 ci1 sheu2 zuk gue3 de1
-皇太極清太宗	wang1 tha3 jih tsin1 tha3 tzung1
+皇太極清太宗	wang1 the3 jih tsin1 the3 tzung1
 直布羅陀海峽	jeh pu3 lo1 do1 he2 yah
 盼星星盼月亮	phan3 sin1 sin1 phan3 yoh liang3
 睡眠呼吸暫停	zhue3 mian1 hu1 shih dzan3 din1
@@ -41924,11 +41924,11 @@ sort: by_weight
 第二型糖尿病	di3 el3 yin1 dang1 nyiau3 bin3
 第五個現代化	di3 wu2 ko3 yan3 de3 hua3
 筆記本計算機	pih ci3 pen2 ci3 suon2 ci1
-節肢介體病毒	tziah cu1 cia3 thi2 bin3 duk
+節肢介體病毒	tziah cu1 cie3 thi2 bin3 duk
 維多利亞公園	vi1 to1 li3 ia3 kung1 yon1
 維爾斯特拉斯	vi1 el2 sy1 deh lah sy1
 網絡管理系統	vang2 luk kuon2 li2 yi3 thung3
-網路節點介面	vang2 lu3 tziah tian2 cia3 mian3
+網路節點介面	vang2 lu3 tziah tian2 cie3 mian3
 美國國際集團	me2 kuk kuk tzi3 dzih duon1
 美國存託憑證	me2 kuk dzen1 thuk bin1 cen3
 美國廣播公司	me2 kuk kuang2 po3 kung1 sy1
@@ -41957,7 +41957,7 @@ sort: by_weight
 貧無立錐之地	bin1 vu1 lih cue1 cu1 di3
 軟件開發人員	zhuon2 jian3 khe1 fah zhen1 yun1
 退休金雙軌制	thue3 shieu1 cin1 suang1 kue2 cu3
-連續譯碼階段	lian1 zuk yih ma2 cia1 duon3
+連續譯碼階段	lian1 zuk yih ma2 cie1 duon3
 都什麼年代了	tu1 zheh mo2 nyian1 de3 liau2
 閱微草堂筆記	yoh vi1 tsau2 dang1 pih ci3
 阿斯圖里亞斯	o1 sy1 du1 li2 ia3 sy1
@@ -41969,7 +41969,7 @@ sort: by_weight
 阿魯納恰爾邦	o1 lu2 noh chiah el2 pang1
 陰德必有陽報	in1 teh pih yeu2 yang1 pau3
 雅拉香波神山	ya2 lah shiang1 po1 zhen1 san1
-雅拉香波雪山	ya2 lah shiang1 po1 siah san1
+雅拉香波雪山	ya2 lah shiang1 po1 sioh san1
 電腦輔助工程	dian3 nau2 vu3 dzu3 kung1 jen1
 非動物性名詞	fi1 dung3 veh sin3 min1 zy1
 非核武器國家	fi1 gheh vu2 chi3 kuk cia1
@@ -41995,7 +41995,7 @@ sort: by_weight
 印第安納波利斯	in3 di3 on1 noh po1 li3 sy1
 國際戰爭罪法庭	kuk tzi3 con3 tzen1 dzue3 fah din1
 坎貝爾侏儒倉鼠	khon2 pe3 el2 cu1 zhu1 tsang1 shu2
-太陽微系統公司	tha3 yang1 vi1 yi3 thung3 kung1 sy1
+太陽微系統公司	the3 yang1 vi1 yi3 thung3 kung1 sy1
 威斯敏斯特教堂	ue1 sy1 min2 sy1 deh ciau3 dang1
 媒體接口連接器	me1 thi2 tziah kheu2 lian1 tziah chi3
 小葵花鳳頭鸚鵡	siau2 gue1 hua1 vung3 deu1 in1 vu2
@@ -42015,11 +42015,11 @@ sort: by_weight
 舊民主主義革命	jieu3 min1 cu2 cu2 yi3 keh min3
 船到橋頭自然直	zhuon1 tau3 jiau1 deu1 dzy3 zhon1 jeh
 英雄無用武之地	in1 yung1 vu1 yung3 vu2 cu1 di3
-藥物代謝動力學	yak veh de3 zia3 dung3 lih yuk
+藥物代謝動力學	yak veh de3 zi3 dung3 lih yuk
 計算機輔助設計	ci3 suon2 ci1 vu3 dzu3 shoh ci3
 諾貝爾物理學獎	nuk pe3 el2 veh li2 yuk tziang2
 身在曹營心在漢	shen1 dze3 dzau1 yung1 sin1 dze3 hon3
-阿拉斯加雪橇犬	o1 lah sy1 cia1 siah chiau1 chion2
+阿拉斯加雪橇犬	o1 lah sy1 cia1 sioh chiau1 chion2
 阿靈頓國家公墓	o1 lin1 ten3 kuk cia1 kung1 mu3
 陣亡戰士紀念日	jen3 vang1 con3 dzu3 ci2 nyian3 zheh
 雲南白斑尾柳鶯	yun1 non1 beh pan1 vi2 lieu2 in1
@@ -42037,13 +42037,13 @@ sort: by_weight
 夾山國家森林公園	ciah san1 kuk cia1 sen1 lin1 kung1 yon1
 布魯克海文實驗室	pu3 lu2 kheh he2 ven1 zheh yan3 sheh
 日本電報電話公司	zheh pen2 dian3 pau3 dian3 wa3 kung1 sy1
-美國全國廣播公司	me2 kuk dzian1 kuk kuang2 po3 kung1 sy1
+美國全國廣播公司	me2 kuk dzion1 kuk kuang2 po3 kung1 sy1
 美國電話電報公司	me2 kuk dian3 wa3 dian3 pau3 kung1 sy1
 銷售時點情報系統	siau1 zheu3 zhu1 tian2 dzin1 pau3 yi3 thung3
 順我者昌逆我者亡	zhen3 ngo2 ce2 chang1 yih ngo2 ce2 vang1
 黃花崗七十二烈士	wang1 hua1 kang1 tsih zheh el3 liah dzu3
 二十年目睹之怪現狀	el3 zheh nyian1 muk tu2 cu1 kua3 yan3 dzuang3
-司馬昭之心路人皆知	sy1 ma2 cau1 cu1 sin1 lu3 zhen1 cia1 cu1
+司馬昭之心路人皆知	sy1 ma2 cau1 cu1 sin1 lu3 zhen1 cie1 cu1
 埃文河畔斯特拉特福	e1 ven1 gho1 bon3 sy1 deh lah deh fuk
 海森堡不确定性原理	he2 sen1 pau2 feh yuk din3 sin3 yon1 li2
 溫布爾登網球公開賽	uen1 pu3 el2 ten1 vang2 jieu1 kung1 khe1 se3
